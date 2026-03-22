@@ -1,0 +1,30 @@
+const axios = require('axios');
+
+async function getLiveStream(liveId) {
+    const config = {
+        method: 'get',
+        url: 'https://core-api.kablowebtv.com/api/channels?checkip=false',
+        headers: { 
+            'Authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9...', // Buraya kendi tokenınızı koyun
+            'User-Agent': 'Mozilla/5.0 (Web0S; Linux/SmartTV)',
+            'Origin': 'https://lg-client.kablowebtv.com',
+            'Referer': 'https://lg-client.kablowebtv.com/'
+        }
+    };
+
+    try {
+        const response = await axios(config);
+        const channels = response.data; // API genelde JSON döner, regex'e gerek kalmaz
+
+        // SidNumber'a göre kanalı buluyoruz
+        const kanal = channels.find(c => c.SidNumber == liveId);
+
+        if (kanal) {
+            return kanal.DefaultStreamUrl;
+        } else {
+            return "Kanal bulunamadı";
+        }
+    } catch (error) {
+        console.error("Hata:", error.message);
+    }
+}
