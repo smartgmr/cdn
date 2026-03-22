@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KabloWebTV Kanal Listesi</title>
+    <style>
+        body { font-family: sans-serif; background: #121212; color: #fff; text-align: center; padding: 20px; }
+        .container { max-width: 800px; margin: auto; }
+        .kanal-kart {
+            background: #1e1e1e;
+            padding: 15px;
+            margin: 10px;
+            border-radius: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border: 1px solid #333;
+        }
+        .btn {
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            padding: 8px 15px;
+            border-radius: 4px;
+        }
+        .btn:hover { background: #0056b3; }
+        #yukleniyor { color: orange; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Canlı Kanallar</h1>
+    <div id="yukleniyor">Veriler çekiliyor, lütfen bekleyin...</div>
+    <div id="kanal-listesi"></div>
+</div>
+
+<script>
+async function kanallariGetir() {
+    const apiUrl = 'https://core-api.kablowebtv.com/api/channels?checkip=false';
+    const proxyUrl = 'https://cors-anywhere.herokuapp.com/'; // CORS engelini aşmak için geçici proxy
+
+    try {
+        const response = await fetch(proxyUrl + apiUrl, {
+            method: 'GET',
+            headers: {
+                'Authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJjZ2QiOiIwOTNENzIwQS01MDJDLTQxRUQtQTgwRi0yQjgxNjk4NEZCOTUiLCJkaSI6IjliMDJkMzQ2LTk3MjgtNGQzMy1hYzAzLTEzNGFkN2Y2Yzc2YyIsImFwdiI6IjEuMC4wIiwiZW52IjoiTElWRSIsImFibiI6IjEwMDAiLCJzcGdkIjoiYTA5MDg3ODQtZDEyOC00NjFmLWI3NmBe-ZoqZNWnwDk', // Senin tokenın
+                'User-Agent': 'Mozilla/5.0 (Web0S; Linux/SmartTV)',
+                'Origin': 'https://lg-client.kablowebtv.com',
+                'Accept': 'application/json'
+            }
+        });
+
+        const data = await response.json();
+        const listeDiv = document.getElementById('kanal-listesi');
+        document.getElementById('yukleniyor').style.display = 'none';
+
+        // Gelen veriyi (JSON) döngüye sokup ekrana basıyoruz
+        data.forEach(kanal => {
+            const kart = document.createElement('div');
+            kart.className = 'kanal-kart';
+            kart.innerHTML = `
+                <span><strong>${kanal.SidNumber}</strong> - ${kanal.ChannelName || 'Kanal'}</span>
+                <a href="${kanal.DefaultStreamUrl}" class="btn" target="_blank">İzle</a>
+            `;
+            listeDiv.appendChild(kart);
+        });
+
+    } catch (error) {
+        document.getElementById('yukleniyor').innerText = 'Hata oluştu! (CORS engeline takılmış olabilir veya Token süresi dolmuş olabilir)';
+        console.error('Hata:', error);
+    }
+}
+
+// Sayfa açıldığında çalıştır
+kanallariGetir();
+</script>
+
+</body>
+</html>
