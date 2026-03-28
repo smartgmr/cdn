@@ -4057,3 +4057,287 @@ http://cdn.bulgariatv.workers.dev/?ID=maxsport4
 #EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.gledaitv.fan/upload/tv/o_nova-sport-logo_20240820145156.png",Nova Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
 http://cdn.bulgariatv.workers.dev/?ID=novasport
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMASPORT1.png",PrimaSport 1 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1406
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMASPORT2-1.png",PrimaSport 2 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1405
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMASPORT3-1.png",PrimaSport 3 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1401
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/primasport4.png",PrimaSport 4 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1871
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/primasport5.png",PrimaSport 5 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1873
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/prima-ppv1.png",PrimaSport PPV1
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1917
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/prima-ppv2.png",PrimaSport PPV2
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1921
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/prima-ppv3.png",PrimaSport PPV3
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1922
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/07/sigla-tvr-sport-1920x1080px_40674600.jpg",TVR Sport HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1778
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/SPORTEXTRA.png",SportExtra HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1400
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EUROSPORT-1.png",Eurosport 1 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1399
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EUROSPORT2HD.png",Eurosport 2 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1340
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PROARENA.png",Pro Arena HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1386
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NICKELODEON.png",Nickelodeon
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1479
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/MINIMAX.png",Minimax
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1478
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DUCKTV.png",Duck TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1477
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CARTOON-NETWORK.png",Cartoon Network
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1476
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/JIMJAM.png",Jim Jam
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1475
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NICKJR.png",Nick Jr.
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1474
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NICKTOONS.png",Nick Toons
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1473
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/1055172-cartoonitologoconfetti-1280.jpg",Cartoonito
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1470
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DISNEYCHANNEL.png",Disney Channel
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1469
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DISNEYJUNIOR.png",Disney Junior
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1467
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TRALALA.png",Tralala
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1457
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/05/tv-paprika.png",TV Paprika
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1765
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/05/hgtv.png",HGTV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1759
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/05/rai-1.png",RAI 1
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1757
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/05/rai-3.png",RAI 3
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1752
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/mireasa.jpeg",Mireasa TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2009
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/medocool.jpg",Medicool TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2007
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/jobtv.png",Job TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2005
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/hwllo-tATE.png",Hello Taste
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1994
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/HD365.webp",HD365
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1992
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/10/CATINEROO.png",Ca Tine
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1981
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/AGROTV.png",Agro TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1561
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TV-MOLDOVA-1.png",TV Moldova
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1559
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/BBC-EARTH.png",BBC Earth
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1558
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/FASION-TV.png",Fashion TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1556
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/E-ENTERRTAINENT.png",E Entertainment
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1554
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/FISHING-AND-HUNTING.png",Fishing and Hunting
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1551
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TLC.png",TLC
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1317
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/telestar-1.png",Telestar 1
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1316
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DISCOVERY-CHANNEL.png",Discovery Channel HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1553
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/crime-investigation.png",Crime & Investigation
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1899
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/id-investigation.png",ID Investigation
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1897
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NATINAL-GEOGRAPHIC.png",National Geographic HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1545
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NAT-GEO-WILD.png",National Geographic Wild HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1549
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/nat-geo-people.png",National Geographic People
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1894
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/VIASAT-NATURE.png",Viasat Nature HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1546
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/VIASAT-HISTORY.png",Viasat History HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1550
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/VIASAT-EXPLORER.png",Viasat Explore HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1319
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HISTORY-CHANNEL.png",History Channel HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1557
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/food.webp",Food Network HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1925
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TRAVEL-MIX.png",Travel Mix
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1555
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/05/da-vinci.png",DaVinci
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1763
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/10/dotto-tv.png",Dotto TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1983
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HBO.png",HBO HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1454
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HBO2.png",HBO 2 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1453
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HBO3.png",HBO 3 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1452
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/sky1.png",SkyShowTime 1 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1792
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/12/sky2.png",SkyShowTime 2 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1839
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CINEMAXHD.png",Cinemax HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1451
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CINEMAX2HD.png",Cinemax 2 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1450
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/12/BBC_First_Logo-2.png",BBC First HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1835
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/AMC.png",AMC HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1301
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/FILMNOW.png",Film Now HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1449
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIVA.png",DIVA
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1334
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/filmbox.png",FilmBox Extra
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1828
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/filmbox-plus.png",Filmbox Plus
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1968
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/sssss.png",FilmBox Premium
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1824
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/1000.png",TV 1000
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1817
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/AXN.png",AXN HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1560
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/axn-white.png",AXN White
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1811
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/axn-black.png",AXN Black
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1807
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/axn-spin.png",AXN Spin
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1809
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EPICDRAMA.png",EpicDrama
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1448
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/COMEDYCENTRAL.png",Comedy Central
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1447
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PROCINEMA.png",PRO Cinema
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1335
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PROTVHD.png",Pro TV HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1357
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ANTENA1HD.png",Antena 1 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1359
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/KANALDHD.png",Kanal D HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1376
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMATVHD.png",Prima TV HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1361
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HAPPYCHANNEL.png",Happy Channel HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1381
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ANTENASTARSHD.png",Antena Stars HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1385
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TVR1HD.png",TVR 1 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1377
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TVR2HD.png",TVR 2 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1379
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TVR3.png",TVR 3
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1339
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/02/tvri.png",TVR International
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1857
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/comedy-play.jpg",Antena Comedy
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1979
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ACASATVHD.png",Acasa TV HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1384
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ACASAGOLD.png",Acasa Gold HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1383
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NATIONALTV.png",National TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1382
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/METROPOLATV.png",Metropola TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1378
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NATIONAL24PLUS.png",National Plus 24
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1336
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/Kanal-D2-fin.png",KANAL D2 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1321
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NCNTV.png",NCN
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1312
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/KISSTV.png",Kiss TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1481
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ATOMIC.png",Atomic
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1499
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/mezzo.png",Mezzo
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1819
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/10/tvr-folclor-1920x1080px_68992300.jpg",TVR Folclor HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1789
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/impact-manele.png",Impact TV Manele
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2001
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/Impact-dance.png",Impact TV Dance
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1999
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/academy.png",Atomic Academy TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1976
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/magictv.png",Magic TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1517
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/FAVORITTV.png",TV Favorit
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1505
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TARAFTV.png",Taraf TV HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1504
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ETNOTV.png",EtnoTv HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1503
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/BALCANMUSICTV.png",Balcan Music TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1502
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ZUTV.png",ZU TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1500
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ROCKTV.png",Rock TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1325
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/MTV.png",MTV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1323
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TRADITIONALTV.png",Traditional TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1318
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PARTYMIX.png",Party Mix
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1313
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/tvarad.png",TV Arad
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2026
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/musceltv.png",Muscel TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2016
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/MOINESTI-TV.png",Moinesti TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2014
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/iasi-tv.jpg",Iasi TV Life
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1996
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/iasitv.png",Arges TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1990
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/a7tv.jpg",a7 TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1988
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/angelus.png",Angelus TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1974
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/Informatia-TV.png",Informatia TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2003
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TRINITAS.png",Trinitas TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1329
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/SPERANTATV.png",Speranta TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1328
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ALFAOMEGATV.png",Alfa Omega
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1327
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CREDOTV.png",Credo TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1304
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/MISA.png",Misa TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2012
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIGI24HD.png",Digi24 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1422
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ANTENA3HD.jpg",Antena 3 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1425
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/REALITATEAPLUS.png",Realitatea TV HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1424
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ROMANIATV.png",Romania TV HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1423
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EURONEWS-ROMANIA.png",Euronews Romania
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1421
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/B1TV.png",B1TV HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1420
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CNN.png",CNN
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1410
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/BBCWORLDNEWS.png",BBC World News
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1337
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMANEWS.png",Prima News
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1315
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/deusche.png",Deutsche Welle
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1813
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2024/11/nasul.png",Nasul TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1815
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/qub-tv.png",Qub TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2024
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/profi24.jpeg",Profi 24 TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2022
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/protv.jpg",PROTV News
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2020
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/observator.png",Observator News
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=2018
+#EXTINF:-1 group-title="Romania RDS TV" tvg-logo="https://rds.live/wp-content/uploads/2025/10/aleph.webp",Aleph News
+http://schedule-statutory-latex-colored.trycloudflare.com/Rds.php?ID=1972
