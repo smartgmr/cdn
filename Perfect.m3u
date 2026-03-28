@@ -461,3 +461,313 @@ http://live.cdn-polskie.workers.dev/?ID=64
 http://live.cdn-polskie.workers.dev/?ID=90
 #EXTINF:-1 group-title="PolskieTV"  tvg-logo="https://www.polskie.tv/play/images/logos/605.png",TVN Turbo
 http://live.cdn-polskie.workers.dev/?ID=105
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Ozbekiston242.jpg",O'zbekiston 24
+http://live.mediabaytv.workers.dev/?ID=393
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12222.jpg",O'zbekiston 
+http://live.mediabaytv.workers.dev/?ID=140
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/z2.png",Zo'rTV 
+http://live.mediabaytv.workers.dev/?ID=395
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/01-2023/790.jpg",Jibek Joly
+http://live.mediabaytv.workers.dev/?ID=682
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/6211.jpg",Ала-тоо 24
+http://live.mediabaytv.workers.dev/?ID=621
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TV-channels_0017_tochikiston.png",TVT 1
+http://live.mediabaytv.workers.dev/?ID=112
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/AzTVnew.png",AzTV
+http://live.mediabaytv.workers.dev/?ID=114
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ictimai.jpg",Ictimai TV
+http://live.mediabaytv.workers.dev/?ID=90
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://yt3.googleusercontent.com/T10TP4qbY584Rx30XlDn_7EPIvo4OsI6wtdlh2UCtQWithOqWNqxiSnhPY3EwX1oM4kevKcTEbI",Idman TV
+http://live.mediabaytv.workers.dev/?ID=92
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ONGlJrus24mb.png",Россия 24
+http://live.mediabaytv.workers.dev/?ID=234
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2019/TRT-World.png",TRT World
+http://live.mediabaytv.workers.dev/?ID=585
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/mediabay1235.png",Mediabay TV
+http://live.mediabaytv.workers.dev/?ID=491
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/J.png",Таджикская Музыка
+http://live.mediabaytv.workers.dev/?ID=495
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/uzbekmusic.png",Узбекская музыка
+http://live.mediabaytv.workers.dev/?ID=499
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/kaz.jpg",Казахские фильмы (тест)
+http://live.mediabaytv.workers.dev/?ID=545
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TJFILM.jpg",Таджикские фильмы (тест)
+http://live.mediabaytv.workers.dev/?ID=544
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/DWNews.png",DW News
+http://live.mediabaytv.workers.dev/?ID=605
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2018/254px-France24.png",France 24 
+http://live.mediabaytv.workers.dev/?ID=425
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/belorussiya.png",Беларусь 24
+http://live.mediabaytv.workers.dev/?ID=405
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/DW-Deutsch.png",DW Deutsch
+http://live.mediabaytv.workers.dev/?ID=604
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/varzish-backup.png",Varzish 
+http://live.mediabaytv.workers.dev/?ID=596
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2018/nt.png",Новое телевидение (Караганда)
+http://live.mediabaytv.workers.dev/?ID=467
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/atameken2020.png",Атамекен
+http://live.mediabaytv.workers.dev/?ID=407
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/xabar.png",Хабар 24
+http://live.mediabaytv.workers.dev/?ID=439
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/5600.jpg",Музыка 
+http://live.mediabaytv.workers.dev/?ID=560
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/04-2020/ilim-bilim.png",Илим Билим
+http://live.mediabaytv.workers.dev/?ID=611
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/eltr.png",ЭЛ ТР Кыргызстан
+http://live.mediabaytv.workers.dev/?ID=162
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/01-2019/8kanalua.png",8 Канал
+http://live.mediabaytv.workers.dev/?ID=505
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/milliylogo.png",MilliyTV 
+http://live.mediabaytv.workers.dev/?ID=391
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2021/Al-Jazeera-eng.png",Al Jazeera English
+http://live.mediabaytv.workers.dev/?ID=653
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2021/Al-Jazeera.png",Al Jazeera Arabic
+http://live.mediabaytv.workers.dev/?ID=654
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/FKz7Razadazerbaycantvmb.png",ATV (Azad Azerbaycan TV)
+http://live.mediabaytv.workers.dev/?ID=86
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/arb.png",ARB
+http://live.mediabaytv.workers.dev/?ID=571
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/08-2019/arb-24.png",ARB 24
+http://live.mediabaytv.workers.dev/?ID=572
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/aGaA6medeniyyettvmb.png",Medeniyyet
+http://live.mediabaytv.workers.dev/?ID=98
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/real-tv.png",Real TV
+http://live.mediabaytv.workers.dev/?ID=475
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/BSv97xezertvazmb.png",Xezer
+http://live.mediabaytv.workers.dev/?ID=104
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TcR96cbc.png",CBC (Caspian Broadcasting Company)
+http://live.mediabaytv.workers.dev/?ID=154
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2018/nrbtv.png",NRBTV
+http://live.mediabaytv.workers.dev/?ID=420
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/YoshlAR.png",Yoshlar
+http://live.mediabaytv.workers.dev/?ID=134
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/iTUCW2.png",Toshkent
+http://live.mediabaytv.workers.dev/?ID=136
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/A2i-t.png",A2itv
+http://live.mediabaytv.workers.dev/?ID=451
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/a2i-r.png",A2i Religion
+http://live.mediabaytv.workers.dev/?ID=452
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/a2i-music.png",A2i Music
+http://live.mediabaytv.workers.dev/?ID=453
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/flanguages.png",Foreign Languages (тест)
+http://live.mediabaytv.workers.dev/?ID=392
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ARABIC.png",France 24  Arabic
+http://live.mediabaytv.workers.dev/?ID=426
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/France24-Eng.png",France 24  English
+http://live.mediabaytv.workers.dev/?ID=428
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/franceesp.png",France 24  Espanol
+http://live.mediabaytv.workers.dev/?ID=427
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/logosinamo11494510073.png",Синамо
+http://live.mediabaytv.workers.dev/?ID=397
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Jf5xPjahonnamomb.png",Jahonnamo
+http://live.mediabaytv.workers.dev/?ID=106
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/tvbakhoriston.png",Bakhoristan
+http://live.mediabaytv.workers.dev/?ID=108
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/hfzKVtvsafinamb.png",Safina
+http://live.mediabaytv.workers.dev/?ID=110
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/GFX6X40.png",Dunyo Boylab
+http://live.mediabaytv.workers.dev/?ID=144
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/692.jpg",Istiqlol TV
+http://live.mediabaytv.workers.dev/?ID=692
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/693.jpg",NTV
+http://live.mediabaytv.workers.dev/?ID=693
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2023/480.jpg",Илм ва табиат
+http://live.mediabaytv.workers.dev/?ID=694
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/01-2024/4900.jpg",Ош Пирим
+http://live.mediabaytv.workers.dev/?ID=697
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/04-2024/500.jpg",Just TV
+http://live.mediabaytv.workers.dev/?ID=699
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/04-2024/505.jpg",Ishonch TV
+http://live.mediabaytv.workers.dev/?ID=700
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2024/525.jpg",LIVETVAZ
+http://live.mediabaytv.workers.dev/?ID=704
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Mening5.png",Mening Yurtim
+http://live.mediabaytv.workers.dev/?ID=706
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/540.jpg",MiMi TV
+http://live.mediabaytv.workers.dev/?ID=707
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/545.jpg",Shifo TV
+http://live.mediabaytv.workers.dev/?ID=708
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/hidoyat-sari.png",Hidoyat sari
+http://live.mediabaytv.workers.dev/?ID=709
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/8855.jpg",RETROTV
+http://live.mediabaytv.workers.dev/?ID=712
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/880.jpg",QIZIQTV
+http://live.mediabaytv.workers.dev/?ID=713
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2025/570.jpg",KNTV
+http://live.mediabaytv.workers.dev/?ID=714
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/575.jpg",Konul Tv
+http://live.mediabaytv.workers.dev/?ID=715
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/580.jpg",Konul Music Tv
+http://live.mediabaytv.workers.dev/?ID=716
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/585.jpg",Azerbaijan music HD
+http://live.mediabaytv.workers.dev/?ID=717
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/590.jpg",Azerbaijan music Plus
+http://live.mediabaytv.workers.dev/?ID=718
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/595.jpg",Azerbaijan music HIT
+http://live.mediabaytv.workers.dev/?ID=719
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/600.jpg",4 Turk pop HD
+http://live.mediabaytv.workers.dev/?ID=720
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ZVhWF.png",Мир 24
+http://live.mediabaytv.workers.dev/?ID=168
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2018/NTM.jpg",НТМ
+http://live.mediabaytv.workers.dev/?ID=487
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2018/prob.png",ПРО БИЗНЕС
+http://live.mediabaytv.workers.dev/?ID=492
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/605.jpg",Ayaz TV
+http://live.mediabaytv.workers.dev/?ID=721
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/RTDOCDOC.png",RT документальный 
+http://live.mediabaytv.workers.dev/?ID=34
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/8tv.png",8 ТВ Москва
+http://live.mediabaytv.workers.dev/?ID=343
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/1HLzzplanetamb.png",РТР - ПЛАНЕТА 
+http://live.mediabaytv.workers.dev/?ID=378
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/rtarabic.png",RT Arabic
+http://live.mediabaytv.workers.dev/?ID=408
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/IcwZmtmsport.png",Türkmenistan Sport 
+http://live.mediabaytv.workers.dev/?ID=382
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Fvd9DYASHLYK.png",Yaslyk - TM
+http://live.mediabaytv.workers.dev/?ID=383
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/QQJXEmirasmb.png",Miras 
+http://live.mediabaytv.workers.dev/?ID=384
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/XdeOZturkmenistan.png",Türkmenistan
+http://live.mediabaytv.workers.dev/?ID=385
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ugcTZashgabadmb.png",Asgabat 
+http://live.mediabaytv.workers.dev/?ID=386
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/XFl4eowazymb.png",Türkmen Owazy 
+http://live.mediabaytv.workers.dev/?ID=387
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TRT-Arabi.png",TRT Arabic
+http://live.mediabaytv.workers.dev/?ID=587
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/8kr.png",8 Канал Красноярский край
+http://live.mediabaytv.workers.dev/?ID=414
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/grozny-new.png",Грозный
+http://live.mediabaytv.workers.dev/?ID=409
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/diyar-tv.png",Diyar TV
+http://live.mediabaytv.workers.dev/?ID=507
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Dev2F39.png",Madaniyat va Ma'rifat
+http://live.mediabaytv.workers.dev/?ID=146
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/VUTumKOOV114.png",Bolajon
+http://live.mediabaytv.workers.dev/?ID=148
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/tulskiy1.png",Первый Тульский
+http://live.mediabaytv.workers.dev/?ID=466
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2018/saratov24.png",Саратов 24
+http://live.mediabaytv.workers.dev/?ID=473
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2018/sever-tv.png",Телеканал Север
+http://live.mediabaytv.workers.dev/?ID=489
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2018/novosib.png",8 канал. Новосибирск
+http://live.mediabaytv.workers.dev/?ID=496
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/guberniya.png",Губерния
+http://live.mediabaytv.workers.dev/?ID=502
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/05-2018/krasnodarTV.png",Краснодар
+http://live.mediabaytv.workers.dev/?ID=418
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/soyuz-b.png",Союз
+http://live.mediabaytv.workers.dev/?ID=442
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/muzsoyuz-b.png",Музсоюз
+http://live.mediabaytv.workers.dev/?ID=443
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2021/aqlvoy.png",Aqlvoy
+http://live.mediabaytv.workers.dev/?ID=645
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/tolotv.png",TOLO (тест)
+http://live.mediabaytv.workers.dev/?ID=576
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2019/ToloNews.png",TOLO News (тест)
+http://live.mediabaytv.workers.dev/?ID=577
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2019/arianat.png",Ariana Television (тест)
+http://live.mediabaytv.workers.dev/?ID=578
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2019/noor-tv.png",Noor TV
+http://live.mediabaytv.workers.dev/?ID=588
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2020/aynaTV.png",ATV
+http://live.mediabaytv.workers.dev/?ID=606
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/BizTV.jpg",Biz TV
+http://live.mediabaytv.workers.dev/?ID=625
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/626.jpg",BIZ MUSIC
+http://live.mediabaytv.workers.dev/?ID=626
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/490.jpg",BIZ CINEMA
+http://live.mediabaytv.workers.dev/?ID=627
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/duu.jpg",Душанбе HD
+http://live.mediabaytv.workers.dev/?ID=628
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/DDDDDDasturxon.png",Dasturxon TV
+http://live.mediabaytv.workers.dev/?ID=651
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/shahnavoz__.png",Шаҳнавоз
+http://live.mediabaytv.workers.dev/?ID=629
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2020/xalton.png",ТВ-Хатлон
+http://live.mediabaytv.workers.dev/?ID=630
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/badaxshon.png",ТВ-Бадахшон
+http://live.mediabaytv.workers.dev/?ID=631
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2020/kULOB-TV.png",ТВ-Кулоб
+http://live.mediabaytv.workers.dev/?ID=632
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2020/SUGD.png",Суғд
+http://live.mediabaytv.workers.dev/?ID=633
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2021/VIVA.png",VIVA
+http://live.mediabaytv.workers.dev/?ID=646
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2018/tbn-baltia.png",TBN Baltia
+http://live.mediabaytv.workers.dev/?ID=479
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2019/navigatoR.png",NavigatorTV
+http://live.mediabaytv.workers.dev/?ID=594
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/rumelitv.png",Rumeli TV
+http://live.mediabaytv.workers.dev/?ID=616
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/mahalla.png",Mahalla
+http://live.mediabaytv.workers.dev/?ID=394
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/nadejda.png",Hope TV
+http://live.mediabaytv.workers.dev/?ID=482
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/UA-TV-new.png",FREEДОМ
+http://live.mediabaytv.workers.dev/?ID=485
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/YXT71Navo.png",Navo
+http://live.mediabaytv.workers.dev/?ID=254
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/die.png",Die Neue Zeit 
+http://live.mediabaytv.workers.dev/?ID=517
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/rtdhd.png",RT Documentary
+http://live.mediabaytv.workers.dev/?ID=528
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/espanolRT.png",RT Español
+http://live.mediabaytv.workers.dev/?ID=529
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/rt27-05.png",RT International
+http://live.mediabaytv.workers.dev/?ID=530
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ukRT.png",RT UK
+http://live.mediabaytv.workers.dev/?ID=532
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TVMCHANNEL__.png",TVMChannel
+http://live.mediabaytv.workers.dev/?ID=542
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Motors-TV.png",Motors TV
+http://live.mediabaytv.workers.dev/?ID=511
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/arezotv.png",Arezo TV
+http://live.mediabaytv.workers.dev/?ID=569
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/jigyasatv.png",Jigyasa TV
+http://live.mediabaytv.workers.dev/?ID=579
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/imam1.png",Imam Hussein TV 1
+http://live.mediabaytv.workers.dev/?ID=551
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/IMAM2.png",Imam Hussein TV 2
+http://live.mediabaytv.workers.dev/?ID=552
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/IMAM3.png",Imam Hussein TV 3
+http://live.mediabaytv.workers.dev/?ID=553
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/IMAM4.png",Imam Hussein TV 4
+http://live.mediabaytv.workers.dev/?ID=554
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/al-zahratv.png",Al-Zahra TV
+http://live.mediabaytv.workers.dev/?ID=555
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2022/Xuzur-TV.png",Huzur TV
+http://live.mediabaytv.workers.dev/?ID=665
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/04-2022/expresso-tv.png",ЕСПРЕСО
+http://live.mediabaytv.workers.dev/?ID=668
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/novotempo.png",Novo Tempo
+http://live.mediabaytv.workers.dev/?ID=556
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/nuevo.png",Nuevo Tempo
+http://live.mediabaytv.workers.dev/?ID=557
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/02-2020/AzStar.png",Az Star TV
+http://live.mediabaytv.workers.dev/?ID=600
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/07-2020/TBN.png",ТБН Россия (тест)
+http://live.mediabaytv.workers.dev/?ID=622
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Piramida-TV.png",Пирамида
+http://live.mediabaytv.workers.dev/?ID=655
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2022/TVA-UA.png",TVA
+http://live.mediabaytv.workers.dev/?ID=663
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/05-2022/SRTTV.png",STR TV
+http://live.mediabaytv.workers.dev/?ID=670
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/01-2023/CfgJWrossiyak.png",Россия К
+http://live.mediabaytv.workers.dev/?ID=677
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2023/UWN.png",Ukraine World News
+http://live.mediabaytv.workers.dev/?ID=688
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2021/ruxsor-tv.png",Ruxsor TV
+http://live.mediabaytv.workers.dev/?ID=647
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2022/s-iqbol.png",S IKBOL
+http://live.mediabaytv.workers.dev/?ID=672
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2023/LUXTV.jpg",LUX.TV HD
+http://live.mediabaytv.workers.dev/?ID=684
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/GOLDTV.jpg",Gold UZ TV (тест)
+http://live.mediabaytv.workers.dev/?ID=648
+#EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/673.jpg",ТВ САЙЁҲӢ ВА ҲУНАРҲОИ МАРДУМӢ
+http://live.mediabaytv.workers.dev/?ID=673
