@@ -1233,3 +1233,99 @@ http://live.cdn-vizi.workers.dev/?ID=101
 http://live.cdn-vizi.workers.dev/?ID=102
 #EXTINF:-1 group-title="viziTV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/bi_vizi.png",B!
 http://live.cdn-vizi.workers.dev/?ID=103
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://yt3.googleusercontent.com/Ar9s9sZNclvmZN1l7GfIdnAQjh_ZkVhGMx6Dy5PHbq2keR9ijkPMFkk9VxZnIEnTf0MrXfSU4g",TRT 1
+http://tv.smartglwiz.workers.dev/?ID=TRT1_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304551.png",Star
+http://tv.smartglwiz.workers.dev/?ID=StarTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304557.png",Euro Star
+http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="https://play-lh.googleusercontent.com/0sOPBAP2kN1gvVFLtCVsLhOrcZApUxZG8njmWOj26lRbiVJ723731GtyKJl-LFjd2Q",ShowTV
+http://tv.smartglwiz.workers.dev/?ID=ShowTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304556.png",ShowTurk HD
+http://tv.smartglwiz.workers.dev/?ID=ShowTurk_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304632.png",NOW
+http://tv.smartglwiz.workers.dev/?ID=Now_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304475.png",TV 8
+http://tv.smartglwiz.workers.dev/?ID=TV8_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300948.png",TLC
+http://tv.smartglwiz.workers.dev/?ID=TLC_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304357.png",Kanal 24
+http://tv.smartglwiz.workers.dev/?ID=24_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303916.png",NTV Turkiye
+http://tv.smartglwiz.workers.dev/?ID=NTVTurkiye_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300784.png",TRT Turk
+http://tv.smartglwiz.workers.dev/?ID=TRTTurk_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304314.png",Halk Haber
+http://tv.smartglwiz.workers.dev/?ID=Halk_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304353.png",Kanal Avrupa 
+http://tv.smartglwiz.workers.dev/?ID=KanalAvrupa_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303104.png",TRT 6
+http://tv.smartglwiz.workers.dev/?ID=TRT6
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306928.png",Kanal 33
+http://tv.smartglwiz.workers.dev/?ID=Kanal33_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304417.png",Turkmeneli
+http://tv.smartglwiz.workers.dev/?ID=Turkmeneli_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306914.png",AKiT
+http://tv.smartglwiz.workers.dev/?ID=AKiT_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304471.png",Kanal 7 Avrupa
+http://tv.smartglwiz.workers.dev/?ID=Kanal7Avrupa_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304539.png",Sports TV
+http://tv.smartglwiz.workers.dev/?ID=SportsTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304495.png",TRT Spor
+http://tv.smartglwiz.workers.dev/?ID=TRTSport_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="https://play-lh.googleusercontent.com/bnRoOZwIeGRlErapRNtLRer9uE0Vh_5rINIGWrAAES0MZes9qDa3E_2TSrLeHWqoOQ",FBTV
+http://tv.smartglwiz.workers.dev/?ID=FBTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306933.png",Lalegül TV
+http://tv.smartglwiz.workers.dev/?ID=LALEGUL_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303889.png",TRT Muzik
+http://tv.smartglwiz.workers.dev/?ID=TRTMuzik_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306809.png",Tele 1
+http://tv.smartglwiz.workers.dev/?ID=Tele1_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304564.png",TV 4
+http://tv.smartglwiz.workers.dev/?ID=TV4_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304380.png",Dost TV
+http://tv.smartglwiz.workers.dev/?ID=DostTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304288.png",Rehber
+http://tv.smartglwiz.workers.dev/?ID=Rehber_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304624.png",DMax
+http://tv.smartglwiz.workers.dev/?ID=DMax_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303883.png",Number One Turk
+http://tv.smartglwiz.workers.dev/?ID=NumberOneTurk_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304302.png",Bayrak 2
+http://tv.smartglwiz.workers.dev/?ID=BRT2_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304300.png",Bayrak 1
+http://tv.smartglwiz.workers.dev/?ID=BRT1_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305297.png",Kardelen TV
+http://tv.smartglwiz.workers.dev/?ID=KardelenTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304411.png",TV 1
+http://tv.smartglwiz.workers.dev/?ID=TV1_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304451.png",TV 5
+http://tv.smartglwiz.workers.dev/?ID=TV5_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304479.png",Kanal Firat
+http://tv.smartglwiz.workers.dev/?ID=KanalFirat_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304433.png",Kanal 26
+http://tv.smartglwiz.workers.dev/?ID=Kanal26_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305444.png",TV 100
+http://tv.smartglwiz.workers.dev/?ID=TV100_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304340.png",Ada TV
+http://tv.smartglwiz.workers.dev/?ID=Adatv_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304365.png",Aksu TV
+http://tv.smartglwiz.workers.dev/?ID=AksuTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304368.png",Altas TV
+http://tv.smartglwiz.workers.dev/?ID=AltasTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304521.png",Bengu Turk
+http://tv.smartglwiz.workers.dev/?ID=BenguTurk_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304399.png",Cay TV
+http://tv.smartglwiz.workers.dev/?ID=CayTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304347.png",TV Kayseri
+http://tv.smartglwiz.workers.dev/?ID=TVKayseri_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304349.png",Kon TV
+http://tv.smartglwiz.workers.dev/?ID=KonTV_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304386.png",Koy TV
+http://tv.smartglwiz.workers.dev/?ID=Koy_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303727.png",Mavi Karadeniz
+http://tv.smartglwiz.workers.dev/?ID=MaviKaradeniz_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303745.png",TMB
+http://tv.smartglwiz.workers.dev/?ID=TMB_HD
+#EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304425.png",Vuslat
+http://tv.smartglwiz.workers.dev/?ID=Vuslat_HD
