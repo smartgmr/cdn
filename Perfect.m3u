@@ -3879,7 +3879,7 @@ http://cdn.bulgariatv.workers.dev/?ID=diema
 http://cdn.bulgariatv.workers.dev/?ID=novatv
 #EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btvaction.png",BTV Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
-http://cdn.bulgariatv.workers.dev/?ID=btvaction
+http://cdn.bulgariatv.workers.dev/?ID=test
 #EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/amc-1.png",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
 http://cdn.bulgariatv.workers.dev/?ID=amc
