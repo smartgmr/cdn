@@ -3841,3 +3841,222 @@ http://schedule-statutory-latex-colored.trycloudflare.com/vavo.php?ID=1071166054
 http://schedule-statutory-latex-colored.trycloudflare.com/vavo.php?ID=607077155b422b68fa9db
 #EXTINF:-1 group-title="VAVO TV",ZONGULDAK KANAL Z |D
 http://schedule-statutory-latex-colored.trycloudflare.com/vavo.php?ID=1467834090a5e2f1f6f2af
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btv-8.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=btv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/bnt.png",BNT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=bnt
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/bnt2.png",BNT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=bnt2
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/bnthd-1.png",BNT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=bnthd
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/nova-1.png",Nova Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=nova
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/code_fashion.png",Code Fashion Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=24kitchen
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/idx-6-14.png",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=idx
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/fox-1.png",Fox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=fox
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/24kitchen-2.png",24 Kitchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=24kitchen
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btvlady.png",BTV Lady
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=btvlady
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/diema.png",Diema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=diema
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/nova-1.png",Nova Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=novatv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btvaction.png",BTV Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=btvaction
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/amc-1.png",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=amc
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/epic_drama.png",Epic Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=epicdrama
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/filmboxplus.png",FilmBox Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=filmboxplus
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/filmboxextra.png",FilmBox Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=filmboxextra
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/moviestar-7-46.png",Movie Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=moviestar
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/axnwhite-7-10.png",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=axnwhite
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/axnblack-11-12.png",AXN Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=axnblack
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/axn.png",Axn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=axn
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/foxcrime-1.png",Fox Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=foxcrime
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/foxlife.png",Fox Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=foxlife
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btvcomedy.png",BTV Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=btvcomedy
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btvcinema.png",BTV Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=btvcinema
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/diemaf.png",Diema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=diemafamily
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/kinonova.png",Kino Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=kinonova
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/planetafolk.png",Planeta Folk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=planetafolk
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/citytv.png",City Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=citytv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/planetahd.png",Planeta HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=planetahd
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/fantv.png",Fen Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=fentv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/balkanika.png",Balkanika Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=balkanikatv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/planeta.png",Planeta Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=planetatv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/thevoice.png",The Voice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=thevoice
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/nickjr_png.png",Nick JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=nickjr
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/nicktoon-png-8.png",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=nicktoons
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/nickelodeon-1.png",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=nickelodeon
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/disney-2.png",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=disneychannel
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/cartoon.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=cartoonnetwork
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/aspor_png.png",A SPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=aspor
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/eurosport2-1.png",Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=eurosport2
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/eurosport.png",Eurosport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=eurosport1
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/ringbg.png",Ring Bg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=ringbg
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/aspor_png.png",A SPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=aspor
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/aljazeera.png",Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=aljazeera
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/france24.png",France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=france24
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/skynews.png",Sky News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=skynews
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/fox-1.png",Fox Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=foxtv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/atv.png",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=atv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/startv.png",Star Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=startv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/kanaldd.png",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=kanald
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/trt1.png",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=trt1
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/showtv.png",Show Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=showtv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/docubox.png",DocuBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=docubox
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/discoveryscience-6-12.png",Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=discoveryscience
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/tlc-1.png",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=tlc
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/viasat_history.png",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=viasathistory
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/viasat_nature.png",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=viasatnature
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/travel-1.png",Travel Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=traveltv
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/viasat_explorer.png",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=viasatexplore
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/natgeowild.png",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=natgeowild
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/animalplanet.png",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=animalplanet
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/history-1.png",History Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=historychannel
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/discovery.png",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=discoverychannel
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/ng.png",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=nationalgeographic
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.gledaitv.fan/upload/tv/o_diema-sport-logo_20240819161622.png",Diema Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=diemasport
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.gledaitv.fan/upload/tv/o_diema-sport-2-logo_20240819161729.png",Diema Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=diemasport2
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.gledaitv.fan/upload/tv/o_diema-sport-3-logo_20240819161836.png",Diema Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=diemasport3
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.gledaitv.fan/upload/tv/o_max-sport-1-logo_20240820143530.png",Max Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=maxsport1
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.gledaitv.fan/upload/tv/o_max-sport-2-logo_20240820143632.png",Max Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=maxsport2
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.gledaitv.fan/upload/tv/o_max-sport-3-logo_20240820143807.png",Max Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=maxsport3
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.gledaitv.fan/upload/tv/o_max-sport-4-logo_20240820143917.png",Max Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=maxsport4
+#EXTINF:-1 group-title="Bulgaria GledaiTV" tvg-logo="https://www.gledaitv.fan/upload/tv/o_nova-sport-logo_20240820145156.png",Nova Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.bulgariatv.workers.dev/?ID=novasport
