@@ -771,3 +771,287 @@ http://live.mediabaytv.workers.dev/?ID=684
 http://live.mediabaytv.workers.dev/?ID=648
 #EXTINF:-1 group-title="Azerbeycan MediabayTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/673.jpg",ТВ САЙЁҲӢ ВА ҲУНАРҲОИ МАРДУМӢ
 http://live.mediabaytv.workers.dev/?ID=673
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/ZOR TV HD.png",ZOR TV HD
+http://live.sarkortv.workers.dev/?ID=6
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Ozbekiston 24 HD.png",Ozbekiston 24 HD
+http://live.sarkortv.workers.dev/?ID=20
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/FTV HD.png",FTV HD
+http://live.sarkortv.workers.dev/?ID=74
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/UzReport HD.png",UzReport HD
+http://live.sarkortv.workers.dev/?ID=75
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Мир HD.png",Мир HD
+http://live.sarkortv.workers.dev/?ID=80
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Мир 24 HD.png",Мир 24 HD
+http://live.sarkortv.workers.dev/?ID=81
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Kinoteatr HD.png",Kinoteatr HD
+http://live.sarkortv.workers.dev/?ID=83
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Uzbekiston Tarixi.png",Uzbekiston Tarixi
+http://live.sarkortv.workers.dev/?ID=86
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/NurafshonTV.png",NurafshonTV
+http://live.sarkortv.workers.dev/?ID=87
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Ozbekiston.png",Ozbekiston
+http://live.sarkortv.workers.dev/?ID=8
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Taraqqiyot TV.png",Taraqqiyot TV
+http://live.sarkortv.workers.dev/?ID=76
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/AQLVOY.png",AQLVOY
+http://live.sarkortv.workers.dev/?ID=82
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Yoshlar.png",Yoshlar
+http://live.sarkortv.workers.dev/?ID=9
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Toshkent.png",Toshkent
+http://live.sarkortv.workers.dev/?ID=10
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Sport TV HD.png",Sport TV HD
+http://live.sarkortv.workers.dev/?ID=11
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Renessans TV.png",Renessans TV
+http://live.sarkortv.workers.dev/?ID=88
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Madaniyat va Marifat.png",Madaniyat va Marifat
+http://live.sarkortv.workers.dev/?ID=12
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Mahalla.png",Mahalla
+http://live.sarkortv.workers.dev/?ID=13
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Futbol TV.png",Futbol TV
+http://live.sarkortv.workers.dev/?ID=14
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Dunyo Boylab.png",Dunyo Boylab
+http://live.sarkortv.workers.dev/?ID=15
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Bolajon.png",Bolajon
+http://live.sarkortv.workers.dev/?ID=16
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Navo.png",Navo
+http://live.sarkortv.workers.dev/?ID=17
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Mening Yurtim.png",Mening Yurtim
+http://live.sarkortv.workers.dev/?ID=22
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Milliy TV.png",Milliy TV
+http://live.sarkortv.workers.dev/?ID=23
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Sevimli HD.png",Sevimli HD
+http://live.sarkortv.workers.dev/?ID=25
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Первый канал.png",Первый канал
+http://live.sarkortv.workers.dev/?ID=27
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Россия 1.png",Россия 1
+http://live.sarkortv.workers.dev/?ID=28
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Россия 24.png",Россия 24
+http://live.sarkortv.workers.dev/?ID=29
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/НТВ.png",НТВ
+http://live.sarkortv.workers.dev/?ID=31
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/EuroNews.png",EuroNews
+http://live.sarkortv.workers.dev/?ID=32
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Детский мир.png",Детский мир
+http://live.sarkortv.workers.dev/?ID=40
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Карусель.png",Карусель
+http://live.sarkortv.workers.dev/?ID=42
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Кухня ТВ.png",Кухня ТВ
+http://live.sarkortv.workers.dev/?ID=96
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Телекафе.png",Телекафе
+http://live.sarkortv.workers.dev/?ID=43
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Авто Плюс.png",Авто Плюс
+http://live.sarkortv.workers.dev/?ID=44
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/24 техно.png",24 техно
+http://live.sarkortv.workers.dev/?ID=45
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Охота и Рыбалка.png",Охота и Рыбалка
+http://live.sarkortv.workers.dev/?ID=46
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/365 дней ТВ.png",365 дней ТВ
+http://live.sarkortv.workers.dev/?ID=98
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Ретро ТВ.png",Ретро ТВ
+http://live.sarkortv.workers.dev/?ID=55
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Россия Культура.png",Россия Культура
+http://live.sarkortv.workers.dev/?ID=56
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Звезда.png",Звезда
+http://live.sarkortv.workers.dev/?ID=59
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Наше Новое Кино.png",Наше Новое Кино
+http://live.sarkortv.workers.dev/?ID=60
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Родное Кино.png",Родное Кино
+http://live.sarkortv.workers.dev/?ID=61
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Дом Кино.png",Дом Кино
+http://live.sarkortv.workers.dev/?ID=62
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Кинохит.png",Кинохит
+http://live.sarkortv.workers.dev/?ID=63
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Киносвидание.png",Киносвидание
+http://live.sarkortv.workers.dev/?ID=64
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Кинопремьера HD.png",Кинопремьера HD
+http://live.sarkortv.workers.dev/?ID=65
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Кинопоказ.png",Кинопоказ
+http://live.sarkortv.workers.dev/?ID=66
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Кинокомедия.png",Кинокомедия
+http://live.sarkortv.workers.dev/?ID=102
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Киносерия.png",Киносерия
+http://live.sarkortv.workers.dev/?ID=106
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Мужское Кино.png",Мужское Кино
+http://live.sarkortv.workers.dev/?ID=99
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Киномикс.png",Киномикс
+http://live.sarkortv.workers.dev/?ID=108
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Киносемья.png",Киносемья
+http://live.sarkortv.workers.dev/?ID=109
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Индийское кино.png",Индийское кино
+http://live.sarkortv.workers.dev/?ID=69
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/МУЗ-ТВ.png",МУЗ-ТВ
+http://live.sarkortv.workers.dev/?ID=70
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/МУЗ-ТВ УЗ.png",МУЗ-ТВ УЗ
+http://live.sarkortv.workers.dev/?ID=105
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Музыка Первого.png",Музыка Первого
+http://live.sarkortv.workers.dev/?ID=71
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/RU.TV.png",RU.TV
+http://live.sarkortv.workers.dev/?ID=72
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Ля-Минор ТВ.png",Ля-Минор ТВ
+http://live.sarkortv.workers.dev/?ID=97
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Уникум.png",Уникум
+http://live.sarkortv.workers.dev/?ID=100
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Zoo TV.png",Zoo TV
+http://live.sarkortv.workers.dev/?ID=101
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/ТНВ Планета.png",ТНВ Планета
+http://live.sarkortv.workers.dev/?ID=103
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Dastarkhan TV.png",Dastarkhan TV
+http://live.sarkortv.workers.dev/?ID=85
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/France24HD.png",France24HD
+http://live.sarkortv.workers.dev/?ID=89
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/CNN.png",CNN
+http://live.sarkortv.workers.dev/?ID=90
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/CGTN.png",CGTN
+http://live.sarkortv.workers.dev/?ID=92
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/BBC WN.png",BBC WN
+http://live.sarkortv.workers.dev/?ID=104
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/8TVRU.png",8TVRU
+http://live.sarkortv.workers.dev/?ID=94
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/TuganTEL.png",TuganTEL
+http://live.sarkortv.workers.dev/?ID=95
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Deutsche Welle HD.png",Deutsche Welle HD
+http://live.sarkortv.workers.dev/?ID=107
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Живи.png",Живи
+http://live.sarkortv.workers.dev/?ID=110
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Усадьба.png",Усадьба
+http://live.sarkortv.workers.dev/?ID=111
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Домашние животные.png",Домашние животные
+http://live.sarkortv.workers.dev/?ID=112
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/HDL.png",HDL
+http://live.sarkortv.workers.dev/?ID=113
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Здоровое ТВ.png",Здоровое ТВ
+http://live.sarkortv.workers.dev/?ID=114
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Вопросы и ответы.png",Вопросы и ответы
+http://live.sarkortv.workers.dev/?ID=115
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Nat Geo Wild HD.png",Nat Geo Wild HD
+http://live.sarkortv.workers.dev/?ID=116
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Живи Активно HD.png",Живи Активно HD
+http://live.sarkortv.workers.dev/?ID=117
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/В мире животных HD.png",В мире животных HD
+http://live.sarkortv.workers.dev/?ID=118
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Живая природа HD.png",Живая природа HD
+http://live.sarkortv.workers.dev/?ID=119
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Арсенал HD.png",Арсенал HD
+http://live.sarkortv.workers.dev/?ID=120
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Duck TV HD.png",Duck TV HD
+http://live.sarkortv.workers.dev/?ID=121
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Капитан Фантастика HD.png",Капитан Фантастика HD
+http://live.sarkortv.workers.dev/?ID=122
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Охотник и рыболов HD.png",Охотник и рыболов HD
+http://live.sarkortv.workers.dev/?ID=123
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Insight TV HD.png",Insight TV HD
+http://live.sarkortv.workers.dev/?ID=124
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Trace Sport Stars HD.png",Trace Sport Stars HD
+http://live.sarkortv.workers.dev/?ID=125
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Глазами Туриста HD.png",Глазами Туриста HD
+http://live.sarkortv.workers.dev/?ID=127
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Наша Сибирь HD.png",Наша Сибирь HD
+http://live.sarkortv.workers.dev/?ID=128
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Avto24 SD.png",Avto24 SD
+http://live.sarkortv.workers.dev/?ID=129
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Drive SD.png",Drive SD
+http://live.sarkortv.workers.dev/?ID=130
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Хабар24 SD.png",Хабар24 SD
+http://live.sarkortv.workers.dev/?ID=131
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Dorama SD.png",Dorama SD
+http://live.sarkortv.workers.dev/?ID=132
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Рыжий SD.png",Рыжий SD
+http://live.sarkortv.workers.dev/?ID=133
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Загородный SD.png",Загородный SD
+http://live.sarkortv.workers.dev/?ID=134
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/В гостях у сказки SD.png",В гостях у сказки SD
+http://live.sarkortv.workers.dev/?ID=135
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Первый космический SD.png",Первый космический SD
+http://live.sarkortv.workers.dev/?ID=136
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Живая планета SD.png",Живая планета SD
+http://live.sarkortv.workers.dev/?ID=138
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/TRT Music SD.png",TRT Music SD
+http://live.sarkortv.workers.dev/?ID=139
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Приключения SD.png",Приключения SD
+http://live.sarkortv.workers.dev/?ID=140
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Наука SD.png",Наука SD
+http://live.sarkortv.workers.dev/?ID=141
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/TRT Haber SD.png",TRT Haber SD
+http://live.sarkortv.workers.dev/?ID=142
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Мама SD.png",Мама SD
+http://live.sarkortv.workers.dev/?ID=143
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/AzTV SD.png",AzTV SD
+http://live.sarkortv.workers.dev/?ID=146
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Nick Jr.png",Nick Jr
+http://live.sarkortv.workers.dev/?ID=147
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Точка отрыва SD.png",Точка отрыва SD
+http://live.sarkortv.workers.dev/?ID=148
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Моя планета SD.png",Моя планета SD
+http://live.sarkortv.workers.dev/?ID=149
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/NatGeo channel SD.png",NatGeo channel SD
+http://live.sarkortv.workers.dev/?ID=150
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Kazakhstan SD.png",Kazakhstan SD
+http://live.sarkortv.workers.dev/?ID=151
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Мульт SD.png",Мульт SD
+http://live.sarkortv.workers.dev/?ID=152
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Fashion TV SD.png",Fashion TV SD
+http://live.sarkortv.workers.dev/?ID=154
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Cinema SD.png",Cinema SD
+http://live.sarkortv.workers.dev/?ID=155
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Сарафан SD.png",Сарафан SD
+http://live.sarkortv.workers.dev/?ID=156
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/S Iqbol SD.png",S Iqbol SD
+http://live.sarkortv.workers.dev/?ID=157
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/TRT Avaz.png",TRT Avaz
+http://live.sarkortv.workers.dev/?ID=158
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/MMA-TV.png",MMA-TV
+http://live.sarkortv.workers.dev/?ID=35
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/KHL.png",KHL
+http://live.sarkortv.workers.dev/?ID=36
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Gulli Girl.png",Gulli Girl
+http://live.sarkortv.workers.dev/?ID=159
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Doctor.png",Doctor
+http://live.sarkortv.workers.dev/?ID=160
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/English Club.png",English Club
+http://live.sarkortv.workers.dev/?ID=161
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Bollywood.png",Bollywood
+http://live.sarkortv.workers.dev/?ID=162
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/HollyWood.png",HollyWood
+http://live.sarkortv.workers.dev/?ID=163
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/TiJi.png",TiJi
+http://live.sarkortv.workers.dev/?ID=164
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/KBS WORLD HD.png",KBS WORLD HD
+http://live.sarkortv.workers.dev/?ID=165
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/iTVCinema.png",iTVCinema
+http://live.sarkortv.workers.dev/?ID=166
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/iTVMusic.png",iTVMusic
+http://live.sarkortv.workers.dev/?ID=167
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/TVC RU.png",TVC RU
+http://live.sarkortv.workers.dev/?ID=168
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Bloomberg TV.png",Bloomberg TV
+http://live.sarkortv.workers.dev/?ID=169
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Match Planeta.png",Match Planeta
+http://live.sarkortv.workers.dev/?ID=170
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Ruxsor.png",Ruxsor
+http://live.sarkortv.workers.dev/?ID=171
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Lux TV HD.png",Lux TV HD
+http://live.sarkortv.workers.dev/?ID=172
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Makon TV HD.png",Makon TV HD
+http://live.sarkortv.workers.dev/?ID=173
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/CGTN RU HD.png",CGTN RU HD
+http://live.sarkortv.workers.dev/?ID=174
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/AlJazeera HD.png",AlJazeera HD
+http://live.sarkortv.workers.dev/?ID=175
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/NHK WORLD.png",NHK WORLD
+http://live.sarkortv.workers.dev/?ID=176
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Mulokot TV.png",Mulokot TV
+http://live.sarkortv.workers.dev/?ID=177
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Biz Cinema.png",Biz Cinema
+http://live.sarkortv.workers.dev/?ID=178
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Comedy Central SD.png",Comedy Central SD
+http://live.sarkortv.workers.dev/?ID=179
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/DW RU HD.png",DW RU HD
+http://live.sarkortv.workers.dev/?ID=180
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/MTV Live HD.png",MTV Live HD
+http://live.sarkortv.workers.dev/?ID=181
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Nickelodeon HD.png",Nickelodeon HD
+http://live.sarkortv.workers.dev/?ID=182
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/Nicktoons HD.png",Nicktoons HD
+http://live.sarkortv.workers.dev/?ID=183
+#EXTINF:-1 group-title="SarkorTV" tvg-logo="http://sarkor.tv/static/images/channels/MTV.png",MTV
+http://live.sarkortv.workers.dev/?ID=184
