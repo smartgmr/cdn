@@ -57,7 +57,7 @@ http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246240
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246039
 #EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/F/zn/246096/logo.png",Halk TV
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246096
-EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/45155_0-73-1920-933.jpeg",tabii TV
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/45155.jpeg",tabii TV
 http://tabii.mobi-tv.workers.dev/tabiiTV.m3u8
 #EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43023.jpeg",tabii spor
 http://tabii.mobi-tv.workers.dev/tabiispor.m3u8
