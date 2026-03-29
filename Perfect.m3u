@@ -145,36 +145,584 @@ http://movies.yt-hls.workers.dev/eXIKlgsunUQ.m3u8
 http://movies.yt-hls.workers.dev/TgVgTP_MCeE.m3u8
 #EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/lTHR3Cs1z2M/hqdefault.jpg",Tarkan Viking Kanı 4K
 http://movies.yt-hls.workers.dev/lTHR3Cs1z2M.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/RyO7t32l428/hqdefault.jpg",Hababam Sınıfı Uyanıyor
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/RyO7t32l428/hqdefault.jpg",Hababam Sınıfı Uyanıyor - 4K Full Film (Kemal Sunal, Halit Akçatepe, Münir Özkul)
 http://movies.yt-hls.workers.dev/RyO7t32l428.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/5kY-pamPCyU/hqdefault.jpg",Süt Kardeşler
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/RyO7t32l428/hqdefault.jpg",Süt Kardeşler - 4K Full Film
+http://movies.yt-hls.workers.dev/RyO7t32l428.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/5kY-pamPCyU/hqdefault.jpg",Banker Bilo - Restorasyonlu Full Film (Şener Şen - İlyas Salman)
 http://movies.yt-hls.workers.dev/5kY-pamPCyU.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/tcZeIVeuNBQ/hqdefault.jpg",Banker Bilo
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/tcZeIVeuNBQ/hqdefault.jpg",Hababam Sınıfı | 4K Full Film
 http://movies.yt-hls.workers.dev/tcZeIVeuNBQ.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/F-FxmKxpZ-M/hqdefault.jpg",Hababam Sınıfı
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/F-FxmKxpZ-M/hqdefault.jpg",Kibar Feyzo - 4K Yeşilçam Komedi Filmi (Kemal Sunal, Şener Şen, Müjde Ar)
 http://movies.yt-hls.workers.dev/F-FxmKxpZ-M.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/9mKns5lC0Ms/hqdefault.jpg",Kibar Feyzo
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/9mKns5lC0Ms/hqdefault.jpg",Şekerpare - 4K Yeşilçam Komedi Filmi (Şener Şen, İlyas Salman, Ayşen Gruda)
 http://movies.yt-hls.workers.dev/9mKns5lC0Ms.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/fbMSWJxfyjM/hqdefault.jpg",Şekerpare
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/fbMSWJxfyjM/hqdefault.jpg",Hababam Sınıfı Tatilde - 4K Full Film
 http://movies.yt-hls.workers.dev/fbMSWJxfyjM.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/T5btv_X6av8/hqdefault.jpg",Hababam Sınıfı Tatilde
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/T5btv_X6av8/hqdefault.jpg",Oh Olsun - 4K Full Film (Kemal Sunal, Tarık Akan, Hulusi Kentmen, Hale Soygazi, Halit Akçatepe)
 http://movies.yt-hls.workers.dev/T5btv_X6av8.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/WFZ3ynSM0Vw/hqdefault.jpg",Oh Olsun
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/WFZ3ynSM0Vw/hqdefault.jpg",Çöpçüler Kralı | 4K Full Film (Kemal Sunal, Şener Şen, Ayşen Gruda)
 http://movies.yt-hls.workers.dev/WFZ3ynSM0Vw.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/JBApDW3Nh1s/hqdefault.jpg",Çöpçüler Kralı
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/JBApDW3Nh1s/hqdefault.jpg",Şaban Oğlu Şaban - 4K Komedi Filmi (Kemal Sunal, Şener Şen, Halit Akçatepe)
 http://movies.yt-hls.workers.dev/JBApDW3Nh1s.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/u5nHCrQDziw/hqdefault.jpg",Şaban Oğlu Şaban
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/u5nHCrQDziw/hqdefault.jpg",Erkek Güzeli Sefil Bilo - 4K Yeşilçam Filmi (Şener Şen, İlyas Salman)
 http://movies.yt-hls.workers.dev/u5nHCrQDziw.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/LyJMvbxh-mc/hqdefault.jpg",Erkek Güzeli Sefil Bilo
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/LyJMvbxh-mc/hqdefault.jpg",Salako | 4K Restorasyonlu Yeşilçam Filmi (Meral Zeren, Kemal Sunal)
 http://movies.yt-hls.workers.dev/LyJMvbxh-mc.m3u8
-#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/IBuTYHbNmoA/hqdefault.jpg",Salako
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/IBuTYHbNmoA/hqdefault.jpg",Hababam Sınıfı Sınıfta Kaldı - 4K Yeşilçam Filmi
 http://movies.yt-hls.workers.dev/IBuTYHbNmoA.m3u8
-#EXTINF:-1 group-title="Youtube TR DIZI"  tvg-logo="https://yt3.googleusercontent.com/yiJ-DeL67W3VWGlp3RxL0vP2WTqLnQKefLdp3zd2h_BKV_zK6CHZyUSxbQf4WWge1F6Kcdu45CM",Sevdiğim Sensin 7. Bölüm
-http://movies.yt-hls.workers.dev/c2XdVurw0Kw.m3u8
-#EXTINF:-1 group-title="Youtube TR DIZI"  tvg-logo="https://yt3.googleusercontent.com/Cwpsz_Ra5vtrHpiI8KCtr6LhbBPqFHQ0vDHfRe0kXXNwbigVGFvjz4Qv_XxMru0DDji4thfBIQU",Taşacak Bu Deniz 22. Bölüm
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/lJ-XaUboi68/hqdefault.jpg",Ah Nerede - 4K Restorasyonlu Yeşilçam Filmi (Tarık Akan, Gülşen Bubikoğlu)
+http://movies.yt-hls.workers.dev/lJ-XaUboi68.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/eRP_35N5zqU/hqdefault.jpg",Neşeli Günler | 4K Restorasyonlu Yeşilçam Filmi (Adile Naşit, Münir Özkul, Şener Şen, Ayşen Gruda)
+http://movies.yt-hls.workers.dev/eRP_35N5zqU.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/12dYDcVrPE4/hqdefault.jpg",Bizim Aile - 4K Full Film
+http://movies.yt-hls.workers.dev/12dYDcVrPE4.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/ydzHnn-mvIQ/hqdefault.jpg",Köyden İndim Şehire 4K Yeşilçam Filmi (Kemal Sunal, Zeki Alasya, Metin Akpınar ve Halit Akçatepe)
+http://movies.yt-hls.workers.dev/ydzHnn-mvIQ.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/n_f6rr8uOd8/hqdefault.jpg",Tarkan Viking Kanı | 4K Restorasyonlu Yeşilçam Filmi (Kartal Tibet, Eva Bender)
+http://movies.yt-hls.workers.dev/n_f6rr8uOd8.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/lTHR3Cs1z2M/hqdefault.jpg",Gülen Gözler - 4K Yeşilçam Aile Filmi (Münir Özkul, Şener Şen, Müjde Ar)
+http://movies.yt-hls.workers.dev/lTHR3Cs1z2M.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/rBHcdccavow/hqdefault.jpg",Milyarder | 4K Restorasyonlu Yeşilçam Filmi (Şener Şen, Münir Özkul, Adile Naşit)
+http://movies.yt-hls.workers.dev/rBHcdccavow.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/DCoSBBB4v04/hqdefault.jpg",Mavi Boncuk | FULL HD
+http://movies.yt-hls.workers.dev/DCoSBBB4v04.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/dkbSWpjJIMk/hqdefault.jpg",Arabesk | 4K Restorasyonlu (Şener Şen - Müjde Ar)
+http://movies.yt-hls.workers.dev/dkbSWpjJIMk.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/rw-zDfn6rOU/hqdefault.jpg",Salak Milyoner - 4K Yeşilçam Filmi (Kemal Sunal, Zeki Alasya, Metin Akpınar, Halit Akçatepe)
+http://movies.yt-hls.workers.dev/rw-zDfn6rOU.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/vIA9hTcrkw8/hqdefault.jpg",Karaoğlan Geliyor Cengizhan'ın Hazineleri | 4K Restorasyonlu Yeşilçam Filmi
+http://movies.yt-hls.workers.dev/vIA9hTcrkw8.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/Vfu2LrkV62g/hqdefault.jpg",Aile Şerefi - 4K Restorasyonlu Yeşilçam Filmi (Münir Özkul, Adile Naşit, Ayşen Gruda, Itır Esen)
+http://movies.yt-hls.workers.dev/Vfu2LrkV62g.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/st2CxOR69Ms/hqdefault.jpg",Tarkan Güçlü Kahraman - 4K Restorasyonlu Yeşilçam Filmi (Kartal Tibet, Hakkı Koşar, Halit Akçatepe)
+http://movies.yt-hls.workers.dev/st2CxOR69Ms.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/eXIKlgsunUQ/hqdefault.jpg",Kalbimin Efendisi - 4K Restorasyonlu Yeşilçam Filmi (Ediz Hun, Hülya Koçyiğit - 14 ŞUBAT ÖZEL)
+http://movies.yt-hls.workers.dev/eXIKlgsunUQ.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/Nl2D0j97N-M/hqdefault.jpg",Beyoğlu Güzeli - 4K Restorasyonlu Yeşilçam Filmi (Hülya Koçyiğit, Tarık Akan)
+http://movies.yt-hls.workers.dev/Nl2D0j97N-M.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/d0tTegTqXvY/hqdefault.jpg",Cennetin Çocukları - 4K Restorasyonlu Yeşilçam Filmi (Münir Özkul, Ahmet Sezerel, Itır Esen)
+http://movies.yt-hls.workers.dev/d0tTegTqXvY.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/Y4i0tpIynHA/hqdefault.jpg",Hababam Sınıfı | Almanca Altyazılı 4K Yeşilçam Filmi (Kemal Sunal, Tarık Akan, Halit Akçatepe)
+http://movies.yt-hls.workers.dev/Y4i0tpIynHA.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/Eo-UN5z86GY/hqdefault.jpg",Sev Kardeşim - 4K Restorasyonlu Yeşilçam Filmi (Tarık Akan, Münir Özkul, Adile Naşit Halit Akçatepe)
+http://movies.yt-hls.workers.dev/Eo-UN5z86GY.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/X9XPSpOl0RA/hqdefault.jpg",Öyle Olsun | 4K Restorasyonlu Yeşilçam Filmi (Hulusi Kentmen, Tarık Akan, Müjde Ar)
+http://movies.yt-hls.workers.dev/X9XPSpOl0RA.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/_6ppyZe7IYc/hqdefault.jpg",Hababam Sınıfı Güle Güle - 4K Yeşilçam Filmi (İlyas Salman, Mehmet Ali Erbil, Yonca Evcimik)
+http://movies.yt-hls.workers.dev/_6ppyZe7IYc.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/EHRM2Ob0nH8/hqdefault.jpg",Hababam Sınıfı Dokuz Doğuruyor 4K Yeşilçam Filmi (İlyas Salman, Şener Şen,)
+http://movies.yt-hls.workers.dev/EHRM2Ob0nH8.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/zQTFOjQ3dnY/hqdefault.jpg",Ne Olacak Şimdi? | 4K Restorasyonlu Yeşilçam Filmi (Levent Kırca, Nevra Serezli)
+http://movies.yt-hls.workers.dev/zQTFOjQ3dnY.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/VuSze1AQzps/hqdefault.jpg",Feryat - 4K Restorasyonlu Yeşilçam Filmi (Tarık Akan, Emel Sayın, Halit Akçatepe, Metin Akpınar)
+http://movies.yt-hls.workers.dev/VuSze1AQzps.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/MPylLBig_C8/hqdefault.jpg",Seven Ne Yapmaz | 4K Restorasyonlu Yeşilçam Filmi (Kartal Tibet, Hülya Koçyiğit)
+http://movies.yt-hls.workers.dev/MPylLBig_C8.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/ptutO9yQeIg/hqdefault.jpg",Senede Bir Gün - 4K Restorasyonlu Yeşilçam Filmi (Kartal Tibet, Selda Alkor, Hülya Koçyiğit)
+http://movies.yt-hls.workers.dev/ptutO9yQeIg.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/XCUs-LNKSdA/hqdefault.jpg",Son Hıçkırık - 4K Restorasyonlu Yeşilçam Filmi (Kartal Tibet, Hülya Koçyiğit, Ayşen Gruda)
+http://movies.yt-hls.workers.dev/XCUs-LNKSdA.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/TgVgTP_MCeE/hqdefault.jpg",Tarkan | HD Restorasyonlu (TARKAN SERİSİNİN İLK FİLMİ)
+http://movies.yt-hls.workers.dev/TgVgTP_MCeE.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/TgVgTP_MCeE/hqdefault.jpg",Tarkan Gümüş Eyer - HD Restorasyonlu Full Film (Kartal Tibet, Eva Bender, Bilal İnci)
+http://movies.yt-hls.workers.dev/TgVgTP_MCeE.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/nBDUmDYQMyw/hqdefault.jpg",Tarkan Altın Madalyon - HD Restorasyonlu Full Film (Kartal Tibet, Zeki Alasya, Eva Bender)
+http://movies.yt-hls.workers.dev/nBDUmDYQMyw.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/UkQRA-EUhYU/hqdefault.jpg",Salako | FULL HD
+http://movies.yt-hls.workers.dev/UkQRA-EUhYU.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/lSu7Wc5lgXc/hqdefault.jpg",Son Hıçkırık | FULL HD
+http://movies.yt-hls.workers.dev/lSu7Wc5lgXc.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/SjjbSC7PpDU/hqdefault.jpg",Seven Ne Yapmaz HD Tek Parça
+http://movies.yt-hls.workers.dev/SjjbSC7PpDU.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/_wBLcZUT98Y/hqdefault.jpg",Hasret | FULL HD
+http://movies.yt-hls.workers.dev/_wBLcZUT98Y.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/7FKQauKZKsI/hqdefault.jpg",Banker Bilo | Restorasyonlu (Şener Şen - İlyas Salman)
+http://movies.yt-hls.workers.dev/7FKQauKZKsI.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/EXmzKB-Lduc/hqdefault.jpg",Aile Şerefi | Restorasyonlu (Münir Özkul - Adile Naşit)
+http://movies.yt-hls.workers.dev/EXmzKB-Lduc.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/DlyC48_BirQ/hqdefault.jpg",Yalancı Yarim | Yerli Film Tek Parça (FULL HD)
+http://movies.yt-hls.workers.dev/DlyC48_BirQ.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/AAldCMXkTJM/hqdefault.jpg",Öyle Olsun | FULL HD
+http://movies.yt-hls.workers.dev/AAldCMXkTJM.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/5gYFuZqzvHY/hqdefault.jpg",Ali Sakın Arkana Bakma | FULL HD
+http://movies.yt-hls.workers.dev/5gYFuZqzvHY.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/0QXGwkEjgac/hqdefault.jpg",Canım Kardeşim (1973) | Restorasyonlu (Full HD)
+http://movies.yt-hls.workers.dev/0QXGwkEjgac.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/Vfs1uAbef_A/hqdefault.jpg",Emine | FULL HD
+http://movies.yt-hls.workers.dev/Vfs1uAbef_A.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/FHwCDhLbfS0/hqdefault.jpg",Tatli Dillim | Yerli Film Tek Parça (FULL HD)
+http://movies.yt-hls.workers.dev/FHwCDhLbfS0.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/5Q_wKlkCJsU/hqdefault.jpg",Sultan | FULL HD
+http://movies.yt-hls.workers.dev/5Q_wKlkCJsU.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/GVHNNDUNtZE/hqdefault.jpg",Feryat | FULL HD
+http://movies.yt-hls.workers.dev/GVHNNDUNtZE.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/luv4hcYqCmg/hqdefault.jpg",Kalbimin Efendisi | Restorasyonlu (Hülya Koçyiğit - Ediz Hun)
+http://movies.yt-hls.workers.dev/luv4hcYqCmg.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/Ae0sqzsxeYw/hqdefault.jpg",Tarkan | Restorasyonlu (Kartal Tibet)
+http://movies.yt-hls.workers.dev/Ae0sqzsxeYw.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/MC2RJRawUHY/hqdefault.jpg",Salak Milyoner | Full HD
+http://movies.yt-hls.workers.dev/MC2RJRawUHY.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/wgG6xlQ1jx8/hqdefault.jpg",Hababam Sınıfı Tatilde | Full HD
+http://movies.yt-hls.workers.dev/wgG6xlQ1jx8.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/3Y8nUzSbTrE/hqdefault.jpg",Tarkan Güçlü Kahraman | Restorasyonlu (Kartal Tibet)
+http://movies.yt-hls.workers.dev/3Y8nUzSbTrE.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/puV5XXMzfu8/hqdefault.jpg",Arabesk | Restorasyonlu (Şener Şen - Müjde Ar)
+http://movies.yt-hls.workers.dev/puV5XXMzfu8.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/ldAO5onF9eQ/hqdefault.jpg",Işıklar Sönmesin | Restorasyonlu (Tuncel Kurtiz)
+http://movies.yt-hls.workers.dev/ldAO5onF9eQ.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/ge8WnlW6Jtc/hqdefault.jpg",Ah Nerede (1975) - Tek Parça
+http://movies.yt-hls.workers.dev/ge8WnlW6Jtc.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/GF8YgwO9zdM/hqdefault.jpg",Hababam Sınıfı Güle Güle | FULL HD
+http://movies.yt-hls.workers.dev/GF8YgwO9zdM.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/Fl6zBwNWpsc/hqdefault.jpg",Tosun Paşa | FULL HD
+http://movies.yt-hls.workers.dev/Fl6zBwNWpsc.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/guqpuNWQDhc/hqdefault.jpg",Yavrum (Tek Parça Yerli Film)
+http://movies.yt-hls.workers.dev/guqpuNWQDhc.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/KBu0OnLImjA/hqdefault.jpg",Cennetin Çocukları - Tek Parça
+http://movies.yt-hls.workers.dev/KBu0OnLImjA.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/s53JbR6KMN8/hqdefault.jpg",Ayşecik'le Ömercik - HD Tek Parça
+http://movies.yt-hls.workers.dev/s53JbR6KMN8.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/g7C1pwXULiQ/hqdefault.jpg",Delisin HD Tek Parça
+http://movies.yt-hls.workers.dev/g7C1pwXULiQ.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/Z78cur7i484/hqdefault.jpg",Hayat Sevince Güzel | FULL HD
+http://movies.yt-hls.workers.dev/Z78cur7i484.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/IozQHPx2Lk0/hqdefault.jpg",Köyden İndim Şehire | FULL HD
+http://movies.yt-hls.workers.dev/IozQHPx2Lk0.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/yM2r8H8A_P0/hqdefault.jpg",Hababam Sınıfı Sınıfta Kaldı | FULL HD
+http://movies.yt-hls.workers.dev/yM2r8H8A_P0.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/6M2N1dztNU0/hqdefault.jpg",Hababam Sınıfı | FULL HD
+http://movies.yt-hls.workers.dev/6M2N1dztNU0.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/hf2-8MRPGu8/hqdefault.jpg",Hababam Sınıfı Uyanıyor | FULL HD
+http://movies.yt-hls.workers.dev/hf2-8MRPGu8.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/4rAnNKCxlnc/hqdefault.jpg",Hababam Sınıfı Dokuz Doğuruyor | FULL HD
+http://movies.yt-hls.workers.dev/4rAnNKCxlnc.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/QzUIVhJu0jQ/hqdefault.jpg",Kanlı Deniz | (Tarık Akan - Hale Soygazi) - Tek Parça
+http://movies.yt-hls.workers.dev/QzUIVhJu0jQ.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/ip4EkJ1sMW8/hqdefault.jpg",Çöpçüler Kralı | FULL HD
+http://movies.yt-hls.workers.dev/ip4EkJ1sMW8.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/xs9XUjHvZsM/hqdefault.jpg",Bizim Aile | FULL HD
+http://movies.yt-hls.workers.dev/xs9XUjHvZsM.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/9O18JWO3oko/hqdefault.jpg",Neşeli Günler | FULL HD
+http://movies.yt-hls.workers.dev/9O18JWO3oko.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/FQ_7cabWOv0/hqdefault.jpg",Şaban Oğlu Şaban | FULL HD
+http://movies.yt-hls.workers.dev/FQ_7cabWOv0.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/ZDoLID8feBU/hqdefault.jpg",Kibar Feyzo | FULL HD
+http://movies.yt-hls.workers.dev/ZDoLID8feBU.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/stOXnCPxOws/hqdefault.jpg",Beyoğlu Güzeli | FULL HD
+http://movies.yt-hls.workers.dev/stOXnCPxOws.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/cvYnSzUNf7A/hqdefault.jpg",Süt Kardeşler | FULL HD
+http://movies.yt-hls.workers.dev/cvYnSzUNf7A.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/KRy20M7uQM4/hqdefault.jpg",Gülen Gözler | FULL HD
+http://movies.yt-hls.workers.dev/KRy20M7uQM4.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/gkvdYmkczPY/hqdefault.jpg",Mavi Boncuk | FULL HD
+http://movies.yt-hls.workers.dev/gkvdYmkczPY.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/0aPemUexAk4/hqdefault.jpg",Şekerpare | FULL HD
+http://movies.yt-hls.workers.dev/0aPemUexAk4.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/Z36c3fDqvJY/hqdefault.jpg",Erkek Güzeli Sefil Bilo | FULL HD
+http://movies.yt-hls.workers.dev/Z36c3fDqvJY.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/2psbme_Rsso/hqdefault.jpg",Oh Olsun | FULL HD
+http://movies.yt-hls.workers.dev/2psbme_Rsso.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/HBRD_HbCwHE/hqdefault.jpg",Ne Olacak Şimdi? | FULL HD
+http://movies.yt-hls.workers.dev/HBRD_HbCwHE.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/nz9Z7Et_bbk/hqdefault.jpg",Milyarder | FULL HD
+http://movies.yt-hls.workers.dev/nz9Z7Et_bbk.m3u8
+#EXTINF:-1 group-title="YouTube ARZU FILM", tvg-logo="https://i.ytimg.com/vi/l5qgnAgpDLw/hqdefault.jpg",Senede Bir Gün | Kartal Tibet, Hülya Koçyiğit | FULL HD
+http://movies.yt-hls.workers.dev/l5qgnAgpDLw.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/tf5wxvUrBoc/hqdefault.jpg",Yumurcak Köprüaltı Çocuğu | Cüneyt Arkın, Filiz Akın, İlker İnanoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/tf5wxvUrBoc.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/tf5wxvUrBoc/hqdefault.jpg",Talih Kuşu | Kemal Sunal, Yasemin Yalçın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/tf5wxvUrBoc.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/WdGv4-VTCLI/hqdefault.jpg",Yumurcağın Tatlı Rüyaları | Filiz Akın, Ediz Hun, İlker İnanoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/WdGv4-VTCLI.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/iDVejRoFFHQ/hqdefault.jpg",Vahşi Gelin | Gülşen Bubikoğlu, Cüneyt Arkın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/iDVejRoFFHQ.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/zYO_Yf5QERk/hqdefault.jpg",Ölüm Yolu | Kadir İnanır, Hülya Avşar | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/zYO_Yf5QERk.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/3QutgGem9j0/hqdefault.jpg",Taşı Toprağı Altın Şehir | Levent Kırca, Ayşegül Atik | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/3QutgGem9j0.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/jHmysCl6s1g/hqdefault.jpg",Keriz | Kemal Sunal, Perihan Savaş | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/jHmysCl6s1g.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/kVyvF84zEaA/hqdefault.jpg",Kara Murat Fatih'in Fedaisi | Cüneyt Arkın, Hale Soygazi | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/kVyvF84zEaA.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/gYmfyZBSS40/hqdefault.jpg",Varyemez | Kemal Sunal, Yasemin Yalçın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/gYmfyZBSS40.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/16Bv7GAoH4c/hqdefault.jpg",Bitirim Kardeşler | Kadir İnanır, Kartal Tibet | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/16Bv7GAoH4c.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/_dD3SAnHJ74/hqdefault.jpg",Gırgıriye | Müjdat Gezen, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/_dD3SAnHJ74.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/-E8we7Lwtss/hqdefault.jpg",Kara Murat Devler Savaşıyor | Cüneyt Arkın, Canan Perver | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/-E8we7Lwtss.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/QX5uyu_d8pM/hqdefault.jpg",Ne Umduk Ne Bulduk | Adile Naşit, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/QX5uyu_d8pM.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/ZlUiyY3pQvc/hqdefault.jpg",Bitirimler Sosyetede | Kadir İnanır, Kartal Tibet, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/ZlUiyY3pQvc.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/TwjRBJ7wB68/hqdefault.jpg",Kara Murat Denizler Hakimi | Cüneyt Arkın, Sevda Karaca | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/TwjRBJ7wB68.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/z0x8QrUNPZw/hqdefault.jpg",Üç Kağıtçılar | Cüneyt Arkın, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/z0x8QrUNPZw.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/-a0nOOdqXDc/hqdefault.jpg",Gırgıriye'de Şenlik Var | Müjdat Gezen, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/-a0nOOdqXDc.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/2Hrvu6QeW4s/hqdefault.jpg",Sıralardaki Heyecan | Bülent Ersoy, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/2Hrvu6QeW4s.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/IPzlBArCCFE/hqdefault.jpg",Yarınsız Adam | Kadir İnanır, Perihan Savaş | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/IPzlBArCCFE.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/G3vV_XZvrKY/hqdefault.jpg",Karılar Koğuşu | Kadir İnanır, Hülya Koçyiğit, Perihan Savaş | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/G3vV_XZvrKY.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/RTgcY369PJU/hqdefault.jpg",KAYIP KIZLAR | TARIK AKAN - AHU TUĞBA - NURİ ALÇO | FULL HD
+http://movies.yt-hls.workers.dev/RTgcY369PJU.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/NbeYNvNTHQQ/hqdefault.jpg",Gırgıriye'de Büyük Seçim | Müjdat Gezen, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/NbeYNvNTHQQ.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/cUGivulBQSY/hqdefault.jpg",Kara Murat Kara Şövalye'ye Karşı | Cüneyt Arkın, Burçin Doğu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/cUGivulBQSY.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/ZXbomW1dmN4/hqdefault.jpg",Yumurcak | Filiz Akın, İlker İnanoğlu, Kartal Tibet | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/ZXbomW1dmN4.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/E0WcF3yysnU/hqdefault.jpg",Kader Bağlayınca | Gülşen Bubikoğlu, Tarık Akan | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/E0WcF3yysnU.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/E505OY2vDHs/hqdefault.jpg",Canikom | Cüneyt Arkın, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/E505OY2vDHs.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/q6D-55PRgwg/hqdefault.jpg",Kurtar Beni | Gülşen Bubikoğlu, Talat Bulut | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/q6D-55PRgwg.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/uR860BjiuyA/hqdefault.jpg",Yumurcak Küçük Kovboy | Cüneyt Arkın, İlker İnanoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/uR860BjiuyA.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/5XdKSuLiy_8/hqdefault.jpg",Gırgıriye'de Cümbüş Var | Müjdat Gezen, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/5XdKSuLiy_8.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/qO3hNNcMt1s/hqdefault.jpg",Suçlu | Gülşen Bubikoğlu - Tarık Tarcan | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/qO3hNNcMt1s.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/dhCejHB7bgU/hqdefault.jpg",Karateciler İstanbul'da | Cüneyt Arkın, Helen Poon | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/dhCejHB7bgU.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/Oy7x_znWYN0/hqdefault.jpg",Kara Murat Ölüm Emri | Full HD Türk Filmi | Cüneyt Arkın, Feri Cansel
+http://movies.yt-hls.workers.dev/Oy7x_znWYN0.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/zSd7KPgX2RQ/hqdefault.jpg",Yaz Bekarı | Tarık Akan, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/zSd7KPgX2RQ.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/7lCsAxVRb6A/hqdefault.jpg",Bizim Kız | Tarık Akan, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/7lCsAxVRb6A.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/ZrqW-VWfeVs/hqdefault.jpg",Vazife Uğruna | Cüneyt Arkın, Şehnaz Dilan, Nuri Alço | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/ZrqW-VWfeVs.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/Yfi4VHcjycA/hqdefault.jpg",Vurgun | Cüneyt Arkın, Gönül Yazar | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/Yfi4VHcjycA.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/rZ9bstdL9UI/hqdefault.jpg",Sabah Yıldızı | Filiz Akın, Ediz Hun | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/rZ9bstdL9UI.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/cr12ax7p4Xo/hqdefault.jpg",Taçsız Kraliçe | Full HD Türk Filmi | Ahu Tuğba, Burçin Oraloğlu, Nuri Alço
+http://movies.yt-hls.workers.dev/cr12ax7p4Xo.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/kF-55I8pnhI/hqdefault.jpg",Kıskıvrak | Tarık Akan, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/kF-55I8pnhI.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/v0KuJaIBNlA/hqdefault.jpg",Oyun Bitti | Cüneyt Arkın, Filiz Akın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/v0KuJaIBNlA.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/dl3rsKOb6Ow/hqdefault.jpg",İşte Bizim Hikayemiz | Bülent Ersoy, Gülşen Bubikoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/dl3rsKOb6Ow.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/b4Nf_bJOq9U/hqdefault.jpg",Kara Murat Fatih'in Fermanı | Cüneyt Arkın, Melda Sözen | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/b4Nf_bJOq9U.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/fBp5Gh0hUg8/hqdefault.jpg",Babanın Evlatları | Tarık Akan - Öztürk Serengil - Robert Widmark | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/fBp5Gh0hUg8.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/xxLVEhRfWC8/hqdefault.jpg",Paramparça | Gülşen Bubikoğlu, Tarık Akan, Cüneyt Arkın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/xxLVEhRfWC8.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/I0SuRiyDq_8/hqdefault.jpg",Baş Belası | Gülşen Bubikoğlu, Sadri Alışık, Robert Widmark | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/I0SuRiyDq_8.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/fJnoEME_2Vc/hqdefault.jpg",Yarım Kalan Saadet | Cüneyt Arkın, Filiz Akın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/fJnoEME_2Vc.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/gBhkDdiyL5w/hqdefault.jpg",Zengin Mutfağı | Şener Şen, Nilüfer Açıkalın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/gBhkDdiyL5w.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/cTZM64JHztQ/hqdefault.jpg",O Kadın | Gülşen Bubikoğlu, Cihan Ünal | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/cTZM64JHztQ.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/IdFBFUNighY/hqdefault.jpg",Baskın | Full HD Türk Filmi | Cüneyt Arkın, Necla Nazır, Ekrem Bora
+http://movies.yt-hls.workers.dev/IdFBFUNighY.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/HIWwTWZP1H8/hqdefault.jpg",Savunma | Gülşen Bubikoğlu, Fikret Hakan, Kenan Kalav | FULL HD TÜRK FİLMİ
+http://movies.yt-hls.workers.dev/HIWwTWZP1H8.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/0Rre64ft3sE/hqdefault.jpg",Yağmur | Ediz Hun, Hülya Koçyiğit | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/0Rre64ft3sE.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/VUwxN0XdPnI/hqdefault.jpg",Cilveli Kız | Filiz Akın, Kartal Tibet | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/VUwxN0XdPnI.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/zUf-vXe1nv8/hqdefault.jpg",Kaçamak | Müjde Ar, Çetin Tekindor | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/zUf-vXe1nv8.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/fBdMfSAGxWM/hqdefault.jpg",Ayrı Dünyalar | Gülşen Bubikoğlu - Cüneyt Arkın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/fBdMfSAGxWM.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/19nytsT9EAk/hqdefault.jpg",Selamsız Bandosu | Şener Şen, Ali Uyandıran | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/19nytsT9EAk.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/o_tB6fARtjk/hqdefault.jpg",Gölge Oyunu | Şener Şen, Şevket Altuğ | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/o_tB6fARtjk.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/2s3asTXQYuo/hqdefault.jpg",Madde 438 | Gülşen Bubikoğlu, Berhan Şimşek | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/2s3asTXQYuo.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/9uQ0aEVZz4k/hqdefault.jpg",Beklenen Şarkı | Hülya Koçyiğit, Kartal Tibet | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/9uQ0aEVZz4k.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/_XHlfSjsorw/hqdefault.jpg",Ömrümce Aradım | Filiz Akın, Kartal Tibet | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/_XHlfSjsorw.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/YSz7L-eWJfE/hqdefault.jpg",Aşk Filmlerinin Unutulmaz Yönetmeni | Şener Şen, Pıtırcık Akerman | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/YSz7L-eWJfE.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/jj_FQRjvC4I/hqdefault.jpg",Söz Müdafanın | Hülya Koçyiğit, Ediz Hun | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/jj_FQRjvC4I.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/Y_Tol2jGqsE/hqdefault.jpg",Adını Anmayacağım | Hülya Koçyiğit, Cüneyt Arkın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/Y_Tol2jGqsE.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/zS8yOHyCDps/hqdefault.jpg",Kızımın Kanı | Full HD Türk Filmi | Tarık Akan, Mine Baysan, Neslihan Acar
+http://movies.yt-hls.workers.dev/zS8yOHyCDps.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/0y4GrvHXnjA/hqdefault.jpg",Acı Hayat | Cüneyt Arkın, Filiz Akın | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/0y4GrvHXnjA.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/jIp7WVeg6HI/hqdefault.jpg",Mağlup Edilemeyenler | Cüneyt Arkın, Müjde Ar | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/jIp7WVeg6HI.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/c_INaunxhd0/hqdefault.jpg",Fadime | Filiz Akın, Kartal Tibet | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/c_INaunxhd0.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/x2bECQYVpHA/hqdefault.jpg",Acı Hatıralar | Emel Sayın, Sadri Alışık | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/x2bECQYVpHA.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/EVoyyrkkDz8/hqdefault.jpg",Cambazhane Gülü Fadime | Full HD Türk Filmi | Filiz Akın, Ediz Hun | Tek Parça
+http://movies.yt-hls.workers.dev/EVoyyrkkDz8.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/ykXD2TdfrUE/hqdefault.jpg",Polis Dosyası | Cüneyt Arkın - Binnaz Avcı - Nuri Alço | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/ykXD2TdfrUE.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/f6gXsLVFL0c/hqdefault.jpg",Beyaz Ölüm | Tarık Akan - Ahu Tuğba - Yaprak Özdemiroğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/f6gXsLVFL0c.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/5NG62yT7Lp4/hqdefault.jpg",Ayrılık | Filiz Akın, Ediz Hun, Ekrem Bora | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/5NG62yT7Lp4.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/y98vjFWybBY/hqdefault.jpg",Hayat Sana Güzel | Şevket Çoruh, Hande Katipoğlu, Tuba Ünsal, Timur Acar, Dilber Ay | Full HD
+http://movies.yt-hls.workers.dev/y98vjFWybBY.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/ovaDaKj5864/hqdefault.jpg",İstanbul Tatili | Full HD Türk Filmi | Filiz Akın, Kartal Tibet | Tek Parça
+http://movies.yt-hls.workers.dev/ovaDaKj5864.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/JGbnq-H9fMk/hqdefault.jpg",İstiyorum (FULL HD) | Türk Filmi | Huysuz Virjin (Seyfi Dursunoğlu),  Bülent Ersoy, Fikret Hakan
+http://movies.yt-hls.workers.dev/JGbnq-H9fMk.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/gVo30V1lbIs/hqdefault.jpg",Almanyalı Yarim | Kadir İnanır, Filiz Akın | Full HD Türk Filmi | Tek Parça
+http://movies.yt-hls.workers.dev/gVo30V1lbIs.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/L1MszcHHNUc/hqdefault.jpg",İhtiras Fırtınası | Gülşen Bubikoğlu, Zuhal Olcay, Cihan Ünal | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/L1MszcHHNUc.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/VXn6rB9MMu0/hqdefault.jpg",Yumurcak Veda | Filiz Akın, İlker İnanoğlu | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/VXn6rB9MMu0.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/dA3o88RILBA/hqdefault.jpg",Akrep | Ahu Tuğba, Tarık Tarcan, Öztürk Serengil | Full HD
+http://movies.yt-hls.workers.dev/dA3o88RILBA.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/9wW_AWlPC50/hqdefault.jpg",Renkli Dünya | Full HD Türk Filmi | Gülşen Bubikoğlu, Erol Evgin | Tek Parça
+http://movies.yt-hls.workers.dev/9wW_AWlPC50.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/W4fxO6Pxmpo/hqdefault.jpg",Yankesici Kızın Aşkı | Filiz Akın, Sadri Alışık | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/W4fxO6Pxmpo.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/IL1GdW9J7OU/hqdefault.jpg",Oyun Bozan | Zeki Alasya, Okan Bayülgen | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/IL1GdW9J7OU.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/3AOxK0rkwMs/hqdefault.jpg",Kara Murat Şeyh Gaffar'a Karşı | Cüneyt Arkın
+http://movies.yt-hls.workers.dev/3AOxK0rkwMs.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/1I4x3-muJXs/hqdefault.jpg",Alev Alev | Gülşen Bubikoğlu - Tarık Akan - Cüneyt Arkın | Full HD
+http://movies.yt-hls.workers.dev/1I4x3-muJXs.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/gsv2xDrte-c/hqdefault.jpg",Hayat Köprüsü | Kadir İnanır - Sibel Turnagöl | Full HD
+http://movies.yt-hls.workers.dev/gsv2xDrte-c.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/F0hN0tBkbG4/hqdefault.jpg",Kanlı Para | Kadir İnanır, Meral Zeren, Ekrem Bora | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/F0hN0tBkbG4.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/d7r8Nx6cRNU/hqdefault.jpg",Dağlar Şahini (FULL HD) | Kartal Tibet, Zuhal Aktan | Siyah Beyaz Türk Filmi
+http://movies.yt-hls.workers.dev/d7r8Nx6cRNU.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/5uvqkR-ZZcM/hqdefault.jpg",İtham Ediyorum | Hale Soygazi, Kartal Tibet | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/5uvqkR-ZZcM.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/cL4q7kTkbJc/hqdefault.jpg",Hayat Kavgası | FULL HD TÜRK FİLMİ | Cüneyt Arkın, Sezer Güvenirgil (Siyah Beyaz)
+http://movies.yt-hls.workers.dev/cL4q7kTkbJc.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/5JcIkoHwOuc/hqdefault.jpg",Bar Kızı | Filiz Akın, Ediz Hun | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/5JcIkoHwOuc.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/rPXlRN_Pu4c/hqdefault.jpg",Adem İle Havva | Tarık Akan - Sibel Turnagöl | Full HD
+http://movies.yt-hls.workers.dev/rPXlRN_Pu4c.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/KXYjELIKNUc/hqdefault.jpg",Hak Yolu | Full HD Türk Filmi | Cüneyt Arkın, Nilüfer | Siyah Beyaz
+http://movies.yt-hls.workers.dev/KXYjELIKNUc.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/1D4JPIxS59M/hqdefault.jpg",Ağır Suç | Sadri Alışık, Sevda Ferdağ | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/1D4JPIxS59M.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/1oEf0HYx2Do/hqdefault.jpg",Dehşet Gecesi | Gülşen Bubikoğlu, Fikret Hakan | Full HD
+http://movies.yt-hls.workers.dev/1oEf0HYx2Do.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/CaMtcELZRiM/hqdefault.jpg",Sürgün | Saadet Aksoy, Tolgahan Sayışman, Mahir Günşiray, Ruhsar Öcal | Full HD
+http://movies.yt-hls.workers.dev/CaMtcELZRiM.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/tIjbRzAMShU/hqdefault.jpg",Sapık Kadın | Perihan Savaş - Tarık Tarcan - Bahar Öztan | Full HD
+http://movies.yt-hls.workers.dev/tIjbRzAMShU.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/F_UqNzlXnms/hqdefault.jpg",Kalbimdeki Düşman | Cihan Ünal - Harika Avcı | Full HD
+http://movies.yt-hls.workers.dev/F_UqNzlXnms.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/3Qb8FcIwjlE/hqdefault.jpg",Hedef | Kadir İnanır | Türk Filmi
+http://movies.yt-hls.workers.dev/3Qb8FcIwjlE.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/M9d5F80Rydw/hqdefault.jpg",Kolejli Kızın Aşkı | Full HD Türk Filmi | Ayhan Işık, Filiz Akın (Siyah Beyaz)
+http://movies.yt-hls.workers.dev/M9d5F80Rydw.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/ZMnk8eLFXbo/hqdefault.jpg",Babasına Bak Oğlunu Al | Filiz Akın, Öztürk Serengil | Türk Filmi | Full HD
+http://movies.yt-hls.workers.dev/ZMnk8eLFXbo.m3u8
+#EXTINF:-1 group-title="YouTube ERLER FILM", tvg-logo="https://i.ytimg.com/vi/TewEs4_yTrQ/hqdefault.jpg",Hüzünlü Aşk | Full HD Türk Filmi | Filiz Akın, Ekrem Bora, Engin Çağlar | Siyah Beyaz
+http://movies.yt-hls.workers.dev/TewEs4_yTrQ.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/fPu99NK_XSU/hqdefault.jpg",Taşacak Bu Deniz 22. Bölüm @trt1
 http://movies.yt-hls.workers.dev/fPu99NK_XSU.m3u8
-#EXTINF:-1 group-title="Youtube COCUK"  tvg-logo="https://i.ytimg.com/vi/MVz78zWE_OU/hqdefault.jpg",Keloğlan - Uzun Yaver'e Karşı
-http://movies.yt-hls.workers.dev/MVz78zWE_OU.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/fPu99NK_XSU/hqdefault.jpg",Taşacak Bu Deniz 21. Bölüm @trt1
+http://movies.yt-hls.workers.dev/fPu99NK_XSU.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/secZk2RJJ0w/hqdefault.jpg",Taşacak Bu Deniz 20. Bölüm @trt1
+http://movies.yt-hls.workers.dev/secZk2RJJ0w.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/DRaedmBNr7Q/hqdefault.jpg",Taşacak Bu Deniz 19. Bölüm @trt1
+http://movies.yt-hls.workers.dev/DRaedmBNr7Q.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/6ScraVJVLn4/hqdefault.jpg",Taşacak Bu Deniz 18. Bölüm @trt1
+http://movies.yt-hls.workers.dev/6ScraVJVLn4.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/HxDtpbsyEi0/hqdefault.jpg",Taşacak Bu Deniz 17. Bölüm @trt1
+http://movies.yt-hls.workers.dev/HxDtpbsyEi0.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/wvQdEN2djPM/hqdefault.jpg",Taşacak Bu Deniz 16. Bölüm @trt1
+http://movies.yt-hls.workers.dev/wvQdEN2djPM.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/dU3f5GAdjKQ/hqdefault.jpg",Taşacak Bu Deniz 15. Bölüm @trt1
+http://movies.yt-hls.workers.dev/dU3f5GAdjKQ.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/4MZ0HcTN96I/hqdefault.jpg",Taşacak Bu Deniz 14. Bölüm @trt1
+http://movies.yt-hls.workers.dev/4MZ0HcTN96I.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/Tvs4S5FysVc/hqdefault.jpg",Taşacak Bu Deniz 13. Bölüm @trt1
+http://movies.yt-hls.workers.dev/Tvs4S5FysVc.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/RtevEBkDy-w/hqdefault.jpg",Taşacak Bu Deniz 12. Bölüm @trt1
+http://movies.yt-hls.workers.dev/RtevEBkDy-w.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/jrQ0M_avEV8/hqdefault.jpg",Taşacak Bu Deniz 11. Bölüm @trt1
+http://movies.yt-hls.workers.dev/jrQ0M_avEV8.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/wLMdG41TynE/hqdefault.jpg",Taşacak Bu Deniz 10. Bölüm @trt1
+http://movies.yt-hls.workers.dev/wLMdG41TynE.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/poIxPW7UA-E/hqdefault.jpg",Taşacak Bu Deniz 9. Bölüm @trt1
+http://movies.yt-hls.workers.dev/poIxPW7UA-E.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/b1Lm3yYs5Zg/hqdefault.jpg",Taşacak Bu Deniz 8. Bölüm @trt1
+http://movies.yt-hls.workers.dev/b1Lm3yYs5Zg.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/sh2WCyUy0h0/hqdefault.jpg",Taşacak Bu Deniz 7. Bölüm @trt1
+http://movies.yt-hls.workers.dev/sh2WCyUy0h0.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/EHq8UmpPu84/hqdefault.jpg",Taşacak Bu Deniz 6. Bölüm @trt1
+http://movies.yt-hls.workers.dev/EHq8UmpPu84.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/J8SqF7NOS-s/hqdefault.jpg",Taşacak Bu Deniz 5. Bölüm @trt1
+http://movies.yt-hls.workers.dev/J8SqF7NOS-s.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/gC19kLME-Hk/hqdefault.jpg",Taşacak Bu Deniz 4. Bölüm @trt1
+http://movies.yt-hls.workers.dev/gC19kLME-Hk.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/Rbie3P3b9O8/hqdefault.jpg",Taşacak Bu Deniz 3. Bölüm @trt1
+http://movies.yt-hls.workers.dev/Rbie3P3b9O8.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/noPBNKkLFfw/hqdefault.jpg",Taşacak Bu Deniz 2. Bölüm @trt1
+http://movies.yt-hls.workers.dev/noPBNKkLFfw.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Taşacak Bu Deniz", tvg-logo="https://i.ytimg.com/vi/MGY_4Qvo72o/hqdefault.jpg",Taşacak Bu Deniz 1. Bölüm @trt1
+http://movies.yt-hls.workers.dev/MGY_4Qvo72o.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Sevdiğim Sensin", tvg-logo="https://i.ytimg.com/vi/Qn1kdkbfgsw/hqdefault.jpg",Sevdiğim Sensin 4. Bölüm
+http://movies.yt-hls.workers.dev/Qn1kdkbfgsw.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Sevdiğim Sensin", tvg-logo="https://i.ytimg.com/vi/Qn1kdkbfgsw/hqdefault.jpg",Sevdiğim Sensin 3. Bölüm
+http://movies.yt-hls.workers.dev/Qn1kdkbfgsw.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Sevdiğim Sensin", tvg-logo="https://i.ytimg.com/vi/srhO2rngqSc/hqdefault.jpg",Sevdiğim Sensin 2. Bölüm
+http://movies.yt-hls.workers.dev/srhO2rngqSc.m3u8
+#EXTINF:-1 group-title="YouTube DIZI Sevdiğim Sensin", tvg-logo="https://i.ytimg.com/vi/Ih-_ALi74OA/hqdefault.jpg",Sevdiğim Sensin 1. Bölüm
+http://movies.yt-hls.workers.dev/Ih-_ALi74OA.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/OOlAOosSiEc/hqdefault.jpg",Ezel 1. Bölüm | Efsane Artık 4K 60 FPS!
+http://movies.yt-hls.workers.dev/OOlAOosSiEc.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/T6UZhrunjSo/hqdefault.jpg",Ezel 2. Bölüm
+http://movies.yt-hls.workers.dev/T6UZhrunjSo.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/4tulyH8Y91Q/hqdefault.jpg",Ezel 3. Bölüm
+http://movies.yt-hls.workers.dev/4tulyH8Y91Q.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/Jqm1MDxUNlo/hqdefault.jpg",Ezel 4. Bölüm
+http://movies.yt-hls.workers.dev/Jqm1MDxUNlo.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/yl-iudreN-g/hqdefault.jpg",Ezel 5. Bölüm
+http://movies.yt-hls.workers.dev/yl-iudreN-g.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/TFjjfXJ9ojA/hqdefault.jpg",Ezel 6. Bölüm
+http://movies.yt-hls.workers.dev/TFjjfXJ9ojA.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/6UOKx0PN8SA/hqdefault.jpg",Ezel 7. Bölüm
+http://movies.yt-hls.workers.dev/6UOKx0PN8SA.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/3HKbPaVJdHc/hqdefault.jpg",Ezel 8. Bölüm
+http://movies.yt-hls.workers.dev/3HKbPaVJdHc.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/JkVmwURfbZk/hqdefault.jpg",Ezel 9. Bölüm
+http://movies.yt-hls.workers.dev/JkVmwURfbZk.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/q51gAOF7_P8/hqdefault.jpg",Ezel 10. Bölüm
+http://movies.yt-hls.workers.dev/q51gAOF7_P8.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/qguf6giAFCg/hqdefault.jpg",Ezel 11. Bölüm
+http://movies.yt-hls.workers.dev/qguf6giAFCg.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/Tfwe8DJ6b4I/hqdefault.jpg",Ezel 12. Bölüm
+http://movies.yt-hls.workers.dev/Tfwe8DJ6b4I.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/gfT9SITvE3M/hqdefault.jpg",Ezel 13. Bölüm
+http://movies.yt-hls.workers.dev/gfT9SITvE3M.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/w7BPGxjolrs/hqdefault.jpg",Ezel 14. Bölüm
+http://movies.yt-hls.workers.dev/w7BPGxjolrs.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/FQxSrdWQbEo/hqdefault.jpg",Ezel 15. Bölüm
+http://movies.yt-hls.workers.dev/FQxSrdWQbEo.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/xvQMt9HiG4A/hqdefault.jpg",Ezel 16. Bölüm
+http://movies.yt-hls.workers.dev/xvQMt9HiG4A.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/lHQJuM03K70/hqdefault.jpg",Ezel 17. Bölüm
+http://movies.yt-hls.workers.dev/lHQJuM03K70.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/w-wRMzMn6qU/hqdefault.jpg",Ezel 18. Bölüm
+http://movies.yt-hls.workers.dev/w-wRMzMn6qU.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/-xztaauUBG0/hqdefault.jpg",Ezel 19. Bölüm
+http://movies.yt-hls.workers.dev/-xztaauUBG0.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/LNoj0uJl9Ek/hqdefault.jpg",Ezel 20. Bölüm
+http://movies.yt-hls.workers.dev/LNoj0uJl9Ek.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/05ykVCxW9w8/hqdefault.jpg",Ezel 21. Bölüm
+http://movies.yt-hls.workers.dev/05ykVCxW9w8.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/kzsksaiiMYA/hqdefault.jpg",Ezel 22. Bölüm
+http://movies.yt-hls.workers.dev/kzsksaiiMYA.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/LIrH6UFH4kI/hqdefault.jpg",Ezel 23. Bölüm
+http://movies.yt-hls.workers.dev/LIrH6UFH4kI.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/sgrsYr2ZefM/hqdefault.jpg",Ezel 24. Bölüm
+http://movies.yt-hls.workers.dev/sgrsYr2ZefM.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/zOX9-CTJE9g/hqdefault.jpg",Ezel 25. Bölüm
+http://movies.yt-hls.workers.dev/zOX9-CTJE9g.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/ABXvHVXwIuE/hqdefault.jpg",Ezel 26. Bölüm
+http://movies.yt-hls.workers.dev/ABXvHVXwIuE.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/6sKE79cZ47M/hqdefault.jpg",Ezel 27. Bölüm
+http://movies.yt-hls.workers.dev/6sKE79cZ47M.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/XirtH3SP_Hg/hqdefault.jpg",Ezel 28. Bölüm
+http://movies.yt-hls.workers.dev/XirtH3SP_Hg.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/487Nfa-3fkE/hqdefault.jpg",Ezel 29. Bölüm
+http://movies.yt-hls.workers.dev/487Nfa-3fkE.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/83D7WrFzZog/hqdefault.jpg",Ezel 30. Bölüm
+http://movies.yt-hls.workers.dev/83D7WrFzZog.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/G5E8TgrsKdY/hqdefault.jpg",Ezel 31. Bölüm
+http://movies.yt-hls.workers.dev/G5E8TgrsKdY.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/wn3k4DAOeKc/hqdefault.jpg",Ezel 32. Bölüm
+http://movies.yt-hls.workers.dev/wn3k4DAOeKc.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/rrY7gcr3uU8/hqdefault.jpg",Ezel 33. Bölüm Sezon Finali
+http://movies.yt-hls.workers.dev/rrY7gcr3uU8.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/kY0VeL_tcz8/hqdefault.jpg",Ezel 34. Bölüm
+http://movies.yt-hls.workers.dev/kY0VeL_tcz8.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/RSmAdrgAAlc/hqdefault.jpg",Ezel 35. Bölüm
+http://movies.yt-hls.workers.dev/RSmAdrgAAlc.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/yYIco9coys4/hqdefault.jpg",Ezel 36. Bölüm
+http://movies.yt-hls.workers.dev/yYIco9coys4.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/eQnMOaNjLSw/hqdefault.jpg",Ezel 37. Bölüm
+http://movies.yt-hls.workers.dev/eQnMOaNjLSw.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/Yv1Tc-y1Ka4/hqdefault.jpg",Ezel 38. Bölüm
+http://movies.yt-hls.workers.dev/Yv1Tc-y1Ka4.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/0EHPHgDw_V8/hqdefault.jpg",Ezel 39. Bölüm
+http://movies.yt-hls.workers.dev/0EHPHgDw_V8.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/WBHpoxFEI4A/hqdefault.jpg",Ezel 40. Bölüm
+http://movies.yt-hls.workers.dev/WBHpoxFEI4A.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/a7kygWs-R6k/hqdefault.jpg",Ezel 41. Bölüm
+http://movies.yt-hls.workers.dev/a7kygWs-R6k.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/e1ynkjzEFZc/hqdefault.jpg",Ezel 42. Bölüm
+http://movies.yt-hls.workers.dev/e1ynkjzEFZc.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/HcFodO3Ae_A/hqdefault.jpg",Ezel 43. Bölüm
+http://movies.yt-hls.workers.dev/HcFodO3Ae_A.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/lIjEHRAuqRE/hqdefault.jpg",Ezel 44. Bölüm
+http://movies.yt-hls.workers.dev/lIjEHRAuqRE.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/QZj166E_syg/hqdefault.jpg",Ezel 45. Bölüm
+http://movies.yt-hls.workers.dev/QZj166E_syg.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/egnzczAeJek/hqdefault.jpg",Ezel 46. Bölüm
+http://movies.yt-hls.workers.dev/egnzczAeJek.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/OTHgdQTYV6w/hqdefault.jpg",Ezel 47. Bölüm
+http://movies.yt-hls.workers.dev/OTHgdQTYV6w.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/cTy7fSkNNPo/hqdefault.jpg",Ezel 48. Bölüm
+http://movies.yt-hls.workers.dev/cTy7fSkNNPo.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/I-yK69uy9ao/hqdefault.jpg",Ezel 49. Bölüm
+http://movies.yt-hls.workers.dev/I-yK69uy9ao.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/gMW6mOu0bXQ/hqdefault.jpg",Ezel 50. Bölüm
+http://movies.yt-hls.workers.dev/gMW6mOu0bXQ.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/tTvHKWEaYiE/hqdefault.jpg",Ezel 51. Bölüm
+http://movies.yt-hls.workers.dev/tTvHKWEaYiE.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/dkbmpACx8h4/hqdefault.jpg",Ezel 52. Bölüm
+http://movies.yt-hls.workers.dev/dkbmpACx8h4.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/-O4ZwR1Ha04/hqdefault.jpg",Ezel 53. Bölüm
+http://movies.yt-hls.workers.dev/-O4ZwR1Ha04.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/A-orEp2JWNo/hqdefault.jpg",Ezel 54. Bölüm
+http://movies.yt-hls.workers.dev/A-orEp2JWNo.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/hcFSwzKvrfg/hqdefault.jpg",Ezel 55. Bölüm
+http://movies.yt-hls.workers.dev/hcFSwzKvrfg.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/pNOiyqt6VcI/hqdefault.jpg",Ezel 56. Bölüm
+http://movies.yt-hls.workers.dev/pNOiyqt6VcI.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/dX1MRjnLg6Y/hqdefault.jpg",Ezel 57. Bölüm
+http://movies.yt-hls.workers.dev/dX1MRjnLg6Y.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/vdpPCHU6dp4/hqdefault.jpg",Ezel 58. Bölüm
+http://movies.yt-hls.workers.dev/vdpPCHU6dp4.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/kB1vTWJwY3k/hqdefault.jpg",Ezel 59. Bölüm
+http://movies.yt-hls.workers.dev/kB1vTWJwY3k.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/Jhx8TXQOszE/hqdefault.jpg",Ezel 60. Bölüm
+http://movies.yt-hls.workers.dev/Jhx8TXQOszE.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/E9tAb2XMMjg/hqdefault.jpg",Ezel 61. Bölüm
+http://movies.yt-hls.workers.dev/E9tAb2XMMjg.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/fqO_ZFeeqmQ/hqdefault.jpg",Ezel 62. Bölüm
+http://movies.yt-hls.workers.dev/fqO_ZFeeqmQ.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/RUVT4mUvPko/hqdefault.jpg",Ezel 63. Bölüm
+http://movies.yt-hls.workers.dev/RUVT4mUvPko.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/Yq_TdEhQaVs/hqdefault.jpg",Ezel 64. Bölüm
+http://movies.yt-hls.workers.dev/Yq_TdEhQaVs.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/_eInGQxQMq0/hqdefault.jpg",Ezel 65. Bölüm
+http://movies.yt-hls.workers.dev/_eInGQxQMq0.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/8o5HNL94rWE/hqdefault.jpg",Ezel 66. Bölüm
+http://movies.yt-hls.workers.dev/8o5HNL94rWE.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/V4e2goPr544/hqdefault.jpg",Ezel 67. Bölüm
+http://movies.yt-hls.workers.dev/V4e2goPr544.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/iz7WVS9d5R8/hqdefault.jpg",Ezel 68. Bölüm
+http://movies.yt-hls.workers.dev/iz7WVS9d5R8.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/9dlcugjpobE/hqdefault.jpg",Ezel 69. Bölüm
+http://movies.yt-hls.workers.dev/9dlcugjpobE.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/ijCK0YqYQ3w/hqdefault.jpg",Ezel 70. Bölüm
+http://movies.yt-hls.workers.dev/ijCK0YqYQ3w.m3u8
+#EXTINF:-1 group-title="YouTube DIZI EZEL", tvg-logo="https://i.ytimg.com/vi/6_oJxZDAYBY/hqdefault.jpg",Ezel 71. Bölüm Final
+http://movies.yt-hls.workers.dev/6_oJxZDAYBY.m3u8
 #EXTINF:-1 group-title="Youtube YABANCI FILM"  tvg-logo="https://i.ytimg.com/vi/h4G60hPwfbg/hqdefault.jpg",NO EXİT | KORKU FİLMİ TÜRKÇE DUBLAJ HD
 http://movies.yt-hls.workers.dev/h4G60hPwfbg.m3u8
 #EXTINF:-1 group-title="Youtube YABANCI FILM"  tvg-logo="https://i.ytimg.com/vi/If6K3w0IWLw/hqdefault.jpg",MONOLITH | GERİLİM FİLMİ TÜRKÇE DUBLAJ HD
