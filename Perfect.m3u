@@ -135,6 +135,22 @@ http://schedule-statutory-latex-colored.trycloudflare.com/Tivizon.php?ID=tv4
 http://schedule-statutory-latex-colored.trycloudflare.com/Tivizon.php?ID=kralpoptv
 #EXTINF:-1 group-title="Tivizon" tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8",aSPOR
 http://schedule-statutory-latex-colored.trycloudflare.com/Tivizon.php?ID=aspor
+#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/nBDUmDYQMyw/hqdefault.jpg",Tarkan Gümüş Eyer HD
+http://movies.yt-hls.workers.dev/nBDUmDYQMyw.m3u8
+#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/puV5XXMzfu8/hqdefault.jpg",Tarkan Güçlü Kahraman
+http://movies.yt-hls.workers.dev/puV5XXMzfu8.m3u8
+#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/eXIKlgsunUQ/hqdefault.jpg",Tarkan Güçlü Kahraman 4K
+http://movies.yt-hls.workers.dev/eXIKlgsunUQ.m3u8
+#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/TgVgTP_MCeE/hqdefault.jpg",Tarkan
+http://movies.yt-hls.workers.dev/TgVgTP_MCeE.m3u8
+#EXTINF:-1 group-title="Youtube TR FILM"  tvg-logo="https://i.ytimg.com/vi/lTHR3Cs1z2M/hqdefault.jpg",Tarkan Viking Kanı 4K
+http://movies.yt-hls.workers.dev/lTHR3Cs1z2M.m3u8
+#EXTINF:-1 group-title="Youtube TR DIZI"  tvg-logo="https://yt3.googleusercontent.com/yiJ-DeL67W3VWGlp3RxL0vP2WTqLnQKefLdp3zd2h_BKV_zK6CHZyUSxbQf4WWge1F6Kcdu45CM",Sevdiğim Sensin 7. Bölüm
+http://movies.yt-hls.workers.dev/c2XdVurw0Kw.m3u8
+#EXTINF:-1 group-title="Youtube TR DIZI"  tvg-logo="https://yt3.googleusercontent.com/Cwpsz_Ra5vtrHpiI8KCtr6LhbBPqFHQ0vDHfRe0kXXNwbigVGFvjz4Qv_XxMru0DDji4thfBIQU",Taşacak Bu Deniz 22. Bölüm
+http://movies.yt-hls.workers.dev/fPu99NK_XSU.m3u8
+#EXTINF:-1 group-title="Youtube COCUK"  tvg-logo="https://i.ytimg.com/vi/MVz78zWE_OU/hqdefault.jpg",Keloğlan - Uzun Yaver'e Karşı
+http://movies.yt-hls.workers.dev/MVz78zWE_OU.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw" group-title="YouTube",NTV
 http://live.yt-hls.workers.dev/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ" group-title="YouTube",SOZCU
