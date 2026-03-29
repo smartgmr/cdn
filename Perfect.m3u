@@ -1389,6 +1389,470 @@ http://tv.smartglwiz.workers.dev/?ID=MaviKaradeniz_HD
 http://tv.smartglwiz.workers.dev/?ID=TMB_HD
 #EXTINF:-1 group-title="GLWIZ TURK", tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304425.png",Vuslat
 http://tv.smartglwiz.workers.dev/?ID=Vuslat_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300923" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300923.png",Tapesh America
+http://live.smartglwiz.workers.dev/?ID=TapeshAmerica_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307513" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307513.png",Channel One
+http://live.smartglwiz.workers.dev/?ID=ChannelOne_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="301070" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301070.png",ITN
+http://live.smartglwiz.workers.dev/?ID=ITN_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307572" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307572.png",Nahade Azadi
+http://live.smartglwiz.workers.dev/?ID=NahadeAzadi_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300349" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300349.png",Omid E Iran
+http://live.smartglwiz.workers.dev/?ID=OmidEIran_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306821" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306821.png",Iran International
+http://live.smartglwiz.workers.dev/?ID=IranInternational_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300677" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300677.png",BBC Persian
+http://live.smartglwiz.workers.dev/?ID=BBCPersian_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307380" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307380.png",T2 International
+http://live.smartglwiz.workers.dev/?ID=T2International_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300327" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300327.png",Pars TV
+http://live.smartglwiz.workers.dev/?ID=ParsTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="301403" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301403.png",EuroNews Farsi
+http://live.smartglwiz.workers.dev/?ID=EuroNewsFarsi_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300253" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300253.png",VOA
+http://live.smartglwiz.workers.dev/?ID=VoA_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306147" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306147.png",RJ TV
+http://live.smartglwiz.workers.dev/?ID=RJTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300331" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300331.png",Tasvir E Iran
+http://live.smartglwiz.workers.dev/?ID=TasvirEIran_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302550" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302550.png",Iran e Farda
+http://live.smartglwiz.workers.dev/?ID=IraneFarda_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300360" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300360.png",ITC
+http://live.smartglwiz.workers.dev/?ID=ITC_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="301157" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301157.png",TM TV
+http://live.smartglwiz.workers.dev/?ID=TMTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300511" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300511.png",MBC Persia
+http://live.smartglwiz.workers.dev/?ID=MBCPersia_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306828" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306828.png",Ekran Kids
+http://live.smartglwiz.workers.dev/?ID=EkranKids_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306418" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306418.png",Radio Farda
+http://live.smartglwiz.workers.dev/?ID=RadioFardaTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300350" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300350.png",PTV1
+http://live.smartglwiz.workers.dev/?ID=PTV1_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302132" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302132.png",Irane Aryaee
+http://live.smartglwiz.workers.dev/?ID=IranEAryaee_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300899" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300899.png",Ayeneh TV
+http://live.smartglwiz.workers.dev/?ID=AyenehTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307414" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307414.png",Afghanistan International
+http://live.smartglwiz.workers.dev/?ID=AfghanistanInternational_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307044" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307044.png",Your Time TV
+http://live.smartglwiz.workers.dev/?ID=YourTimeTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306374" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306374.png",Ekran Movies
+http://live.smartglwiz.workers.dev/?ID=EkranMovies_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307260" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307260.png",T2 America
+http://live.smartglwiz.workers.dev/?ID=T2America_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306964" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306964.png",Mihan TV
+http://live.smartglwiz.workers.dev/?ID=MihanTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300578" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300578.png",AFN
+http://live.smartglwiz.workers.dev/?ID=AFN_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300338" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300338.png",TAPESH
+http://live.smartglwiz.workers.dev/?ID=TAPESH_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307356" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307356.png",Iran Proud Series Plus
+http://live.smartglwiz.workers.dev/?ID=IranProudSeriesPlus_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306403" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306403.png",ITN Europe
+http://live.smartglwiz.workers.dev/?ID=ITNEurope_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305194" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305194.png",Royal Time TV
+http://live.smartglwiz.workers.dev/?ID=RoyalTimeTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302555" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302555.png",Today
+http://live.smartglwiz.workers.dev/?ID=Today_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307169" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307169.png",Gem Food
+http://live.smartglwiz.workers.dev/?ID=GemFood_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307498" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307498.png",GEM Academy
+http://live.smartglwiz.workers.dev/?ID=GEMAcademy_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300202" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300202.png",Film 1
+http://live.smartglwiz.workers.dev/?ID=Film1_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302055" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302055.png",Classic TV
+http://live.smartglwiz.workers.dev/?ID=ClassicTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300925" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300925.png",Mohabat
+http://live.smartglwiz.workers.dev/?ID=Mohabat_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306337" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306337.png",Khane Honarmandan
+http://live.smartglwiz.workers.dev/?ID=Khanehonarmandan_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305272" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305272.png",Persiana Family
+http://live.smartglwiz.workers.dev/?ID=PersianaFamily_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306880" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306880.png",Persiana Cinema
+http://live.smartglwiz.workers.dev/?ID=PersianaCinema_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307312" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307312.png",Persiana Comedy
+http://live.smartglwiz.workers.dev/?ID=PersianaComedy_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303785" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303785.png",GEM Documentary
+http://live.smartglwiz.workers.dev/?ID=GemDocumentary_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307224" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307224.png",GEM Comedy
+http://live.smartglwiz.workers.dev/?ID=GemComedy_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305181" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305181.png",Payvand
+http://live.smartglwiz.workers.dev/?ID=Payvand_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306654" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306654.png",Az Star TV
+http://live.smartglwiz.workers.dev/?ID=AzStarTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="301174" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301174.png",Salaam
+http://live.smartglwiz.workers.dev/?ID=SalaamTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307340" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307340.png",Persiana Korea
+http://live.smartglwiz.workers.dev/?ID=PersianaKorea_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307272" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307272.png",Persiana Iranian
+http://live.smartglwiz.workers.dev/?ID=PersianaIranian_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307482" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307482.png",Hambastegi
+http://live.smartglwiz.workers.dev/?ID=Hambastegi_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307035" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307035.png",AVA Family
+http://live.smartglwiz.workers.dev/?ID=AVAFamily_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307620" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307620.png",Pro Sport International
+http://live.smartglwiz.workers.dev/?ID=ProSport_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307250" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307250.png",AVA Series
+http://live.smartglwiz.workers.dev/?ID=AVASeries_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307604" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307604.png",4 Turk
+http://live.smartglwiz.workers.dev/?ID=4Turk_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302563" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302563.png",PJ TV
+http://live.smartglwiz.workers.dev/?ID=PJTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307449" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307449.png",FX 22
+http://live.smartglwiz.workers.dev/?ID=FX22_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307308" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307308.png",MTC
+http://live.smartglwiz.workers.dev/?ID=MTC_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307403" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307403.png",ICnet 2
+http://live.smartglwiz.workers.dev/?ID=ICnet2_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305147" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305147.png",ICnet 1
+http://live.smartglwiz.workers.dev/?ID=ICnet_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307616" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307616.png",Navahang
+http://live.smartglwiz.workers.dev/?ID=Navahang_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305626" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305626.png",Shabakeh 7
+http://live.smartglwiz.workers.dev/?ID=Shabakeh7_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307477" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307477.png",Persiana Docs
+http://live.smartglwiz.workers.dev/?ID=PersianaDocs_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307264" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307264.png",Persiana Sport
+http://live.smartglwiz.workers.dev/?ID=PersianaSport_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306561" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306561.png",Eshare TV
+http://live.smartglwiz.workers.dev/?ID=EshareTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307490" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307490.png",Persiana Reality
+http://live.smartglwiz.workers.dev/?ID=PersianaReality_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305198" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305198.png",Didgah
+http://live.smartglwiz.workers.dev/?ID=Didgah_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302142" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302142.png",Farhange Iran Zamin
+http://live.smartglwiz.workers.dev/?ID=FarhangeIranZamin_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307510" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307510.png",Rahe Nejat
+http://live.smartglwiz.workers.dev/?ID=RaheNejat_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306971" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306971.png",Aein Jadeed
+http://live.smartglwiz.workers.dev/?ID=AeinJadeed_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303655" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303655.png",Payame Aramesh
+http://live.smartglwiz.workers.dev/?ID=PayameAramesh_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307451" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307451.png",Persiana Latino
+http://live.smartglwiz.workers.dev/?ID=PersianaLatino_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303985" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303985.png",Kanal Jadid
+http://live.smartglwiz.workers.dev/?ID=KanalJadid_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300512" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300512.png",GEM TV
+http://live.smartglwiz.workers.dev/?ID=GEMTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303680" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303680.png",GEM Life
+http://live.smartglwiz.workers.dev/?ID=GemLife1_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307372" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307372.png",Iman Be Masih 
+http://live.smartglwiz.workers.dev/?ID=ImanBeMasih_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307300" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307300.png",Persiana Series
+http://live.smartglwiz.workers.dev/?ID=PersianaSeries_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306668" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306668.png",Omid e Javedan
+http://live.smartglwiz.workers.dev/?ID=OmideJavedan_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306718" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306718.png",4U TV
+http://live.smartglwiz.workers.dev/?ID=4uTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306975" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306975.png",Woman TV
+http://live.smartglwiz.workers.dev/?ID=WomanTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307360" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307360.png",Persiana Plus
+http://live.smartglwiz.workers.dev/?ID=PersianaPlus_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="301179" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301179.png",Ganj E Hozour 
+http://live.smartglwiz.workers.dev/?ID=GanjeHozour_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307101" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307101.png",Israel Pars TV
+http://live.smartglwiz.workers.dev/?ID=IsraelParsTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307409" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307409.png",Cafe Trade TV
+http://live.smartglwiz.workers.dev/?ID=CafeTradeTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307424" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307424.png",Nejat TV
+http://live.smartglwiz.workers.dev/?ID=NejatTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307447" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307447.png",Persian Procast
+http://live.smartglwiz.workers.dev/?ID=PersianProcast_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307304" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307304.png",Net TV
+http://live.smartglwiz.workers.dev/?ID=NetTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300830" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300830.png",4u Family
+http://live.smartglwiz.workers.dev/?ID=4uFamily_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307316" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307316.png",Jewish TV
+http://live.smartglwiz.workers.dev/?ID=JewishTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305270" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305270.png",Erfan Halgheh
+http://live.smartglwiz.workers.dev/?ID=ErfanHalghe_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306951" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306951.png",Imam Hussein TV 1
+http://live.smartglwiz.workers.dev/?ID=ImamHusseinTV1_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307027" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307027.png",Healthmedia
+http://live.smartglwiz.workers.dev/?ID=Healthmedia_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307598" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307598.png",4 Sport
+http://live.smartglwiz.workers.dev/?ID=4Sport_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300316" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300316.png",ICnet 3
+http://live.smartglwiz.workers.dev/?ID=ICnet3_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302053" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302053.png",ICC
+http://live.smartglwiz.workers.dev/?ID=ICC_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307562" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307562.png",IRTV
+http://live.smartglwiz.workers.dev/?ID=IRTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307376" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307376.png",T2 Movies
+http://live.smartglwiz.workers.dev/?ID=T2Movies_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307274" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307274.png",Persiana Turkiye
+http://live.smartglwiz.workers.dev/?ID=PersianaTurkiye_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="304198" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304198.png",Leila Forouhar
+http://live.smartglwiz.workers.dev/?ID=LeilaForouhar_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307190" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307190.png",Ronix
+http://live.smartglwiz.workers.dev/?ID=Ronix_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307568" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307568.png",Persiana Fight
+http://live.smartglwiz.workers.dev/?ID=PersianaFight_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307249" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307249.png",Pen TV
+http://live.smartglwiz.workers.dev/?ID=PenTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307164" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307164.png",247 Box TV
+http://live.smartglwiz.workers.dev/?ID=247BoxTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307226" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307226.png",Grand Cinema
+http://live.smartglwiz.workers.dev/?ID=GrandCinema_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306890" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306890.png",Persiana Junior
+http://live.smartglwiz.workers.dev/?ID=PersianaJunior_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307180" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307180.png",Oxir
+http://live.smartglwiz.workers.dev/?ID=Oxir_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307564" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307564.png",Home Plus
+http://live.smartglwiz.workers.dev/?ID=HomePlus_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307465" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307465.png",Tahour TV
+http://live.smartglwiz.workers.dev/?ID=TahourTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307554" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307554.png",Simay Azadi
+http://live.smartglwiz.workers.dev/?ID=SimayAzadi_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307362" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307362.png",Derakhte Zendegi
+http://live.smartglwiz.workers.dev/?ID=DerakhteZendegi_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307383" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307383.png",FX TV
+http://live.smartglwiz.workers.dev/?ID=FXTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307389" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307389.png",Sepanj
+http://live.smartglwiz.workers.dev/?ID=Sepanj_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307560" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307560.png",Khatereh TV
+http://live.smartglwiz.workers.dev/?ID=KhaterehTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307453" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307453.png",Farsi TV
+http://live.smartglwiz.workers.dev/?ID=FarsiTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307570" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307570.png",Persiana Medical
+http://live.smartglwiz.workers.dev/?ID=PersianaMedical_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300660" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300660.png",RVTV
+http://live.smartglwiz.workers.dev/?ID=RVTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307576" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307576.png",Art Talent TV
+http://live.smartglwiz.workers.dev/?ID=ART_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307590" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307590.png",Didaniha TV
+http://live.smartglwiz.workers.dev/?ID=DidanihaTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307596" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307596.png",Nima TV
+http://live.smartglwiz.workers.dev/?ID=NimaTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307618" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307618.png",Atrina TV
+http://live.smartglwiz.workers.dev/?ID=Atrina_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307497" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307497.png",GEM Pixel
+http://live.smartglwiz.workers.dev/?ID=GEMPixel_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303703" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303703.png",RIVER
+http://live.smartglwiz.workers.dev/?ID=RIVER_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303793" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303793.png",RUBIX
+http://live.smartglwiz.workers.dev/?ID=RUBIX_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303715" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303715.png",GEM Drama
+http://live.smartglwiz.workers.dev/?ID=GEMDrama_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303759" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303759.png",ONYX
+http://live.smartglwiz.workers.dev/?ID=ONYX_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305709" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305709.png",GEM Classic
+http://live.smartglwiz.workers.dev/?ID=GemClassic_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305712" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305712.png",GEM Film
+http://live.smartglwiz.workers.dev/?ID=GemFilm_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307574" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307574.png",GEM SPORT
+http://live.smartglwiz.workers.dev/?ID=GemSport_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305101" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305101.png",GEM Bollywood
+http://live.smartglwiz.workers.dev/?ID=GEMBollywood_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307606" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307606.png",Persiana Travel
+http://live.smartglwiz.workers.dev/?ID=PersianaTravel_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307608" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307608.png",Persiana Plus One
+http://live.smartglwiz.workers.dev/?ID=PersianaPlusOne_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307610" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307610.png",Persiana Emirates
+http://live.smartglwiz.workers.dev/?ID=PersianaEmirates_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307473" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307473.png",Persiana Rap
+http://live.smartglwiz.workers.dev/?ID=PersianaRap_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307352" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307352.png",Persiana Folk
+http://live.smartglwiz.workers.dev/?ID=PersianaFolk_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307600" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307600.png",4 Music
+http://live.smartglwiz.workers.dev/?ID=4Music_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307314" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307314.png",Maah TV
+http://live.smartglwiz.workers.dev/?ID=MaahTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300401" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300401.png",IRIB Ofogh
+http://live.smartglwiz.workers.dev/?ID=IRIBOfogh_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300189" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300189.png",IRINN
+http://live.smartglwiz.workers.dev/?ID=IRINN_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300988" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300988.png",IRIB Amoozesh
+http://live.smartglwiz.workers.dev/?ID=IRIBAmoozesh_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300436" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300436.png",IRIB Channel 1
+http://live.smartglwiz.workers.dev/?ID=IRIBChannel1_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300409" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300409.png",IRIB Channel 2
+http://live.smartglwiz.workers.dev/?ID=IRIBChannel2_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307211" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307211.png",IRIB Channel 3
+http://live.smartglwiz.workers.dev/?ID=IRIBChannel3_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300411" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300411.png",IRIB Channel 4
+http://live.smartglwiz.workers.dev/?ID=IRIBChannel4_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300412" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300412.png",IRIB Channel 5
+http://live.smartglwiz.workers.dev/?ID=IRIBChannel5_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305004" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305004.png",Tamasha
+http://live.smartglwiz.workers.dev/?ID=Tamasha_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307494" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307494.png",IRIB Varzesh
+http://live.smartglwiz.workers.dev/?ID=IRIBVarzesh_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302511" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302511.png",IRIB Namayesh
+http://live.smartglwiz.workers.dev/?ID=IRIBNamayesh_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="304110" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304110.png",IRIB Pooya
+http://live.smartglwiz.workers.dev/?ID=IRIBPooya_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300451" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300451.png",IRIB Salamat
+http://live.smartglwiz.workers.dev/?ID=IRIBSalamat_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302508" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302508.png",iFilm Farsi
+http://live.smartglwiz.workers.dev/?ID=iFilmFarsi_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302509" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302509.png",IRIB Mostanad
+http://live.smartglwiz.workers.dev/?ID=IRIBMostanad_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306204" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306204.png",IRIB Nasim
+http://live.smartglwiz.workers.dev/?ID=IRIBNasim_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300196" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300196.png",IRIB Omid
+http://live.smartglwiz.workers.dev/?ID=IRIBOmid_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300996" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300996.png",Jahonnamo
+http://live.smartglwiz.workers.dev/?ID=Jahonnamo_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300997" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300997.png",Tojikiston
+http://live.smartglwiz.workers.dev/?ID=Tojikiston_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300998" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300998.png",TV Safina
+http://live.smartglwiz.workers.dev/?ID=TVSafina_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307459" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307459.png",Dushanbe
+http://live.smartglwiz.workers.dev/?ID=Dushanbe_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306753" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306753.png",TV Bahoriston
+http://live.smartglwiz.workers.dev/?ID=Bahoriston_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306754" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306754.png",Sinamo
+http://live.smartglwiz.workers.dev/?ID=Sinamo_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307461" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307461.png",TV Khatlon
+http://live.smartglwiz.workers.dev/?ID=TVKhatlon_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307612" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307612.png",TV Sayohi
+http://live.smartglwiz.workers.dev/?ID=TVSayohi_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306654" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306654.png",Az Star TV
+http://live.smartglwiz.workers.dev/?ID=AzStarTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303721" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303721.png",Gem AZ
+http://live.smartglwiz.workers.dev/?ID=GemAZ_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300707" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300707.png",Armenia1 TV
+http://live.smartglwiz.workers.dev/?ID=Armenia1_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300573" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300573.png",AssyriaSat
+http://live.smartglwiz.workers.dev/?ID=AssyrSat_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307401" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307401.png",AGN SAT
+http://live.smartglwiz.workers.dev/?ID=AGNSAT_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307411" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307411.png",Nohadra TV
+http://live.smartglwiz.workers.dev/?ID=NohadraTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303110" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303110.png",NRT
+http://live.smartglwiz.workers.dev/?ID=NRT_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300753" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300753.png",KurdSat
+http://live.smartglwiz.workers.dev/?ID=KurdSat_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300572" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300572.png",Kurdistan TV
+http://live.smartglwiz.workers.dev/?ID=KurdistanTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="304098" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304098.png",Rudaw
+http://live.smartglwiz.workers.dev/?ID=Rudaw_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306761" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306761.png",Kurdsat News
+http://live.smartglwiz.workers.dev/?ID=KurdsatNews_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="304657" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304657.png",NRT 2
+http://live.smartglwiz.workers.dev/?ID=NRT2_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="302230" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302230.png",Speda
+http://live.smartglwiz.workers.dev/?ID=Speda_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306960" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306960.png",Jin TV
+http://live.smartglwiz.workers.dev/?ID=JinTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303032" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303032.png",Sterk TV
+http://live.smartglwiz.workers.dev/?ID=SterkTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307602" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307602.png",4 Kurd 
+http://live.smartglwiz.workers.dev/?ID=4Kurd_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306979" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306979.png",Kurdmax Show
+http://live.smartglwiz.workers.dev/?ID=KurdmaxShow_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303485" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303485.png",Kurdmax
+http://live.smartglwiz.workers.dev/?ID=KurdMax_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306154" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306154.png",Med Muzik
+http://live.smartglwiz.workers.dev/?ID=MedMuzik_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306169" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306169.png",Cira
+http://live.smartglwiz.workers.dev/?ID=Cira_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305264" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305264.png",Suroyo TV
+http://live.smartglwiz.workers.dev/?ID=SuroyoTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306181" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306181.png",Ronahi
+http://live.smartglwiz.workers.dev/?ID=Ronahi_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305448" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305448.png",Zarok
+http://live.smartglwiz.workers.dev/?ID=Zarok_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306342" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306342.png",Aryen
+http://live.smartglwiz.workers.dev/?ID=Aryen_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307414" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307414.png",Afghanistan International
+http://live.smartglwiz.workers.dev/?ID=AfghanistanInternational_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300322" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300322.png",Payam e Afghan
+http://live.smartglwiz.workers.dev/?ID=PayamEAfghan_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300328" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300328.png",ATN
+http://live.smartglwiz.workers.dev/?ID=ArianaAfghan_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300341" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300341.png",ATN News
+http://live.smartglwiz.workers.dev/?ID=ATNNews_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300346" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300346.png",Ariana Int
+http://live.smartglwiz.workers.dev/?ID=ArianaInt_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307435" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307435.png",VoA Afghanistan
+http://live.smartglwiz.workers.dev/?ID=VoAAfghanistan_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="301398" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301398.png",Zarin TV
+http://live.smartglwiz.workers.dev/?ID=ZarinTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303546" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303546.png",Iman TV
+http://live.smartglwiz.workers.dev/?ID=ImanTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="300406" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300406.png",RTA
+http://live.smartglwiz.workers.dev/?ID=RTA_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307035" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307035.png",AVA Family
+http://live.smartglwiz.workers.dev/?ID=AVAFamily_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307475" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307475.png",BBC Persian Afghanistan
+http://live.smartglwiz.workers.dev/?ID=BBCPersianAfghan_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305059" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305059.png",Tolo
+http://live.smartglwiz.workers.dev/?ID=Tolo_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305060" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305060.png",Tolo News
+http://live.smartglwiz.workers.dev/?ID=ToloNews_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307463" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307463.png",Afghanistan USA international TV
+http://live.smartglwiz.workers.dev/?ID=AfgUSA_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307578" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307578.png",RTA News
+http://live.smartglwiz.workers.dev/?ID=RTANews_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305090" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305090.png",Chekad
+http://live.smartglwiz.workers.dev/?ID=Chekad_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305117" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305117.png",1 TV
+http://live.smartglwiz.workers.dev/?ID=1TV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307580" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307580.png",RTA Education
+http://live.smartglwiz.workers.dev/?ID=RTAEducation_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307582" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307582.png",Shams
+http://live.smartglwiz.workers.dev/?ID=Shams_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307584" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307584.png",Faza
+http://live.smartglwiz.workers.dev/?ID=Faza_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307056" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307056.png",Dunya
+http://live.smartglwiz.workers.dev/?ID=Dunya_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305632" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305632.png",Tamadon
+http://live.smartglwiz.workers.dev/?ID=Tamadon_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305061" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305061.png",Lemar
+http://live.smartglwiz.workers.dev/?ID=Lemar_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307588" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307588.png",Begum
+http://live.smartglwiz.workers.dev/?ID=Begum_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307586" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307586.png",Amu
+http://live.smartglwiz.workers.dev/?ID=Amu_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306194" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306194.png",Arezo
+http://live.smartglwiz.workers.dev/?ID=Arezo_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307614" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307614.png",Maawj TV
+http://live.smartglwiz.workers.dev/?ID=MaawjTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303571" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303571.png",AMC
+http://live.smartglwiz.workers.dev/?ID=AMC_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307268" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307268.png",Afghan Nobel TV
+http://live.smartglwiz.workers.dev/?ID=AfghanNobelTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307278" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307278.png",Afghan Nobel Movie
+http://live.smartglwiz.workers.dev/?ID=AfghanNobelMovie_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306620" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306620.png",Zhwandoon TV
+http://live.smartglwiz.workers.dev/?ID=Zhwandoon_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306714" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306714.png",Bahar TV
+http://live.smartglwiz.workers.dev/?ID=BaharTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="305645" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305645.png",Afghan Time TV
+http://live.smartglwiz.workers.dev/?ID=AfghanTime_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307325" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307325.png",Sohail TV
+http://live.smartglwiz.workers.dev/?ID=SohailTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306838" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306838.png",Sada e Haq
+http://live.smartglwiz.workers.dev/?ID=SadaeHaq_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307074" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307074.png",Kayhan
+http://live.smartglwiz.workers.dev/?ID=Kayhan_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307109" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307109.png",Pamir TV
+http://live.smartglwiz.workers.dev/?ID=PamirTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307395" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307395.png",Eslah TV
+http://live.smartglwiz.workers.dev/?ID=EslahTV_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307420" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307420.png",Ommat E Wasat
+http://live.smartglwiz.workers.dev/?ID=OmmatEWasat_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307326" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307326.png",Islamic Music
+http://live.smartglwiz.workers.dev/?ID=IslamicMusic_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307594" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307594.png",Velayat
+http://live.smartglwiz.workers.dev/?ID=Velayat_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306828" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306828.png",Ekran Kids
+http://live.smartglwiz.workers.dev/?ID=EkranKids_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="301257" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301257.png",KIDS TOON (0-6)
+http://live.smartglwiz.workers.dev/?ID=cartoon06_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306890" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306890.png",Persiana Junior
+http://live.smartglwiz.workers.dev/?ID=PersianaJunior_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307566" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307566.png",Persiana Teen
+http://live.smartglwiz.workers.dev/?ID=PersianaTeen_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="306229" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306229.png",GEM Kids
+http://live.smartglwiz.workers.dev/?ID=GemKids_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="303679" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303679.png",GEM JUNIOR
+http://live.smartglwiz.workers.dev/?ID=GemJunior_HD
+#EXTINF:-1 group-title="GLWIZ PERSIAN" tvg-id="307397" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307397.png",Toonix
+http://live.smartglwiz.workers.dev/?ID=Toonix_HD
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9KsR81OJa1A/hqdefault.jpg" group-title="VAVO TV",24 HABER HD+ SD |D
 http://schedule-statutory-latex-colored.trycloudflare.com/vavo.php?ID=38287936160beb47c9450a
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9KsR81OJa1A/hqdefault.jpg" group-title="VAVO TV",24 KITCHEN |E
