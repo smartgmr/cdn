@@ -57,6 +57,26 @@ http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246240
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246039
 #EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/F/zn/246096/logo.png",Halk TV
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246096
+EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/45155_0-73-1920-933.jpeg",tabii TV
+http://tabii.mobi-tv.workers.dev/tabiiTV.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43023.jpeg",tabii spor
+http://tabii.mobi-tv.workers.dev/tabiispor.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43005.jpeg",tabii Spor 1
+http://tabii.mobi-tv.workers.dev/tabiiSpor1.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/43008.jpeg",tabii Spor 2
+http://tabii.mobi-tv.workers.dev/tabiiSpor2.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/43011.jpeg",tabii Spor 3
+http://tabii.mobi-tv.workers.dev/tabiiSpor3.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43014.jpeg",tabii Spor 4
+http://tabii.mobi-tv.workers.dev/tabiiSpor4.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43017.jpeg",tabii Spor 5
+http://tabii.mobi-tv.workers.dev/tabiiSpor5.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43020.jpeg",tabii Spor 6
+http://tabii.mobi-tv.workers.dev/tabiiSpor6.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/51612_0-0-1919-1080.jpeg",tabii Spor 7
+http://tabii.mobi-tv.workers.dev/tabiiSpor7.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/60594_0-0-1919-1080.jpeg",tabii Spor 8
+http://tabii.mobi-tv.workers.dev/tabiiSpor8.m3u8
 #EXTINF:-1 group-title="Tivizon" tvg-logo="http://yt3.ggpht.com/PzOJKJhVUhYaGIpB79ya1FZaWNSlXGCG1ZXKd_q-yOh_8JbGT-dRiVWPz11UJEKpGFd49YhGjG8",KanalD
 http://schedule-statutory-latex-colored.trycloudflare.com/Tivizon.php?ID=kanald
 #EXTINF:-1 group-title="Tivizon" tvg-logo="http://yt3.ggpht.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",ATV
