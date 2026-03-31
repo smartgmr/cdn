@@ -4964,1038 +4964,1038 @@ http://live.touch-tv.workers.dev/?ID=cinemax
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 http://live.touch-tv.workers.dev/?ID=cinemax2
 #EXTINF:-1 tvg-name="Tring Sport News AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-News-AL-logo.png" group-title="FreeShot Albania & Kosovo",Tring Sport News AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TringSportNews
+http://cdn.tv-rds.workers.dev/TringSportNews.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 3 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-3-AL-logo.png" group-title="FreeShot Albania & Kosovo",Tring Sport 3 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TringSport3
+http://cdn.tv-rds.workers.dev/TringSport3.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 2 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-2-AL-logo.png" group-title="FreeShot Albania & Kosovo",Tring Sport 2 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TringSport2
+http://cdn.tv-rds.workers.dev/TringSport2.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 1 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-1-AL-logo.png" group-title="FreeShot Albania & Kosovo",Tring Sport 1 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TringSport1
+http://cdn.tv-rds.workers.dev/TringSport1.m3u8
 #EXTINF:-1 tvg-name="Super Sport 7 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-7-logo.png" group-title="FreeShot Albania & Kosovo",Super Sport 7 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSport7AL
+http://cdn.tv-rds.workers.dev/SSport7AL.m3u8
 #EXTINF:-1 tvg-name="Super Sport 6 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-6-logo.png" group-title="FreeShot Albania & Kosovo",Super Sport 6 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSport6AL
+http://cdn.tv-rds.workers.dev/SSport6AL.m3u8
 #EXTINF:-1 tvg-name="Super Sport 5 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-5-logo.png" group-title="FreeShot Albania & Kosovo",Super Sport 5 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSport5AL
+http://cdn.tv-rds.workers.dev/SSport5AL.m3u8
 #EXTINF:-1 tvg-name="Super Sport 4 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-4-logo.png" group-title="FreeShot Albania & Kosovo",Super Sport 4 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSport4AL
+http://cdn.tv-rds.workers.dev/SSport4AL.m3u8
 #EXTINF:-1 tvg-name="Super Sport 3 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-3-logo.png" group-title="FreeShot Albania & Kosovo",Super Sport 3 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSport3AL
+http://cdn.tv-rds.workers.dev/SSport3AL.m3u8
 #EXTINF:-1 tvg-name="Super Sport 2 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-2-logo.png" group-title="FreeShot Albania & Kosovo",Super Sport 2 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSport2AL
+http://cdn.tv-rds.workers.dev/SSport2AL.m3u8
 #EXTINF:-1 tvg-name="Super Sport 1 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-1-logo.png" group-title="FreeShot Albania & Kosovo",Super Sport 1 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSport1AL
+http://cdn.tv-rds.workers.dev/SSport1AL.m3u8
 #EXTINF:-1 tvg-name="ART Sport 6 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="FreeShot Albania & Kosovo",ART Sport 6 XK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ARTSport6
+http://cdn.tv-rds.workers.dev/ARTSport6.m3u8
 #EXTINF:-1 tvg-name="ART Sport 5 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="FreeShot Albania & Kosovo",ART Sport 5 XK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ARTSport5
+http://cdn.tv-rds.workers.dev/ARTSport5.m3u8
 #EXTINF:-1 tvg-name="ART Sport 4 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="FreeShot Albania & Kosovo",ART Sport 4 XK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ARTSport4
+http://cdn.tv-rds.workers.dev/ARTSport4.m3u8
 #EXTINF:-1 tvg-name="ART Sport 3 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png" group-title="FreeShot Albania & Kosovo",ART Sport 3 XK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ARTSport3
+http://cdn.tv-rds.workers.dev/ARTSport3.m3u8
 #EXTINF:-1 tvg-name="ART Sport 2 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png" group-title="FreeShot Albania & Kosovo",ART Sport 2 XK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ARTSport2
+http://cdn.tv-rds.workers.dev/ARTSport2.m3u8
 #EXTINF:-1 tvg-name="ART Sport 1 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png" group-title="FreeShot Albania & Kosovo",ART Sport 1 XK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ARTSport1
+http://cdn.tv-rds.workers.dev/ARTSport1.m3u8
 #EXTINF:-1 tvg-name="RTSH Sport AL" tvg-logo="https://freeshot.live/upload/source/RTSH-Sport-logo.png" group-title="FreeShot Albania & Kosovo",RTSH Sport AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RTSHSport
+http://cdn.tv-rds.workers.dev/RTSHSport.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 AL" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Albania & Kosovo",EUROSPORT 2 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EURO2AL
+http://cdn.tv-rds.workers.dev/EURO2AL.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 AL" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Albania & Kosovo",EUROSPORT 1 AL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EURO1AL
+http://cdn.tv-rds.workers.dev/EURO1AL.m3u8
 #EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://freeshot.live/upload/source/Sky-News-Arabia-logo.png" group-title="FreeShot Arabia",Sky News Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=772
+http://cdn.tv-rds.workers.dev/772.m3u8
 #EXTINF:-1 tvg-name="Dubai TV" tvg-logo="https://freeshot.live/upload/source/DubaiTV-logo.png" group-title="FreeShot Arabia",Dubai TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DubaiTV
+http://cdn.tv-rds.workers.dev/DubaiTV.m3u8
 #EXTINF:-1 tvg-name="Dubai One" tvg-logo="https://freeshot.live/upload/source/DubaiOne.png" group-title="FreeShot Arabia",Dubai One
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DubaiOne
+http://cdn.tv-rds.workers.dev/DubaiOne.m3u8
 #EXTINF:-1 tvg-name="FRANCE 24 Arabia" tvg-logo="https://freeshot.live/upload/source/France24-Arabic-logo.png" group-title="FreeShot Arabia",FRANCE 24 Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=767
+http://cdn.tv-rds.workers.dev/767.m3u8
 #EXTINF:-1 tvg-name="Sharjah Sports TV" tvg-logo="https://freeshot.live/upload/source/SHARJAH_TV_SPORTS-logo.png" group-title="FreeShot Arabia",Sharjah Sports TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SharjahSportsTV
+http://cdn.tv-rds.workers.dev/SharjahSportsTV.m3u8
 #EXTINF:-1 tvg-name="SSC NEWS Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSCNEWS-Saudi-Arabia-logo.png" group-title="FreeShot Arabia",SSC NEWS Saudi Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSCNEWS
+http://cdn.tv-rds.workers.dev/SSCNEWS.m3u8
 #EXTINF:-1 tvg-name="SSC EXTRA 3 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSCEXTRA3-Saudi-Arabia-logo.png" group-title="FreeShot Arabia",SSC EXTRA 3 Saudi Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSCEXTRA3
+http://cdn.tv-rds.workers.dev/SSCEXTRA3.m3u8
 #EXTINF:-1 tvg-name="SSC EXTRA 2 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSCEXTRA2-Saudi-Arabia-logo.png" group-title="FreeShot Arabia",SSC EXTRA 2 Saudi Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSCEXTRA2
+http://cdn.tv-rds.workers.dev/SSCEXTRA2.m3u8
 #EXTINF:-1 tvg-name="SSC EXTRA 1 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSCEXTRA1-Saudi-Arabia-logo.png" group-title="FreeShot Arabia",SSC EXTRA 1 Saudi Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSCEXTRA1
+http://cdn.tv-rds.workers.dev/SSCEXTRA1.m3u8
 #EXTINF:-1 tvg-name="SSC 5 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-5-Saudi-Arabia-logo.png" group-title="FreeShot Arabia",SSC 5 Saudi Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSC5
+http://cdn.tv-rds.workers.dev/SSC5.m3u8
 #EXTINF:-1 tvg-name="SSC 4 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-4-Saudi-Arabia-logo.png" group-title="FreeShot Arabia",SSC 4 Saudi Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSC4
+http://cdn.tv-rds.workers.dev/SSC4.m3u8
 #EXTINF:-1 tvg-name="SSC 3 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-3-Saudi-Arabia-logo.png" group-title="FreeShot Arabia",SSC 3 Saudi Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSC3
+http://cdn.tv-rds.workers.dev/SSC3.m3u8
 #EXTINF:-1 tvg-name="SSC 2 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-2-Saudi-Arabia-logo.png" group-title="FreeShot Arabia",SSC 2 Saudi Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSC2
+http://cdn.tv-rds.workers.dev/SSC2.m3u8
 #EXTINF:-1 tvg-name="SSC 1 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-1-Saudi-Arabia-logo.png" group-title="FreeShot Arabia",SSC 1 Saudi Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SSC1
+http://cdn.tv-rds.workers.dev/SSC1.m3u8
 #EXTINF:-1 tvg-name="Dubai Racing 3" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="FreeShot Arabia",Dubai Racing 3
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DubaiRacing3
+http://cdn.tv-rds.workers.dev/DubaiRacing3.m3u8
 #EXTINF:-1 tvg-name="Dubai Racing 2" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="FreeShot Arabia",Dubai Racing 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DubaiRacing2
+http://cdn.tv-rds.workers.dev/DubaiRacing2.m3u8
 #EXTINF:-1 tvg-name="Dubai Racing" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="FreeShot Arabia",Dubai Racing
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DubaiRacing
+http://cdn.tv-rds.workers.dev/DubaiRacing.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 3" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="FreeShot Arabia",Dubai Sports 3
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DubaiSports3
+http://cdn.tv-rds.workers.dev/DubaiSports3.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 2" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="FreeShot Arabia",Dubai Sports 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DubaiSports2
+http://cdn.tv-rds.workers.dev/DubaiSports2.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="FreeShot Arabia",Dubai Sports
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DubaiSports1
+http://cdn.tv-rds.workers.dev/DubaiSports1.m3u8
 #EXTINF:-1 tvg-name="YAS TV" tvg-logo="https://freeshot.live/upload/source/YAS-Sports-logo.png" group-title="FreeShot Arabia",YAS TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=YASTV
+http://cdn.tv-rds.workers.dev/YASTV.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 2" tvg-logo="https://freeshot.live/upload/source/AbuDhabiSports-logo.png" group-title="FreeShot Arabia",Abu Dhabi Sports 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=AbuDhabiSports2
+http://cdn.tv-rds.workers.dev/AbuDhabiSports2.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1" tvg-logo="https://freeshot.live/upload/source/AbuDhabiSports-logo.png" group-title="FreeShot Arabia",Abu Dhabi Sports 1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=AbuDhabiSports1
+http://cdn.tv-rds.workers.dev/AbuDhabiSports1.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi TV" tvg-logo="https://freeshot.live/upload/source/AbuDhabiTV-logo.png" group-title="FreeShot Arabia",Abu Dhabi TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=AbuDhabiTV
+http://cdn.tv-rds.workers.dev/AbuDhabiTV.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS NEWS Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-news-ar.png" group-title="FreeShot Arabia",beIN SPORTS NEWS Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSNEWSAR
+http://cdn.tv-rds.workers.dev/beINSPORTSNEWSAR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 7 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-7-logo.png" group-title="FreeShot Arabia",beIN SPORTS 7 Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSAR7
+http://cdn.tv-rds.workers.dev/beINSPORTSAR7.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 6 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-6_logo.png" group-title="FreeShot Arabia",beIN SPORTS 6 Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSAR6
+http://cdn.tv-rds.workers.dev/beINSPORTSAR6.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 5 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-5_logo.png" group-title="FreeShot Arabia",beIN SPORTS 5 Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSAR5
+http://cdn.tv-rds.workers.dev/beINSPORTSAR5.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 4 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-4-logo.png" group-title="FreeShot Arabia",beIN SPORTS 4 Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSAR4
+http://cdn.tv-rds.workers.dev/beINSPORTSAR4.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 3 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports_3-logo.png" group-title="FreeShot Arabia",beIN SPORTS 3 Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSAR3
+http://cdn.tv-rds.workers.dev/beINSPORTSAR3.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 2 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="FreeShot Arabia",beIN SPORTS 2 Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSAR2
+http://cdn.tv-rds.workers.dev/beINSPORTSAR2.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS Arabia" tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="FreeShot Arabia",beIN SPORTS Arabia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSAR
+http://cdn.tv-rds.workers.dev/beINSPORTSAR.m3u8
 #EXTINF:-1 tvg-name="TyC Sports ARG" tvg-logo="https://freeshot.live/upload/source/TYC-SPORTS-ARG-logo.png" group-title="FreeShot Argentina",TyC Sports ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TYCSPT
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
 #EXTINF:-1 tvg-name="DeporTV ARG" tvg-logo="https://freeshot.live/upload/source/DEPORTV-ARG-logo.png" group-title="FreeShot Argentina",DeporTV ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DEPORTV
+http://cdn.tv-rds.workers.dev/DEPORTV.m3u8
 #EXTINF:-1 tvg-name="TNT SPORTS ARG" tvg-logo="https://freeshot.live/upload/source/TNT-SPORTS-ARG-LOGO.png" group-title="FreeShot Argentina",TNT SPORTS ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TNTSARG
+http://cdn.tv-rds.workers.dev/TNTSARG.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS 3 ARG" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-3-ARG-logo.png" group-title="FreeShot Argentina",FOX SPORTS 3 ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FOX3ARG
+http://cdn.tv-rds.workers.dev/FOX3ARG.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS 2 ARG" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-2-ARG-logo.png" group-title="FreeShot Argentina",FOX SPORTS 2 ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FOX2ARG
+http://cdn.tv-rds.workers.dev/FOX2ARG.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS ARG" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-1-ARG-logo.png" group-title="FreeShot Argentina",FOX SPORTS ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FOX1ARG
+http://cdn.tv-rds.workers.dev/FOX1ARG.m3u8
 #EXTINF:-1 tvg-name="ESPN EXTRA ARG" tvg-logo="https://freeshot.live/upload/source/ESPNExtra-logo.png" group-title="FreeShot Argentina",ESPN EXTRA ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPNPLUSARG
+http://cdn.tv-rds.workers.dev/ESPNPLUSARG.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 ARG" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png" group-title="FreeShot Argentina",ESPN 3 ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN3ARG
+http://cdn.tv-rds.workers.dev/ESPN3ARG.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 ARG" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png" group-title="FreeShot Argentina",ESPN 2 ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN2ARG
+http://cdn.tv-rds.workers.dev/ESPN2ARG.m3u8
 #EXTINF:-1 tvg-name="ESPN ARG" tvg-logo="https://freeshot.live/upload/source/ESPN-logo.png" group-title="FreeShot Argentina",ESPN ARG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPNARG
+http://cdn.tv-rds.workers.dev/ESPNARG.m3u8
 #EXTINF:-1 tvg-name="ELEVEN PRO LEAGUE 3 BE" tvg-logo="https://freeshot.live/upload/source/Eleven_Pro_League-logo.png" group-title="FreeShot Belgium & Netherlands",ELEVEN PRO LEAGUE 3 BE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ElevenProLeague3
+http://cdn.tv-rds.workers.dev/ElevenProLeague3.m3u8
 #EXTINF:-1 tvg-name="ELEVEN PRO LEAGUE 2 BE" tvg-logo="https://freeshot.live/upload/source/Eleven_Pro_League-logo.png" group-title="FreeShot Belgium & Netherlands",ELEVEN PRO LEAGUE 2 BE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ElevenProLeague2
+http://cdn.tv-rds.workers.dev/ElevenProLeague2.m3u8
 #EXTINF:-1 tvg-name="ELEVEN PRO LEAGUE 1 BE" tvg-logo="https://freeshot.live/upload/source/Eleven_Pro_League-logo.png" group-title="FreeShot Belgium & Netherlands",ELEVEN PRO LEAGUE 1 BE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ElevenProLeague1
+http://cdn.tv-rds.workers.dev/ElevenProLeague1.m3u8
 #EXTINF:-1 tvg-name="Play Sports 4 BE" tvg-logo="https://freeshot.live/upload/source/play-sports-4-be-logo.png" group-title="FreeShot Belgium & Netherlands",Play Sports 4 BE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PlaySports4BE
+http://cdn.tv-rds.workers.dev/PlaySports4BE.m3u8
 #EXTINF:-1 tvg-name="Play Sports 3 BE" tvg-logo="https://freeshot.live/upload/source/play-sports-3-be-logo.png" group-title="FreeShot Belgium & Netherlands",Play Sports 3 BE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PlaySports3BE
+http://cdn.tv-rds.workers.dev/PlaySports3BE.m3u8
 #EXTINF:-1 tvg-name="Play Sports 2 BE" tvg-logo="https://freeshot.live/upload/source/play-sports-2-be-logo.png" group-title="FreeShot Belgium & Netherlands",Play Sports 2 BE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PlaySports2BE
+http://cdn.tv-rds.workers.dev/PlaySports2BE.m3u8
 #EXTINF:-1 tvg-name="Play Sports 1 BE" tvg-logo="https://freeshot.live/upload/source/play-sports-1-be-logo.png" group-title="FreeShot Belgium & Netherlands",Play Sports 1 BE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PlaySports1BE
+http://cdn.tv-rds.workers.dev/PlaySports1BE.m3u8
 #EXTINF:-1 tvg-name="Ziggo Sport 6 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png" group-title="FreeShot Belgium & Netherlands",Ziggo Sport 6 NL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ZiggoSport6
+http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
 #EXTINF:-1 tvg-name="Ziggo Sport 5 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png" group-title="FreeShot Belgium & Netherlands",Ziggo Sport 5 NL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ZiggoSport5
+http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
 #EXTINF:-1 tvg-name="Ziggo Sport 4 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png" group-title="FreeShot Belgium & Netherlands",Ziggo Sport 4 NL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ZiggoSport4
+http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
 #EXTINF:-1 tvg-name="Ziggo Sport 3 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png" group-title="FreeShot Belgium & Netherlands",Ziggo Sport 3 NL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ZiggoSport3
+http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
 #EXTINF:-1 tvg-name="Ziggo Sport 2 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png" group-title="FreeShot Belgium & Netherlands",Ziggo Sport 2 NL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ZiggoSport2
+http://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8
 #EXTINF:-1 tvg-name="Ziggo Sport NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-nl-logo.png" group-title="FreeShot Belgium & Netherlands",Ziggo Sport NL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ZiggoSport
+http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 Nederland" tvg-logo="https://freeshot.live/upload/source/Espn_4_logo.png" group-title="FreeShot Belgium & Netherlands",ESPN 4 Nederland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN4-NL
+http://cdn.tv-rds.workers.dev/ESPN4-NL.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 Nederland" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png" group-title="FreeShot Belgium & Netherlands",ESPN 3 Nederland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN3-NL
+http://cdn.tv-rds.workers.dev/ESPN3-NL.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 Nederland" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png" group-title="FreeShot Belgium & Netherlands",ESPN 2 Nederland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN2-NL
+http://cdn.tv-rds.workers.dev/ESPN2-NL.m3u8
 #EXTINF:-1 tvg-name="ESPN Nederland" tvg-logo="https://freeshot.live/upload/source/ESPN-logo.png" group-title="FreeShot Belgium & Netherlands",ESPN Nederland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN-NL
+http://cdn.tv-rds.workers.dev/ESPN-NL.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 NL" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Belgium & Netherlands",EUROSPORT 2 NL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2NL
+http://cdn.tv-rds.workers.dev/Eurosport2NL.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 NL" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Belgium & Netherlands",EUROSPORT 1 NL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport1NL
+http://cdn.tv-rds.workers.dev/Eurosport1NL.m3u8
 #EXTINF:-1 tvg-name="ESPN EXTRA Brasil" tvg-logo="https://freeshot.live/upload/source/ESPNExtra-logo.png" group-title="FreeShot Brasil",ESPN EXTRA Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPNBrasilExtra
+http://cdn.tv-rds.workers.dev/ESPNBrasilExtra.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://freeshot.live/upload/source/CNNBrasil-logo.png" group-title="FreeShot Brasil",CNN Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CNNBrasil
+http://cdn.tv-rds.workers.dev/CNNBrasil.m3u8
 #EXTINF:-1 tvg-name="ESPN 5 Brasil" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-5-logo.png" group-title="FreeShot Brasil",ESPN 5 Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN5BR
+http://cdn.tv-rds.workers.dev/ESPN5BR.m3u8
 #EXTINF:-1 tvg-name="Combate Brasil" tvg-logo="https://freeshot.live/upload/source/Combate-logo.png" group-title="FreeShot Brasil",Combate Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Combate
+http://cdn.tv-rds.workers.dev/Combate.m3u8
 #EXTINF:-1 tvg-name="PREMIERE Brasil" tvg-logo="https://freeshot.live/upload/source/Premiere_brasil.png" group-title="FreeShot Brasil",PREMIERE Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PremiereBR
+http://cdn.tv-rds.workers.dev/PremiereBR.m3u8
 #EXTINF:-1 tvg-name="SporTV 3 Brasil" tvg-logo="https://freeshot.live/upload/source/Sport_tv_3_brasil.png" group-title="FreeShot Brasil",SporTV 3 Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportv3BR
+http://cdn.tv-rds.workers.dev/Sportv3BR.m3u8
 #EXTINF:-1 tvg-name="SporTV 2 Brasil" tvg-logo="https://freeshot.live/upload/source/Sport_tv_2_brasil.png" group-title="FreeShot Brasil",SporTV 2 Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportv2BR
+http://cdn.tv-rds.workers.dev/Sportv2BR.m3u8
 #EXTINF:-1 tvg-name="SporTV Brasil" tvg-logo="https://freeshot.live/upload/source/Sport_tv__brasil_logo.png" group-title="FreeShot Brasil",SporTV Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportvBR
+http://cdn.tv-rds.workers.dev/SportvBR.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 Brasil" tvg-logo="https://freeshot.live/upload/source/Espn_4_logo.png" group-title="FreeShot Brasil",ESPN 4 Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN4BR
+http://cdn.tv-rds.workers.dev/ESPN4BR.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 Brasil" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png" group-title="FreeShot Brasil",ESPN 3 Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN3BR
+http://cdn.tv-rds.workers.dev/ESPN3BR.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 Brasil" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png" group-title="FreeShot Brasil",ESPN 2 Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN2BR
+http://cdn.tv-rds.workers.dev/ESPN2BR.m3u8
 #EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-logo.png" group-title="FreeShot Brasil",ESPN Brasil
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPNBrasil
+http://cdn.tv-rds.workers.dev/ESPNBrasil.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 BG" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Bulgaria",EUROSPORT 2 BG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EURO2BG
+http://cdn.tv-rds.workers.dev/EURO2BG.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 BG" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Bulgaria",EUROSPORT 1 BG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EURO1BG
+http://cdn.tv-rds.workers.dev/EURO1BG.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORT BG" tvg-logo="https://freeshot.live/upload/source/NOVA-SPORT-BG-logo.png" group-title="FreeShot Bulgaria",NOVA SPORT BG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTBG
+http://cdn.tv-rds.workers.dev/NOVASPORTBG.m3u8
 #EXTINF:-1 tvg-name="MAX SPORT 4 BG" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-4-BG-logo.png" group-title="FreeShot Bulgaria",MAX SPORT 4 BG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MaxSport4BG
+http://cdn.tv-rds.workers.dev/MaxSport4BG.m3u8
 #EXTINF:-1 tvg-name="MAX SPORT 3 BG" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-3-BG-logo.png" group-title="FreeShot Bulgaria",MAX SPORT 3 BG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MaxSport3BG
+http://cdn.tv-rds.workers.dev/MaxSport3BG.m3u8
 #EXTINF:-1 tvg-name="MAX SPORT 2 BG" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="FreeShot Bulgaria",MAX SPORT 2 BG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MaxSport2BG
+http://cdn.tv-rds.workers.dev/MaxSport2BG.m3u8
 #EXTINF:-1 tvg-name="MAX SPORT 1 BG" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-1-BG-logo.png" group-title="FreeShot Bulgaria",MAX SPORT 1 BG
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MaxSportBG
+http://cdn.tv-rds.workers.dev/MaxSportBG.m3u8
 #EXTINF:-1 tvg-name="DIEMA SPORT 3" tvg-logo="https://freeshot.live/upload/source/Diema-Sport-3-logo.png" group-title="FreeShot Bulgaria",DIEMA SPORT 3
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DiemaSport3
+http://cdn.tv-rds.workers.dev/DiemaSport3.m3u8
 #EXTINF:-1 tvg-name="DIEMA SPORT 2" tvg-logo="https://freeshot.live/upload/source/Diema-Sport-2-logo.png" group-title="FreeShot Bulgaria",DIEMA SPORT 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DiemaSport2
+http://cdn.tv-rds.workers.dev/DiemaSport2.m3u8
 #EXTINF:-1 tvg-name="DIEMA SPORT" tvg-logo="https://freeshot.live/upload/source/Diema-Sport-logo.png" group-title="FreeShot Bulgaria",DIEMA SPORT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DiemaSport
+http://cdn.tv-rds.workers.dev/DiemaSport.m3u8
 #EXTINF:-1 tvg-name="Sportsnet World" tvg-logo="https://freeshot.live/upload/source/SportsnetWorld.png" group-title="FreeShot Canada",Sportsnet World
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportsnetWorld
+http://cdn.tv-rds.workers.dev/SportsnetWorld.m3u8
 #EXTINF:-1 tvg-name="Sportsnet 360" tvg-logo="https://freeshot.live/upload/source/Sportsnet360.png" group-title="FreeShot Canada",Sportsnet 360
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportsnet360
+http://cdn.tv-rds.workers.dev/Sportsnet360.m3u8
 #EXTINF:-1 tvg-name="Sportsnet East" tvg-logo="https://freeshot.live/upload/source/SportsnetEast-logo.png" group-title="FreeShot Canada",Sportsnet East
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportsnetEast
+http://cdn.tv-rds.workers.dev/SportsnetEast.m3u8
 #EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="https://freeshot.live/upload/source/SportsnetWest-logo.png" group-title="FreeShot Canada",Sportsnet West
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportsnetWest
+http://cdn.tv-rds.workers.dev/SportsnetWest.m3u8
 #EXTINF:-1 tvg-name="Sportsnet ONE" tvg-logo="https://freeshot.live/upload/source/SportsnetONE-logo.png" group-title="FreeShot Canada",Sportsnet ONE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportsnetONE
+http://cdn.tv-rds.workers.dev/SportsnetONE.m3u8
 #EXTINF:-1 tvg-name="TVA Sports" tvg-logo="https://freeshot.live/upload/source/TVASPORTS.png" group-title="FreeShot Canada",TVA Sports
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TVASports
+http://cdn.tv-rds.workers.dev/TVASports.m3u8
 #EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-logo="https://freeshot.live/upload/source/Sportsnet-logo.png" group-title="FreeShot Canada",Sportsnet Ontario
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportsnetOntario
+http://cdn.tv-rds.workers.dev/SportsnetOntario.m3u8
 #EXTINF:-1 tvg-name="TSN5" tvg-logo="https://freeshot.live/upload/source/TSN5_Logo.png" group-title="FreeShot Canada",TSN5
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TSN5
+http://cdn.tv-rds.workers.dev/TSN5.m3u8
 #EXTINF:-1 tvg-name="TSN4" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png" group-title="FreeShot Canada",TSN4
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TSN4
+http://cdn.tv-rds.workers.dev/TSN4.m3u8
 #EXTINF:-1 tvg-name="TSN3" tvg-logo="https://freeshot.live/upload/source/TSN3_Logo.png" group-title="FreeShot Canada",TSN3
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TSN3
+http://cdn.tv-rds.workers.dev/TSN3.m3u8
 #EXTINF:-1 tvg-name="TSN2" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png" group-title="FreeShot Canada",TSN2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TSN2
+http://cdn.tv-rds.workers.dev/TSN2.m3u8
 #EXTINF:-1 tvg-name="TSN1" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png" group-title="FreeShot Canada",TSN1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TSN1
+http://cdn.tv-rds.workers.dev/TSN1.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS START GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Start-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS START GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTSST
+http://cdn.tv-rds.workers.dev/NOVASPORTSST.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS PREMIER LEAGUE GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Premier-League-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS PREMIER LEAGUE GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTSPL
+http://cdn.tv-rds.workers.dev/NOVASPORTSPL.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS PRIME GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Prime-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS PRIME GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTSPR
+http://cdn.tv-rds.workers.dev/NOVASPORTSPR.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS 6 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-6-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS 6 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTS6GR
+http://cdn.tv-rds.workers.dev/NOVASPORTS6GR.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS 5 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-5-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS 5 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTS5GR
+http://cdn.tv-rds.workers.dev/NOVASPORTS5GR.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS 4 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-4-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS 4 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTS4GR
+http://cdn.tv-rds.workers.dev/NOVASPORTS4GR.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS 3 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-3-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS 3 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTS3GR
+http://cdn.tv-rds.workers.dev/NOVASPORTS3GR.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS 2 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-2-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS 2 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTS2GR
+http://cdn.tv-rds.workers.dev/NOVASPORTS2GR.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS 1 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-1-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS 1 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTS1GR
+http://cdn.tv-rds.workers.dev/NOVASPORTS1GR.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport 9 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport9-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport 9 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSport9
+http://cdn.tv-rds.workers.dev/CosmoteSport9.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport 8 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport8-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport 8 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSport8
+http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport 7 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport7-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport 7 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSport7
+http://cdn.tv-rds.workers.dev/CosmoteSport7.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport 6 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport6-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport 6 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSport6
+http://cdn.tv-rds.workers.dev/CosmoteSport6.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport 5 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport5-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport 5 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSport5
+http://cdn.tv-rds.workers.dev/CosmoteSport5.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport 4 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport4-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport 4 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSport4
+http://cdn.tv-rds.workers.dev/CosmoteSport4.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport 3 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport3-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport 3 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSport3
+http://cdn.tv-rds.workers.dev/CosmoteSport3.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport 2 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport2-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport 2 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSport2
+http://cdn.tv-rds.workers.dev/CosmoteSport2.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport 1 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport1-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport 1 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSport1
+http://cdn.tv-rds.workers.dev/CosmoteSport1.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 GR" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Cyprus & Greece",EUROSPORT 2 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EURO2GR
+http://cdn.tv-rds.workers.dev/EURO2GR.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 GR" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Cyprus & Greece",EUROSPORT 1 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EURO1GR
+http://cdn.tv-rds.workers.dev/EURO1GR.m3u8
 #EXTINF:-1 tvg-name="Cablenet Sports 2 GR" tvg-logo="https://freeshot.live/upload/source/Cablenet-Sports-logo.png" group-title="FreeShot Cyprus & Greece",Cablenet Sports 2 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CablenetSports2
+http://cdn.tv-rds.workers.dev/CablenetSports2.m3u8
 #EXTINF:-1 tvg-name="Cablenet Sports 1 GR" tvg-logo="https://freeshot.live/upload/source/Cablenet-Sports-logo.png" group-title="FreeShot Cyprus & Greece",Cablenet Sports 1 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CablenetSports1
+http://cdn.tv-rds.workers.dev/CablenetSports1.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORTS NEWS GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-News-logo.png" group-title="FreeShot Cyprus & Greece",NOVA SPORTS NEWS GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NOVASPORTSNEWS
+http://cdn.tv-rds.workers.dev/NOVASPORTSNEWS.m3u8
 #EXTINF:-1 tvg-name="Cosmote Sport Highlights GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport-Highlights-logo.png" group-title="FreeShot Cyprus & Greece",Cosmote Sport Highlights GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CosmoteSportHG
+http://cdn.tv-rds.workers.dev/CosmoteSportHG.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 8 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="FreeShot Cyprus & Greece",Cytavision Sports 8 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Cytavision8
+http://cdn.tv-rds.workers.dev/Cytavision8.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 7 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="FreeShot Cyprus & Greece",Cytavision Sports 7 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Cytavision7
+http://cdn.tv-rds.workers.dev/Cytavision7.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 6 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="FreeShot Cyprus & Greece",Cytavision Sports 6 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Cytavision6
+http://cdn.tv-rds.workers.dev/Cytavision6.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 5 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="FreeShot Cyprus & Greece",Cytavision Sports 5 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Cytavision5
+http://cdn.tv-rds.workers.dev/Cytavision5.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 4 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="FreeShot Cyprus & Greece",Cytavision Sports 4 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Cytavision4
+http://cdn.tv-rds.workers.dev/Cytavision4.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 3 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="FreeShot Cyprus & Greece",Cytavision Sports 3 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Cytavision3
+http://cdn.tv-rds.workers.dev/Cytavision3.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 2 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="FreeShot Cyprus & Greece",Cytavision Sports 2 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Cytavision2
+http://cdn.tv-rds.workers.dev/Cytavision2.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 1 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="FreeShot Cyprus & Greece",Cytavision Sports 1 GR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Cytavision1
+http://cdn.tv-rds.workers.dev/Cytavision1.m3u8
 #EXTINF:-1 tvg-name="Sport 2 Czech" tvg-logo="https://freeshot.live/upload/source/Sport2CzSK-logo.png" group-title="FreeShot Czech & Slovak",Sport 2 Czech
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport2CZ
+http://cdn.tv-rds.workers.dev/Sport2CZ.m3u8
 #EXTINF:-1 tvg-name="Sport 1 Czech" tvg-logo="https://freeshot.live/upload/source/Sport1CzSK-logo.png" group-title="FreeShot Czech & Slovak",Sport 1 Czech
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport1CZ
+http://cdn.tv-rds.workers.dev/Sport1CZ.m3u8
 #EXTINF:-1 tvg-name="Arena Sport 2 Slovakia" tvg-logo="https://freeshot.live/upload/source/arenasport2-logo.png" group-title="FreeShot Czech & Slovak",Arena Sport 2 Slovakia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=arenasport2SK
+http://cdn.tv-rds.workers.dev/arenasport2SK.m3u8
 #EXTINF:-1 tvg-name="Arena Sport 1 Slovakia" tvg-logo="https://freeshot.live/upload/source/arenasport1-logo.png" group-title="FreeShot Czech & Slovak",Arena Sport 1 Slovakia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=arenasport1SK
+http://cdn.tv-rds.workers.dev/arenasport1SK.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORT 2 Czech" tvg-logo="https://freeshot.live/upload/source/NovaSport2-logo.png" group-title="FreeShot Czech & Slovak",NOVA SPORT 2 Czech
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NovaSport2
+http://cdn.tv-rds.workers.dev/NovaSport2.m3u8
 #EXTINF:-1 tvg-name="NOVA SPORT 1 Czech" tvg-logo="https://freeshot.live/upload/source/NovaSport1-logo.png" group-title="FreeShot Czech & Slovak",NOVA SPORT 1 Czech
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NovaSport1
+http://cdn.tv-rds.workers.dev/NovaSport1.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 Czech" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Czech & Slovak",EUROSPORT 2 Czech
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2CZ
+http://cdn.tv-rds.workers.dev/Eurosport2CZ.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 Czech" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Czech & Slovak",EUROSPORT 1 Czech
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport1CZ
+http://cdn.tv-rds.workers.dev/Eurosport1CZ.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 RS" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot EX-YU",EUROSPORT 2 RS
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EUROSPORT2RS
+http://cdn.tv-rds.workers.dev/EUROSPORT2RS.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 RS" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot EX-YU",EUROSPORT 1 RS
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EUROSPORT1RS
+http://cdn.tv-rds.workers.dev/EUROSPORT1RS.m3u8
 #EXTINF:-1 tvg-name="SportKlub 4 RS" tvg-logo="https://freeshot.live/upload/source/SportKlub-4-logo.png" group-title="FreeShot EX-YU",SportKlub 4 RS
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportKlub4RS
+http://cdn.tv-rds.workers.dev/SportKlub4RS.m3u8
 #EXTINF:-1 tvg-name="SportKlub 3 RS" tvg-logo="https://freeshot.live/upload/source/SportKlub-3-logo.png" group-title="FreeShot EX-YU",SportKlub 3 RS
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportKlub3RS
+http://cdn.tv-rds.workers.dev/SportKlub3RS.m3u8
 #EXTINF:-1 tvg-name="SportKlub 2 RS" tvg-logo="https://freeshot.live/upload/source/SportKlub-2-logo.png" group-title="FreeShot EX-YU",SportKlub 2 RS
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportKlub2RS
+http://cdn.tv-rds.workers.dev/SportKlub2RS.m3u8
 #EXTINF:-1 tvg-name="SportKlub 1 RS" tvg-logo="https://freeshot.live/upload/source/SportKlub-1-logo.png" group-title="FreeShot EX-YU",SportKlub 1 RS
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportKlub1RS
+http://cdn.tv-rds.workers.dev/SportKlub1RS.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 3 PREMIUM RS" tvg-logo="https://freeshot.live/upload/source/ArenaSport-3-premium-logo.png" group-title="FreeShot EX-YU",ARENA SPORT 3 PREMIUM RS
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport3Premium
+http://cdn.tv-rds.workers.dev/ArenaSport3Premium.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 2 PREMIUM RS" tvg-logo="https://freeshot.live/upload/source/ArenaSport-2-premium-logo.png" group-title="FreeShot EX-YU",ARENA SPORT 2 PREMIUM RS
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport2Premium
+http://cdn.tv-rds.workers.dev/ArenaSport2Premium.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 1 PREMIUM RS" tvg-logo="https://freeshot.live/upload/source/ArenaSport-1-premium-logo.png" group-title="FreeShot EX-YU",ARENA SPORT 1 PREMIUM RS
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport1Premium
+http://cdn.tv-rds.workers.dev/ArenaSport1Premium.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 8 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-8-logo.png" group-title="FreeShot EX-YU",ARENA SPORT 8 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport8HR
+http://cdn.tv-rds.workers.dev/ArenaSport8HR.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 7 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-7-logo.png" group-title="FreeShot EX-YU",ARENA SPORT 7 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport7HR
+http://cdn.tv-rds.workers.dev/ArenaSport7HR.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 6 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-6-logo.png" group-title="FreeShot EX-YU",ARENA SPORT 6 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport6HR
+http://cdn.tv-rds.workers.dev/ArenaSport6HR.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 5 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-5-logo.png" group-title="FreeShot EX-YU",ARENA SPORT 5 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport5HR
+http://cdn.tv-rds.workers.dev/ArenaSport5HR.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 4 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-4.png" group-title="FreeShot EX-YU",ARENA SPORT 4 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport4HR
+http://cdn.tv-rds.workers.dev/ArenaSport4HR.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 3 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-3.png" group-title="FreeShot EX-YU",ARENA SPORT 3 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport3HR
+http://cdn.tv-rds.workers.dev/ArenaSport3HR.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 2 HR" tvg-logo="https://freeshot.live/upload/source/Arena-Sport-2-logo.png" group-title="FreeShot EX-YU",ARENA SPORT 2 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport2HR
+http://cdn.tv-rds.workers.dev/ArenaSport2HR.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 1 HR" tvg-logo="https://freeshot.live/upload/source/Arena-Sport-1-logo.png" group-title="FreeShot EX-YU",ARENA SPORT 1 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ArenaSport1HR
+http://cdn.tv-rds.workers.dev/ArenaSport1HR.m3u8
 #EXTINF:-1 tvg-name="MAX SPORT 2 HR" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-HR-logo.png" group-title="FreeShot EX-YU",MAX SPORT 2 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MaxSport2HR
+http://cdn.tv-rds.workers.dev/MaxSport2HR.m3u8
 #EXTINF:-1 tvg-name="MAX SPORT 1 HR" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-1-HR-logo.png" group-title="FreeShot EX-YU",MAX SPORT 1 HR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MaxSport1HR
+http://cdn.tv-rds.workers.dev/MaxSport1HR.m3u8
 #EXTINF:-1 tvg-name="CANAL+ FR" tvg-logo="https://freeshot.live/upload/source/Canal+France_logo.png" group-title="FreeShot France",CANAL+ FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CanalPlusFR
+http://cdn.tv-rds.workers.dev/CanalPlusFR.m3u8
 #EXTINF:-1 tvg-name="BFM Toulon Var" tvg-logo="https://freeshot.live/upload/source/BFMToulonVar-logo.png" group-title="FreeShot France",BFM Toulon Var
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMToulonVar
-#EXTINF:-1 tvg-name="BFM Tech &amp; Co" tvg-logo="https://freeshot.live/upload/source/BFMTechandco-logo.png" group-title="FreeShot France",BFM Tech &amp; Co
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMTechandco
+http://cdn.tv-rds.workers.dev/BFMToulonVar.m3u8
+#EXTINF:-1 tvg-name="BFM Tech & Co" tvg-logo="https://freeshot.live/upload/source/BFMTechandco-logo.png" group-title="FreeShot France",BFM Tech & Co
+http://cdn.tv-rds.workers.dev/BFMTechandco.m3u8
 #EXTINF:-1 tvg-name="BFM Normandie" tvg-logo="https://freeshot.live/upload/source/BFMNormandie-logo.png" group-title="FreeShot France",BFM Normandie
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMNormandie
-#EXTINF:-1 tvg-name="BFM Nice Côte d&#039;Azur" tvg-logo="https://freeshot.live/upload/source/BFMNCdAzur-logo.png" group-title="FreeShot France",BFM Nice Côte d&#039;Azur
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMNCdAzur
+http://cdn.tv-rds.workers.dev/BFMNormandie.m3u8
+#EXTINF:-1 tvg-name="BFM Nice Côte d'Azur" tvg-logo="https://freeshot.live/upload/source/BFMNCdAzur-logo.png" group-title="FreeShot France",BFM Nice Côte d'Azur
+http://cdn.tv-rds.workers.dev/BFMNCdAzur.m3u8
 #EXTINF:-1 tvg-name="France 5" tvg-logo="https://freeshot.live/upload/source/France5-logo.png" group-title="FreeShot France",France 5
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=France5
+http://cdn.tv-rds.workers.dev/France5.m3u8
 #EXTINF:-1 tvg-name="BFM Grand Marseille" tvg-logo="https://freeshot.live/upload/source/BFMGRANDMarseille-logo.png" group-title="FreeShot France",BFM Grand Marseille
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMGRANDMarseille
+http://cdn.tv-rds.workers.dev/BFMGRANDMarseille.m3u8
 #EXTINF:-1 tvg-name="BFM Grand Lyon" tvg-logo="https://freeshot.live/upload/source/BFMLyon-logo.png" group-title="FreeShot France",BFM Grand Lyon
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMGRANDLyon
+http://cdn.tv-rds.workers.dev/BFMGRANDLyon.m3u8
 #EXTINF:-1 tvg-name="BFM Grand Littoral" tvg-logo="https://freeshot.live/upload/source/BFMGrandLittoral-logo.png" group-title="FreeShot France",BFM Grand Littoral
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMGrandLittoral
+http://cdn.tv-rds.workers.dev/BFMGrandLittoral.m3u8
 #EXTINF:-1 tvg-name="BFM Grand Lille" tvg-logo="https://freeshot.live/upload/source/BFMGrandLille-logo.png" group-title="FreeShot France",BFM Grand Lille
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMGrandLille
+http://cdn.tv-rds.workers.dev/BFMGrandLille.m3u8
 #EXTINF:-1 tvg-name="BFM DICI Alpes du Sud" tvg-logo="https://freeshot.live/upload/source/BFM-DICI_Alpes_du_Sud-logo.png" group-title="FreeShot France",BFM DICI Alpes du Sud
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMDICIAlpesduSud
+http://cdn.tv-rds.workers.dev/BFMDICIAlpesduSud.m3u8
 #EXTINF:-1 tvg-name="France 4" tvg-logo="https://freeshot.live/upload/source/France4-logo.png" group-title="FreeShot France",France 4
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=France4
-#EXTINF:-1 tvg-name="L&#039;Equipe Live 2" tvg-logo="https://freeshot.live/upload/source/le-equipe-logo.png" group-title="FreeShot France",L&#039;Equipe Live 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=LEquipeLive2
-#EXTINF:-1 tvg-name="L&#039;Equipe Live 1" tvg-logo="https://freeshot.live/upload/source/le-equipe-logo.png" group-title="FreeShot France",L&#039;Equipe Live 1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=LEquipeLive1
+http://cdn.tv-rds.workers.dev/France4.m3u8
+#EXTINF:-1 tvg-name="L'Equipe Live 2" tvg-logo="https://freeshot.live/upload/source/le-equipe-logo.png" group-title="FreeShot France",L'Equipe Live 2
+http://cdn.tv-rds.workers.dev/LEquipeLive2.m3u8
+#EXTINF:-1 tvg-name="L'Equipe Live 1" tvg-logo="https://freeshot.live/upload/source/le-equipe-logo.png" group-title="FreeShot France",L'Equipe Live 1
+http://cdn.tv-rds.workers.dev/LEquipeLive1.m3u8
 #EXTINF:-1 tvg-name="Secret Story France" tvg-logo="https://freeshot.live/upload/source/SecretStory-logo.png" group-title="FreeShot France",Secret Story France
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SecretStoryFR
+http://cdn.tv-rds.workers.dev/SecretStoryFR.m3u8
 #EXTINF:-1 tvg-name="TV5MONDE Info" tvg-logo="https://freeshot.live/upload/source/tv5-monde-logo.png" group-title="FreeShot France",TV5MONDE Info
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV5Monde
+http://cdn.tv-rds.workers.dev/TV5Monde.m3u8
 #EXTINF:-1 tvg-name="DAZN Mondial des Clubs" tvg-logo="https://freeshot.live/upload/source/FIFA_Club_World_Cup_2025.png" group-title="FreeShot France",DAZN Mondial des Clubs
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MondialdesClubs
+http://cdn.tv-rds.workers.dev/MondialdesClubs.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 5 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-5-Afrique-logo.png" group-title="FreeShot France",CANAL+ SPORT 5 Afrique
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+Sport5AF
+http://cdn.tv-rds.workers.dev/Canal+Sport5AF.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 4 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-4-Afrique-logo.png" group-title="FreeShot France",CANAL+ SPORT 4 Afrique
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+Sport4AF
+http://cdn.tv-rds.workers.dev/Canal+Sport4AF.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 3 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-3-Afrique-logo.png" group-title="FreeShot France",CANAL+ SPORT 3 Afrique
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+Sport3AF
+http://cdn.tv-rds.workers.dev/Canal+Sport3AF.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 2 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-2-Afrique-logo.png" group-title="FreeShot France",CANAL+ SPORT 2 Afrique
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+Sport2AF
+http://cdn.tv-rds.workers.dev/Canal+Sport2AF.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 1 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-Afrique-logo.png" group-title="FreeShot France",CANAL+ SPORT 1 Afrique
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+SportAF
+http://cdn.tv-rds.workers.dev/Canal+SportAF.m3u8
 #EXTINF:-1 tvg-name="DAZN 1 FR" tvg-logo="https://freeshot.live/upload/source/DAZN-1-logo.png" group-title="FreeShot France",DAZN 1 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DAZN1FR
+http://cdn.tv-rds.workers.dev/DAZN1FR.m3u8
 #EXTINF:-1 tvg-name="BFM Alsace" tvg-logo="https://freeshot.live/upload/source/BFMAlsace-logo.png" group-title="FreeShot France",BFM Alsace
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMAlsace
+http://cdn.tv-rds.workers.dev/BFMAlsace.m3u8
 #EXTINF:-1 tvg-name="BFM Paris" tvg-logo="https://freeshot.live/upload/source/BFMParis-logo.png" group-title="FreeShot France",BFM Paris
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMParis
+http://cdn.tv-rds.workers.dev/BFMParis.m3u8
 #EXTINF:-1 tvg-name="France 3" tvg-logo="https://freeshot.live/upload/source/France3-logo.png" group-title="FreeShot France",France 3
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=France3
+http://cdn.tv-rds.workers.dev/France3.m3u8
 #EXTINF:-1 tvg-name="CNews" tvg-logo="https://freeshot.live/upload/source/CNews-logo.png" group-title="FreeShot France",CNews
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CNewsFR
+http://cdn.tv-rds.workers.dev/CNewsFR.m3u8
 #EXTINF:-1 tvg-name="France 2" tvg-logo="https://freeshot.live/upload/source/France2-logo.png" group-title="FreeShot France",France 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=France2
+http://cdn.tv-rds.workers.dev/France2.m3u8
 #EXTINF:-1 tvg-name="TF1" tvg-logo="https://freeshot.live/upload/source/TF1-logo.png" group-title="FreeShot France",TF1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TF1FR
+http://cdn.tv-rds.workers.dev/TF1FR.m3u8
 #EXTINF:-1 tvg-name="BFM Business" tvg-logo="https://freeshot.live/upload/source/BFM-Business-logo.png" group-title="FreeShot France",BFM Business
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMBusiness
+http://cdn.tv-rds.workers.dev/BFMBusiness.m3u8
 #EXTINF:-1 tvg-name="RMC TALK INFO" tvg-logo="https://freeshot.live/upload/source/RMCTALKINFO-logo.png" group-title="FreeShot France",RMC TALK INFO
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RMCTALKINFO
+http://cdn.tv-rds.workers.dev/RMCTALKINFO.m3u8
 #EXTINF:-1 tvg-name="RMC Découverte" tvg-logo="https://freeshot.live/upload/source/RMCDecouverte-logo.png" group-title="FreeShot France",RMC Découverte
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RMCDecouverte
+http://cdn.tv-rds.workers.dev/RMCDecouverte.m3u8
 #EXTINF:-1 tvg-name="RMC STORY" tvg-logo="https://freeshot.live/upload/source/rmc-story-logo.png" group-title="FreeShot France",RMC STORY
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RMCSTORYFR
+http://cdn.tv-rds.workers.dev/RMCSTORYFR.m3u8
 #EXTINF:-1 tvg-name="BFMTV" tvg-logo="https://freeshot.live/upload/source/bfm-tv-fr-logo.png" group-title="FreeShot France",BFMTV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BFMTV
+http://cdn.tv-rds.workers.dev/BFMTV.m3u8
 #EXTINF:-1 tvg-name="M6" tvg-logo="https://freeshot.live/upload/source/M6-logo.png" group-title="FreeShot France",M6
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=M6FR
+http://cdn.tv-rds.workers.dev/M6FR.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 FR" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot France",EUROSPORT 2 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2FR
+http://cdn.tv-rds.workers.dev/Eurosport2FR.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 FR" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot France",EUROSPORT 1 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport1FR
+http://cdn.tv-rds.workers.dev/Eurosport1FR.m3u8
 #EXTINF:-1 tvg-name="CANAL+ DOCS FR" tvg-logo="https://freeshot.live/upload/source/Canal+Docs-logo.png" group-title="FreeShot France",CANAL+ DOCS FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CanalPlusDOCSFR
-#EXTINF:-1 tvg-name="L&#039;ÉQUIPE FR" tvg-logo="https://freeshot.live/upload/source/le-equipe-logo.png" group-title="FreeShot France",L&#039;ÉQUIPE FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=LEquipeFR
+http://cdn.tv-rds.workers.dev/CanalPlusDOCSFR.m3u8
+#EXTINF:-1 tvg-name="L'ÉQUIPE FR" tvg-logo="https://freeshot.live/upload/source/le-equipe-logo.png" group-title="FreeShot France",L'ÉQUIPE FR
+http://cdn.tv-rds.workers.dev/LEquipeFR.m3u8
 #EXTINF:-1 tvg-name="RMC Sport 2 FR" tvg-logo="https://freeshot.live/upload/source/RMC_Sport_2-logo.png" group-title="FreeShot France",RMC Sport 2 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RMCSport2
+http://cdn.tv-rds.workers.dev/RMCSport2.m3u8
 #EXTINF:-1 tvg-name="RMC Sport 1 FR" tvg-logo="https://freeshot.live/upload/source/RMC_Sport_1-logo.png" group-title="FreeShot France",RMC Sport 1 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RMCSport1
+http://cdn.tv-rds.workers.dev/RMCSport1.m3u8
 #EXTINF:-1 tvg-name="INFOSPORT+ FR" tvg-logo="https://freeshot.live/upload/source/infosport_plus-logo.png" group-title="FreeShot France",INFOSPORT+ FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Infosport+FR
+http://cdn.tv-rds.workers.dev/Infosport+FR.m3u8
 #EXTINF:-1 tvg-name="CANAL+ FOOT FR" tvg-logo="https://freeshot.live/upload/source/Canal+Foot-logo.png" group-title="FreeShot France",CANAL+ FOOT FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FootPlusFR
+http://cdn.tv-rds.workers.dev/FootPlusFR.m3u8
 #EXTINF:-1 tvg-name="CANAL+ MOTO GP FR" tvg-logo="https://freeshot.live/upload/source/Canal+motogp_logo.png" group-title="FreeShot France",CANAL+ MOTO GP FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+MotoGPFR
+http://cdn.tv-rds.workers.dev/Canal+MotoGPFR.m3u8
 #EXTINF:-1 tvg-name="CANAL+ FORMULE 1 FR" tvg-logo="https://freeshot.live/upload/source/Canal+F1_logo.png" group-title="FreeShot France",CANAL+ FORMULE 1 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+F1
+http://cdn.tv-rds.workers.dev/Canal+F1.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 360 FR" tvg-logo="https://freeshot.live/upload/source/canal-plus-sport-360-logo.png" group-title="FreeShot France",CANAL+ SPORT 360 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+Sport360
+http://cdn.tv-rds.workers.dev/Canal+Sport360.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT FR" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-poland_logo.png" group-title="FreeShot France",CANAL+ SPORT FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+SportFR
+http://cdn.tv-rds.workers.dev/Canal+SportFR.m3u8
 #EXTINF:-1 tvg-name="Sport en France" tvg-logo="https://freeshot.live/upload/source/SportenFrance-logo.png" group-title="FreeShot France",Sport en France
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportenFrance
+http://cdn.tv-rds.workers.dev/SportenFrance.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS Max 9" tvg-logo="https://freeshot.live/upload/source/BeIn_Sports_Max_9-logo.png" group-title="FreeShot France",beIN SPORTS Max 9
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSMax9FR
+http://cdn.tv-rds.workers.dev/beINSPORTSMax9FR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS Max 8" tvg-logo="https://freeshot.live/upload/source/BeIn-Sports-Max-8-logo.png" group-title="FreeShot France",beIN SPORTS Max 8
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSMax8FR
+http://cdn.tv-rds.workers.dev/beINSPORTSMax8FR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS Max 7" tvg-logo="https://freeshot.live/upload/source/BeIn_Sports_Max_7-logo.png" group-title="FreeShot France",beIN SPORTS Max 7
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSMax7FR
+http://cdn.tv-rds.workers.dev/beINSPORTSMax7FR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS Max 6" tvg-logo="https://freeshot.live/upload/source/BeIn_Sports_Max-6-logo.png" group-title="FreeShot France",beIN SPORTS Max 6
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSMax6FR
+http://cdn.tv-rds.workers.dev/beINSPORTSMax6FR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS Max 5" tvg-logo="https://freeshot.live/upload/source/bein_sports-5-logo.png" group-title="FreeShot France",beIN SPORTS Max 5
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSMax5FR
+http://cdn.tv-rds.workers.dev/beINSPORTSMax5FR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS Max 4" tvg-logo="https://freeshot.live/upload/source/bein_sports4-max-logo.png" group-title="FreeShot France",beIN SPORTS Max 4
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTSMax4FR
+http://cdn.tv-rds.workers.dev/beINSPORTSMax4FR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 3 FR" tvg-logo="https://freeshot.live/upload/source/bein-sports_3-logo.png" group-title="FreeShot France",beIN SPORTS 3 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS3FR
+http://cdn.tv-rds.workers.dev/beINSPORTS3FR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 2 FR" tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="FreeShot France",beIN SPORTS 2 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS2FR
+http://cdn.tv-rds.workers.dev/beINSPORTS2FR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 1 FR" tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="FreeShot France",beIN SPORTS 1 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS1FR
+http://cdn.tv-rds.workers.dev/beINSPORTS1FR.m3u8
 #EXTINF:-1 tvg-name="arte FR" tvg-logo="https://freeshot.live/upload/source/arte-logo.png" group-title="FreeShot France",arte FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=artefr
+http://cdn.tv-rds.workers.dev/artefr.m3u8
 #EXTINF:-1 tvg-name="ER1 FR" tvg-logo="https://freeshot.live/upload/source/ER1-logo.png" group-title="FreeShot France",ER1 FR
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ER1FR
+http://cdn.tv-rds.workers.dev/ER1FR.m3u8
 #EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="https://freeshot.live/upload/source/Sport1-logo.png" group-title="FreeShot Germany",Sport1 DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport1DE
+http://cdn.tv-rds.workers.dev/Sport1DE.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Mix DE" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Mix-Logo.png" group-title="FreeShot Germany",Sky Sport Mix DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportMixDE
+http://cdn.tv-rds.workers.dev/SkySportMixDE.m3u8
 #EXTINF:-1 tvg-name="ServusTV DE" tvg-logo="https://freeshot.live/upload/source/ServusTV-logo.png" group-title="FreeShot Germany",ServusTV DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ServusTV
+http://cdn.tv-rds.workers.dev/ServusTV.m3u8
 #EXTINF:-1 tvg-name="Sportdigital DE" tvg-logo="https://freeshot.live/upload/source/Sportdigital-logo.png" group-title="FreeShot Germany",Sportdigital DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportdigital
+http://cdn.tv-rds.workers.dev/Sportdigital.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 DE" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Germany",EUROSPORT 2 DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EurosportDE2
+http://cdn.tv-rds.workers.dev/EurosportDE2.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 DE" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Germany",EUROSPORT 1 DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EurosportDE1
+http://cdn.tv-rds.workers.dev/EurosportDE1.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Austria 1" tvg-logo="https://freeshot.live/upload/source/SkySportAustria-logo.png" group-title="FreeShot Germany",Sky Sport Austria 1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportAustria
+http://cdn.tv-rds.workers.dev/SkySportAustria.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Golf DE" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Golf-Logo.png" group-title="FreeShot Germany",Sky Sport Golf DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportGolfDE
+http://cdn.tv-rds.workers.dev/SkySportGolfDE.m3u8
 #EXTINF:-1 tvg-name="Sky Sport F1 DE" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="FreeShot Germany",Sky Sport F1 DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportF1DE
+http://cdn.tv-rds.workers.dev/SkySportF1DE.m3u8
 #EXTINF:-1 tvg-name="Sky Atlantic Deutschland" tvg-logo="https://freeshot.live/upload/source/Sky-Atlantic_logo.png" group-title="FreeShot Germany",Sky Atlantic Deutschland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyAtlanticDE
+http://cdn.tv-rds.workers.dev/SkyAtlanticDE.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Premier League DE" tvg-logo="https://freeshot.live/upload/source/SkySportPremierLeague-logo.png" group-title="FreeShot Germany",Sky Sport Premier League DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportPremierLeagueDE
+http://cdn.tv-rds.workers.dev/SkySportPremierLeagueDE.m3u8
 #EXTINF:-1 tvg-name="Sky Sports News DE" tvg-logo="https://freeshot.live/upload/source/sky_sport-news-logo.png" group-title="FreeShot Germany",Sky Sports News DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportNewsDE
+http://cdn.tv-rds.workers.dev/SkySportNewsDE.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Tennis DE" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png" group-title="FreeShot Germany",Sky Sports Tennis DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportTennisDE
+http://cdn.tv-rds.workers.dev/SkySportTennisDE.m3u8
 #EXTINF:-1 tvg-name="Sky Sport top event DE" tvg-logo="https://freeshot.live/upload/source/sky-sport-top-event.png" group-title="FreeShot Germany",Sky Sport top event DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySporttopeventDE
+http://cdn.tv-rds.workers.dev/SkySporttopeventDE.m3u8
 #EXTINF:-1 tvg-name="DAZN 2 DE" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="FreeShot Germany",DAZN 2 DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DAZN2DE
+http://cdn.tv-rds.workers.dev/DAZN2DE.m3u8
 #EXTINF:-1 tvg-name="DAZN 1 DE" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="FreeShot Germany",DAZN 1 DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DAZN1DE
+http://cdn.tv-rds.workers.dev/DAZN1DE.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://freeshot.live/upload/source/sky-sports-bundesliga-logo.png" group-title="FreeShot Germany",Sky Sport Bundesliga DE
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportBundesliga
+http://cdn.tv-rds.workers.dev/SkySportBundesliga.m3u8
 #EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://freeshot.live/upload/source/Reshet-13-logo.png" group-title="FreeShot Israel",Reshet 13
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Reshet13
+http://cdn.tv-rds.workers.dev/Reshet13.m3u8
 #EXTINF:-1 tvg-name="PMC Israel" tvg-logo="https://freeshot.live/upload/source/PMC-logo.png" group-title="FreeShot Israel",PMC Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PMCIsrael
+http://cdn.tv-rds.workers.dev/PMCIsrael.m3u8
 #EXTINF:-1 tvg-name="Makan 33 Israel" tvg-logo="https://freeshot.live/upload/source/makan-33-il-logo.png" group-title="FreeShot Israel",Makan 33 Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=makan-33-il
+http://cdn.tv-rds.workers.dev/makan-33-il.m3u8
 #EXTINF:-1 tvg-name="KAN 11 Israel" tvg-logo="https://freeshot.live/upload/source/KAN11-Israel-logo.png" group-title="FreeShot Israel",KAN 11 Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=KAN11Israel
+http://cdn.tv-rds.workers.dev/KAN11Israel.m3u8
 #EXTINF:-1 tvg-name="ONE 2 Israel" tvg-logo="https://freeshot.live/upload/source/one-il-2-logo.png" group-title="FreeShot Israel",ONE 2 Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ONEIL2
+http://cdn.tv-rds.workers.dev/ONEIL2.m3u8
 #EXTINF:-1 tvg-name="ONE Israel" tvg-logo="https://freeshot.live/upload/source/one-il-logo.png" group-title="FreeShot Israel",ONE Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ONEIL
+http://cdn.tv-rds.workers.dev/ONEIL.m3u8
 #EXTINF:-1 tvg-name="SPORT 5 GOLD Israel" tvg-logo="https://freeshot.live/upload/source/Sport_5_Star_Israel.png" group-title="FreeShot Israel",SPORT 5 GOLD Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport5GoldIsrael
+http://cdn.tv-rds.workers.dev/Sport5GoldIsrael.m3u8
 #EXTINF:-1 tvg-name="SPORT 5 STARS Israel" tvg-logo="https://freeshot.live/upload/source/Sport_5_Star_Israel.png" group-title="FreeShot Israel",SPORT 5 STARS Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport5StarIsrael
+http://cdn.tv-rds.workers.dev/Sport5StarIsrael.m3u8
 #EXTINF:-1 tvg-name="SPORT 5 LIVE Israel" tvg-logo="https://freeshot.live/upload/source/sport_5_israel_logo.png" group-title="FreeShot Israel",SPORT 5 LIVE Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport5LiveIsrael
+http://cdn.tv-rds.workers.dev/Sport5LiveIsrael.m3u8
 #EXTINF:-1 tvg-name="SPORT 5 PLUS Israel" tvg-logo="https://freeshot.live/upload/source/sport_5_israel_logo.png" group-title="FreeShot Israel",SPORT 5 PLUS Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport5PLUSIsrael
+http://cdn.tv-rds.workers.dev/Sport5PLUSIsrael.m3u8
 #EXTINF:-1 tvg-name="Yes Sport 5 Israel" tvg-logo="https://freeshot.live/upload/source/sport_5_israel_logo.png" group-title="FreeShot Israel",Yes Sport 5 Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport5Israel
+http://cdn.tv-rds.workers.dev/Sport5Israel.m3u8
 #EXTINF:-1 tvg-name="Yes Sport 4 Israel" tvg-logo="https://freeshot.live/upload/source/sport_4_israel_logo.png" group-title="FreeShot Israel",Yes Sport 4 Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport4Israel
+http://cdn.tv-rds.workers.dev/Sport4Israel.m3u8
 #EXTINF:-1 tvg-name="Yes Sport 3 Israel" tvg-logo="https://freeshot.live/upload/source/sport_3_israel_logo.png" group-title="FreeShot Israel",Yes Sport 3 Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport3Israel
+http://cdn.tv-rds.workers.dev/Sport3Israel.m3u8
 #EXTINF:-1 tvg-name="Yes Sport 2 Israel" tvg-logo="https://freeshot.live/upload/source/sport_2_israel_logo.png" group-title="FreeShot Israel",Yes Sport 2 Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport2Israel
+http://cdn.tv-rds.workers.dev/Sport2Israel.m3u8
 #EXTINF:-1 tvg-name="Yes Sport 1 Israel" tvg-logo="https://freeshot.live/upload/source/sport_1_israel_logo.png" group-title="FreeShot Israel",Yes Sport 1 Israel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sport1Israel
+http://cdn.tv-rds.workers.dev/Sport1Israel.m3u8
 #EXTINF:-1 tvg-name="ITALIA 2 TV" tvg-logo="https://freeshot.live/upload/source/ITALIA-2-TV-logo.png" group-title="FreeShot Italia",ITALIA 2 TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ITALIA2TV
+http://cdn.tv-rds.workers.dev/ITALIA2TV.m3u8
 #EXTINF:-1 tvg-name="Bike Channel" tvg-logo="https://freeshot.live/upload/source/BikeChannel-logo.png" group-title="FreeShot Italia",Bike Channel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BikeIT
+http://cdn.tv-rds.workers.dev/BikeIT.m3u8
 #EXTINF:-1 tvg-name="Inter TV" tvg-logo="https://freeshot.live/upload/source/InterTV-logo.png" group-title="FreeShot Italia",Inter TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=InterTV
+http://cdn.tv-rds.workers.dev/InterTV.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 IT" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Italia",EUROSPORT 2 IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2IT
+http://cdn.tv-rds.workers.dev/Eurosport2IT.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 IT" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Italia",EUROSPORT 1 IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport1IT
+http://cdn.tv-rds.workers.dev/Eurosport1IT.m3u8
 #EXTINF:-1 tvg-name="Milan TV" tvg-logo="https://freeshot.live/upload/source/Milan-TV-logo.png" group-title="FreeShot Italia",Milan TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MilanTV
+http://cdn.tv-rds.workers.dev/MilanTV.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Max IT" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png" group-title="FreeShot Italia",Sky Sport Max IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportMaxIT
+http://cdn.tv-rds.workers.dev/SkySportMaxIT.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Mix IT" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png" group-title="FreeShot Italia",Sky Sport Mix IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportMixIT
+http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8
 #EXTINF:-1 tvg-name="LA7d" tvg-logo="https://freeshot.live/upload/source/LA7d-logo.png" group-title="FreeShot Italia",LA7d
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=LA7d
+http://cdn.tv-rds.workers.dev/LA7d.m3u8
 #EXTINF:-1 tvg-name="La7" tvg-logo="https://freeshot.live/upload/source/la7-logo.png" group-title="FreeShot Italia",La7
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=La7
+http://cdn.tv-rds.workers.dev/La7.m3u8
 #EXTINF:-1 tvg-name="SoloCalcio" tvg-logo="https://freeshot.live/upload/source/Sportitalia-logo.png" group-title="FreeShot Italia",SoloCalcio
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SoloCalcio
+http://cdn.tv-rds.workers.dev/SoloCalcio.m3u8
 #EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://freeshot.live/upload/source/Sportitalia-logo.png" group-title="FreeShot Italia",Sportitalia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportitalia
+http://cdn.tv-rds.workers.dev/Sportitalia.m3u8
 #EXTINF:-1 tvg-name="Rai News 24" tvg-logo="https://freeshot.live/upload/source/RaiNews24-logo.png" group-title="FreeShot Italia",Rai News 24
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RaiNews24
+http://cdn.tv-rds.workers.dev/RaiNews24.m3u8
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://freeshot.live/upload/source/SuperTennis-logo.png" group-title="FreeShot Italia",SuperTennis
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SuperTennisIT
+http://cdn.tv-rds.workers.dev/SuperTennisIT.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Arena IT" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Arena-Logo.png" group-title="FreeShot Italia",Sky Sports Arena IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportArenaIT
+http://cdn.tv-rds.workers.dev/SkySportArenaIT.m3u8
 #EXTINF:-1 tvg-name="Sky Sport 24 IT" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png" group-title="FreeShot Italia",Sky Sport 24 IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySport24IT
+http://cdn.tv-rds.workers.dev/SkySport24IT.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Calcio IT" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png" group-title="FreeShot Italia",Sky Sport Calcio IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportCalcioIT
+http://cdn.tv-rds.workers.dev/SkySportCalcioIT.m3u8
 #EXTINF:-1 tvg-name="Rai Sport + HD" tvg-logo="https://freeshot.live/upload/source/Rais_Sort1-logo.png" group-title="FreeShot Italia",Rai Sport + HD
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RaiSport
+http://cdn.tv-rds.workers.dev/RaiSport.m3u8
 #EXTINF:-1 tvg-name="Zona DAZN IT" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png" group-title="FreeShot Italia",Zona DAZN IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ZonaDAZN
+http://cdn.tv-rds.workers.dev/ZonaDAZN.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Moto GP IT" tvg-logo="https://freeshot.live/upload/source/sky_sport_motogp_logo.png" group-title="FreeShot Italia",Sky Sport Moto GP IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportMotoGPIT
+http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8
 #EXTINF:-1 tvg-name="Rai Italia IT" tvg-logo="https://freeshot.live/upload/source/RaiItalia-logo.png" group-title="FreeShot Italia",Rai Italia IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RaiItalia
+http://cdn.tv-rds.workers.dev/RaiItalia.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Golf IT" tvg-logo="https://freeshot.live/upload/source/SkySportGolfIT-logo.png" group-title="FreeShot Italia",Sky Sport Golf IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportGolfIT
+http://cdn.tv-rds.workers.dev/SkySportGolfIT.m3u8
 #EXTINF:-1 tvg-name="Mediaset Extra IT" tvg-logo="https://freeshot.live/upload/source/MediasetExtra-logo.png" group-title="FreeShot Italia",Mediaset Extra IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MediasetExtra
+http://cdn.tv-rds.workers.dev/MediasetExtra.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Tennis IT" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png" group-title="FreeShot Italia",Sky Sport Tennis IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportTennisIT
+http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8
 #EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://freeshot.live/upload/source/Canale-5-logo.png" group-title="FreeShot Italia",Canale 5
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canale-5
+http://cdn.tv-rds.workers.dev/Canale-5.m3u8
 #EXTINF:-1 tvg-name="Rai 4" tvg-logo="https://freeshot.live/upload/source/Rai-4-logo.png" group-title="FreeShot Italia",Rai 4
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Rai4IT
+http://cdn.tv-rds.workers.dev/Rai4IT.m3u8
 #EXTINF:-1 tvg-name="Rai 3" tvg-logo="https://freeshot.live/upload/source/Rai-3-logo.png" group-title="FreeShot Italia",Rai 3
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Rai3IT
+http://cdn.tv-rds.workers.dev/Rai3IT.m3u8
 #EXTINF:-1 tvg-name="Rai 2" tvg-logo="https://freeshot.live/upload/source/Rai-2-logo.png" group-title="FreeShot Italia",Rai 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Rai2IT
+http://cdn.tv-rds.workers.dev/Rai2IT.m3u8
 #EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://freeshot.live/upload/source/Rai-1-logo.png" group-title="FreeShot Italia",Rai 1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Rai1IT
+http://cdn.tv-rds.workers.dev/Rai1IT.m3u8
 #EXTINF:-1 tvg-name="Sky Sport F1 IT" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="FreeShot Italia",Sky Sport F1 IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportF1Italia
+http://cdn.tv-rds.workers.dev/SkySportF1Italia.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Uno IT" tvg-logo="https://freeshot.live/upload/source/sky-sport-uno-logo.png" group-title="FreeShot Italia",Sky Sport Uno IT
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportUnoItalia
+http://cdn.tv-rds.workers.dev/SkySportUnoItalia.m3u8
 #EXTINF:-1 tvg-name="Polsat Sport Premium 2" tvg-logo="https://freeshot.live/upload/source/Polsat_Sport_Premium_2_logo.png" group-title="FreeShot Poland",Polsat Sport Premium 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PolsatSportPremium2
+http://cdn.tv-rds.workers.dev/PolsatSportPremium2.m3u8
 #EXTINF:-1 tvg-name="Polsat Sport Premium 1" tvg-logo="https://freeshot.live/upload/source/Polsat_Sport_Premium_1_logo.png" group-title="FreeShot Poland",Polsat Sport Premium 1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PolsatSportPremium1
+http://cdn.tv-rds.workers.dev/PolsatSportPremium1.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 4 PL" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png" group-title="FreeShot Poland",ELEVEN SPORTS 4 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ElevenSports4PL
+http://cdn.tv-rds.workers.dev/ElevenSports4PL.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 3 PL" tvg-logo="https://freeshot.live/upload/source/ElevenSports3-logo.png" group-title="FreeShot Poland",ELEVEN SPORTS 3 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ElevenSports3PL
+http://cdn.tv-rds.workers.dev/ElevenSports3PL.m3u8
 #EXTINF:-1 tvg-name="Polsat Sport Fight PL" tvg-logo="https://freeshot.live/upload/source/polsat-sport-fight-logo.png" group-title="FreeShot Poland",Polsat Sport Fight PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PolsatSportFight
+http://cdn.tv-rds.workers.dev/PolsatSportFight.m3u8
 #EXTINF:-1 tvg-name="CANAL+ EXTRA 2 PL" tvg-logo="https://freeshot.live/upload/source/CLPLExtra2-logo.png" group-title="FreeShot Poland",CANAL+ EXTRA 2 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CLPLExtra2
+http://cdn.tv-rds.workers.dev/CLPLExtra2.m3u8
 #EXTINF:-1 tvg-name="CANAL+ EXTRA 1 PL" tvg-logo="https://freeshot.live/upload/source/CLPLExtra1-logo.png" group-title="FreeShot Poland",CANAL+ EXTRA 1 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CLPLExtra1
+http://cdn.tv-rds.workers.dev/CLPLExtra1.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 5 PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport5-poland_logo.png" group-title="FreeShot Poland",CANAL+ SPORT 5 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+Sport5PL
+http://cdn.tv-rds.workers.dev/Canal+Sport5PL.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 4 PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport4-poland_logo.png" group-title="FreeShot Poland",CANAL+ SPORT 4 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+Sport4PL
+http://cdn.tv-rds.workers.dev/Canal+Sport4PL.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 3 PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport3-poland_logo.png" group-title="FreeShot Poland",CANAL+ SPORT 3 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+Sport3PL
+http://cdn.tv-rds.workers.dev/Canal+Sport3PL.m3u8
 #EXTINF:-1 tvg-name="Motowizja" tvg-logo="https://freeshot.live/upload/source/Motowizja-ikona-logo.png" group-title="FreeShot Poland",Motowizja
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Motowizja
+http://cdn.tv-rds.workers.dev/Motowizja.m3u8
 #EXTINF:-1 tvg-name="Polsat Poland" tvg-logo="https://freeshot.live/upload/source/polsat-poland.png" group-title="FreeShot Poland",Polsat Poland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PolsatPoland
+http://cdn.tv-rds.workers.dev/PolsatPoland.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 2 PL" tvg-logo="https://freeshot.live/upload/source/ElevenSports2-logo.png" group-title="FreeShot Poland",ELEVEN SPORTS 2 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ElevenSports2PL
+http://cdn.tv-rds.workers.dev/ElevenSports2PL.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 1 PL" tvg-logo="https://freeshot.live/upload/source/ElevenSports1-logo.png" group-title="FreeShot Poland",ELEVEN SPORTS 1 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ElevenSportsPL
+http://cdn.tv-rds.workers.dev/ElevenSportsPL.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 PL" tvg-logo="https://freeshot.live/upload/source/Eurosport-2-poland-logo.png" group-title="FreeShot Poland",EUROSPORT 2 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2PL
+http://cdn.tv-rds.workers.dev/Eurosport2PL.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 PL" tvg-logo="https://freeshot.live/upload/source/Eurosport-1-poland-logo.png" group-title="FreeShot Poland",EUROSPORT 1 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EurosportPL
+http://cdn.tv-rds.workers.dev/EurosportPL.m3u8
 #EXTINF:-1 tvg-name="Polsat Sport 3 PL" tvg-logo="https://freeshot.live/upload/source/Polsat-sport-3-logo.png" group-title="FreeShot Poland",Polsat Sport 3 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PolsatSportNews
+http://cdn.tv-rds.workers.dev/PolsatSportNews.m3u8
 #EXTINF:-1 tvg-name="Polsat Sport 2 PL" tvg-logo="https://freeshot.live/upload/source/Polsat-sport-2-logo.png" group-title="FreeShot Poland",Polsat Sport 2 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PolsatSportExtra
+http://cdn.tv-rds.workers.dev/PolsatSportExtra.m3u8
 #EXTINF:-1 tvg-name="Polsat Sport PL" tvg-logo="https://freeshot.live/upload/source/Polsat-sport_logo.png" group-title="FreeShot Poland",Polsat Sport PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PolsatSportPL
+http://cdn.tv-rds.workers.dev/PolsatSportPL.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 2 PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport2-poland_logo.png" group-title="FreeShot Poland",CANAL+ SPORT 2 PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+Sport2PL
+http://cdn.tv-rds.workers.dev/Canal+Sport2PL.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-poland_logo.png" group-title="FreeShot Poland",CANAL+ SPORT PL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Canal+SportPL
+http://cdn.tv-rds.workers.dev/Canal+SportPL.m3u8
 #EXTINF:-1 tvg-name="Sport Extra RO" tvg-logo="https://freeshot.live/upload/source/Sport-Extra-RO-logo.png" group-title="FreeShot Romania",Sport Extra RO
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SportExtraRO
+http://cdn.tv-rds.workers.dev/SportExtraRO.m3u8
 #EXTINF:-1 tvg-name="PRIMA Sport 5" tvg-logo="https://freeshot.live/upload/source/PrimaSport5-logo.png" group-title="FreeShot Romania",PRIMA Sport 5
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PrimaSport5
+http://cdn.tv-rds.workers.dev/PrimaSport5.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 RO" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Romania",EUROSPORT 2 RO
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2RO
+http://cdn.tv-rds.workers.dev/Eurosport2RO.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 RO" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Romania",EUROSPORT 1 RO
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport1RO
+http://cdn.tv-rds.workers.dev/Eurosport1RO.m3u8
 #EXTINF:-1 tvg-name="PRIMA Sport 4" tvg-logo="https://freeshot.live/upload/source/PrimaSport4-logo.png" group-title="FreeShot Romania",PRIMA Sport 4
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PrimaSport4
+http://cdn.tv-rds.workers.dev/PrimaSport4.m3u8
 #EXTINF:-1 tvg-name="PRIMA Sport 3" tvg-logo="https://freeshot.live/upload/source/PrimaSport3-logo.png" group-title="FreeShot Romania",PRIMA Sport 3
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PrimaSport3
+http://cdn.tv-rds.workers.dev/PrimaSport3.m3u8
 #EXTINF:-1 tvg-name="PRIMA Sport 2" tvg-logo="https://freeshot.live/upload/source/PrimaSport2-logo.png" group-title="FreeShot Romania",PRIMA Sport 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PrimaSport2
+http://cdn.tv-rds.workers.dev/PrimaSport2.m3u8
 #EXTINF:-1 tvg-name="PRIMA Sport" tvg-logo="https://freeshot.live/upload/source/PrimaSport1-logo.png" group-title="FreeShot Romania",PRIMA Sport
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PrimaSport1
+http://cdn.tv-rds.workers.dev/PrimaSport1.m3u8
 #EXTINF:-1 tvg-name="DIGI SPORT 4" tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_4.png" group-title="FreeShot Romania",DIGI SPORT 4
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DigiSport4
+http://cdn.tv-rds.workers.dev/DigiSport4.m3u8
 #EXTINF:-1 tvg-name="DIGI SPORT 3" tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_3.png" group-title="FreeShot Romania",DIGI SPORT 3
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DigiSport3
+http://cdn.tv-rds.workers.dev/DigiSport3.m3u8
 #EXTINF:-1 tvg-name="DIGI SPORT 2" tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_2-logo.png" group-title="FreeShot Romania",DIGI SPORT 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DigiSport2
+http://cdn.tv-rds.workers.dev/DigiSport2.m3u8
 #EXTINF:-1 tvg-name="DIGI SPORT 1" tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_1_logo.png" group-title="FreeShot Romania",DIGI SPORT 1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DigiSport1
+http://cdn.tv-rds.workers.dev/DigiSport1.m3u8
 #EXTINF:-1 tvg-name="Extreme Sports" tvg-logo="https://freeshot.live/upload/source/ExtremeSports-logo.png" group-title="FreeShot Russia",Extreme Sports
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ExtremeSports
+http://cdn.tv-rds.workers.dev/ExtremeSports.m3u8
 #EXTINF:-1 tvg-name="FightBox" tvg-logo="https://freeshot.live/upload/source/FightBox-logo.png" group-title="FreeShot Russia",FightBox
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FightBox
+http://cdn.tv-rds.workers.dev/FightBox.m3u8
 #EXTINF:-1 tvg-name="Setanta Sports KZ" tvg-logo="https://freeshot.live/upload/source/SetantaSportsQazaqstan-LOGO.png" group-title="FreeShot Russia",Setanta Sports KZ
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SetantaSportsKZ
+http://cdn.tv-rds.workers.dev/SetantaSportsKZ.m3u8
 #EXTINF:-1 tvg-name="UDAR RU" tvg-logo="https://freeshot.live/upload/source/UDAR-TV-logo.png" group-title="FreeShot Russia",UDAR RU
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=UDAR
+http://cdn.tv-rds.workers.dev/UDAR.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 RU" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Russia",EUROSPORT 2 RU
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EURO2RU
+http://cdn.tv-rds.workers.dev/EURO2RU.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 RU" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Russia",EUROSPORT 1 RU
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EURO1RU
+http://cdn.tv-rds.workers.dev/EURO1RU.m3u8
 #EXTINF:-1 tvg-name="RT News" tvg-logo="https://freeshot.live/upload/source/RTNews-logo.png" group-title="FreeShot Russia",RT News
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RTNews
+http://cdn.tv-rds.workers.dev/RTNews.m3u8
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://freeshot.live/upload/source/KHL-Prime-ru-logo.png" group-title="FreeShot Russia",KHL Prime
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=KHLPrime
+http://cdn.tv-rds.workers.dev/KHLPrime.m3u8
 #EXTINF:-1 tvg-name="viju+ sport RU" tvg-logo="https://freeshot.live/upload/source/viju-plus-sport-ru-logo.png" group-title="FreeShot Russia",viju+ sport RU
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=vijusport
+http://cdn.tv-rds.workers.dev/vijusport.m3u8
 #EXTINF:-1 tvg-name="Setanta Sports 2" tvg-logo="https://freeshot.live/upload/source/SetantaSport2Russia-logo.png" group-title="FreeShot Russia",Setanta Sports 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SetantaSport2Russia
+http://cdn.tv-rds.workers.dev/SetantaSport2Russia.m3u8
 #EXTINF:-1 tvg-name="Setanta Sports 1" tvg-logo="https://freeshot.live/upload/source/SetantaSport1Russia-logo.png" group-title="FreeShot Russia",Setanta Sports 1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SetantaSport1Russia
+http://cdn.tv-rds.workers.dev/SetantaSport1Russia.m3u8
 #EXTINF:-1 tvg-name="KHL RU" tvg-logo="https://freeshot.live/upload/source/KHL-ru-logo.png" group-title="FreeShot Russia",KHL RU
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=KHL
+http://cdn.tv-rds.workers.dev/KHL.m3u8
 #EXTINF:-1 tvg-name="МАТЧ! БОЕЦ" tvg-logo="https://freeshot.live/upload/source/МАТЧ! БОЕЦ Russia.png" group-title="FreeShot Russia",МАТЧ! БОЕЦ
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=МАТЧ
+http://cdn.tv-rds.workers.dev/МАТЧ.m3u8
 #EXTINF:-1 tvg-name="Match Football 3" tvg-logo="https://freeshot.live/upload/source/MatchFootball3logo.png" group-title="FreeShot Russia",Match Football 3
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MatchFootball3
+http://cdn.tv-rds.workers.dev/MatchFootball3.m3u8
 #EXTINF:-1 tvg-name="Match Football 2" tvg-logo="https://freeshot.live/upload/source/Match_Football_2_Russia_logo.png" group-title="FreeShot Russia",Match Football 2
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MatchFootball2
+http://cdn.tv-rds.workers.dev/MatchFootball2.m3u8
 #EXTINF:-1 tvg-name="Match Football 1" tvg-logo="https://freeshot.live/upload/source/Match_Football_1_Russia.png" group-title="FreeShot Russia",Match Football 1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MatchFootball1
+http://cdn.tv-rds.workers.dev/MatchFootball1.m3u8
 #EXTINF:-1 tvg-name="Match TV Russia" tvg-logo="https://freeshot.live/upload/source/Match_TV_Russia_logo.png" group-title="FreeShot Russia",Match TV Russia
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MatchTV
+http://cdn.tv-rds.workers.dev/MatchTV.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 Denmark" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Scandinavia",EUROSPORT 2 Denmark
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2DK
+http://cdn.tv-rds.workers.dev/Eurosport2DK.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 Denmark" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Scandinavia",EUROSPORT 1 Denmark
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport1DK
+http://cdn.tv-rds.workers.dev/Eurosport1DK.m3u8
 #EXTINF:-1 tvg-name="SPORT LIVE Denmark" tvg-logo="https://freeshot.live/upload/source/SPORTLIVE-logo.png" group-title="FreeShot Scandinavia",SPORT LIVE Denmark
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SPORTLIVE
+http://cdn.tv-rds.workers.dev/SPORTLIVE.m3u8
 #EXTINF:-1 tvg-name="TV3 Sport Denmark" tvg-logo="https://freeshot.live/upload/source/TV3Sport-logo.png" group-title="FreeShot Scandinavia",TV3 Sport Denmark
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV3Sport
+http://cdn.tv-rds.workers.dev/TV3Sport.m3u8
 #EXTINF:-1 tvg-name="TV 2 Sport X Denmark" tvg-logo="https://freeshot.live/upload/source/TV2SportX-logo.png" group-title="FreeShot Scandinavia",TV 2 Sport X Denmark
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV2SportX
+http://cdn.tv-rds.workers.dev/TV2SportX.m3u8
 #EXTINF:-1 tvg-name="TV 2 Sport Denmark" tvg-logo="https://freeshot.live/upload/source/TV2Sport-logo.png" group-title="FreeShot Scandinavia",TV 2 Sport Denmark
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV2Sport
+http://cdn.tv-rds.workers.dev/TV2Sport.m3u8
 #EXTINF:-1 tvg-name="TV 2 Sport Premium 2 Norway" tvg-logo="https://freeshot.live/upload/source/TV2SportPremium-2-logo.png" group-title="FreeShot Scandinavia",TV 2 Sport Premium 2 Norway
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV2SportPremium2
+http://cdn.tv-rds.workers.dev/TV2SportPremium2.m3u8
 #EXTINF:-1 tvg-name="TV 2 Sport Premium Norway" tvg-logo="https://freeshot.live/upload/source/TV2SportPremium-logo.png" group-title="FreeShot Scandinavia",TV 2 Sport Premium Norway
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV2SportPremium
+http://cdn.tv-rds.workers.dev/TV2SportPremium.m3u8
 #EXTINF:-1 tvg-name="TV 2 Sport 2 Norway" tvg-logo="https://freeshot.live/upload/source/TV2Sport2-logo.png" group-title="FreeShot Scandinavia",TV 2 Sport 2 Norway
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV2Sport2
+http://cdn.tv-rds.workers.dev/TV2Sport2.m3u8
 #EXTINF:-1 tvg-name="TV 2 Sport 1 Norway" tvg-logo="https://freeshot.live/upload/source/TV2Sport1-logo.png" group-title="FreeShot Scandinavia",TV 2 Sport 1 Norway
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV2Sport1
+http://cdn.tv-rds.workers.dev/TV2Sport1.m3u8
 #EXTINF:-1 tvg-name="Canal Motor TV Norway" tvg-logo="https://freeshot.live/upload/source/CanalMotorTV-logo.png" group-title="FreeShot Scandinavia",Canal Motor TV Norway
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CanalMotorTV
+http://cdn.tv-rds.workers.dev/CanalMotorTV.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT Norge" tvg-logo="https://freeshot.live/upload/source/eurosport-norge-logo.png" group-title="FreeShot Scandinavia",EUROSPORT Norge
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EurosportNorge
+http://cdn.tv-rds.workers.dev/EurosportNorge.m3u8
 #EXTINF:-1 tvg-name="Viasat Sport Motor Norway" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-Motor.png" group-title="FreeShot Scandinavia",Viasat Sport Motor Norway
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ViasatSportMotorSE
+http://cdn.tv-rds.workers.dev/ViasatSportMotorSE.m3u8
 #EXTINF:-1 tvg-name="Viasat Sport Premium Sweden" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-Premium.png" group-title="FreeShot Scandinavia",Viasat Sport Premium Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ViasatSportPremiumSE
+http://cdn.tv-rds.workers.dev/ViasatSportPremiumSE.m3u8
 #EXTINF:-1 tvg-name="Viasat Sport 1 Sweden" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png" group-title="FreeShot Scandinavia",Viasat Sport 1 Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ViasatSportSE
+http://cdn.tv-rds.workers.dev/ViasatSportSE.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 Sweden" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Scandinavia",EUROSPORT 2 Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2SE
+http://cdn.tv-rds.workers.dev/Eurosport2SE.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 Sweden" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Scandinavia",EUROSPORT 1 Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport1SE
+http://cdn.tv-rds.workers.dev/Eurosport1SE.m3u8
 #EXTINF:-1 tvg-name="Vodafone Sport Iceland" tvg-logo="https://freeshot.live/upload/source/Vodafone-sport-logo.png" group-title="FreeShot Scandinavia",Vodafone Sport Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=VodafoneSportIS
+http://cdn.tv-rds.workers.dev/VodafoneSportIS.m3u8
 #EXTINF:-1 tvg-name="Stöð 2 Sport 5 Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-5-logo.png" group-title="FreeShot Scandinavia",Stöð 2 Sport 5 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportstod2-5
+http://cdn.tv-rds.workers.dev/Sportstod2-5.m3u8
 #EXTINF:-1 tvg-name="Stöð 2 Sport 4 Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-4-logo.png" group-title="FreeShot Scandinavia",Stöð 2 Sport 4 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportstod2-4
+http://cdn.tv-rds.workers.dev/Sportstod2-4.m3u8
 #EXTINF:-1 tvg-name="Stöð 2 Sport 3 Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-3-logo.png" group-title="FreeShot Scandinavia",Stöð 2 Sport 3 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportstod2-3
+http://cdn.tv-rds.workers.dev/Sportstod2-3.m3u8
 #EXTINF:-1 tvg-name="Stöð 2 Sport 2 Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-2-logo.png" group-title="FreeShot Scandinavia",Stöð 2 Sport 2 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportstod2-2
+http://cdn.tv-rds.workers.dev/Sportstod2-2.m3u8
 #EXTINF:-1 tvg-name="Stöð 2 Sport Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-logo.png" group-title="FreeShot Scandinavia",Stöð 2 Sport Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Sportstod2
+http://cdn.tv-rds.workers.dev/Sportstod2.m3u8
 #EXTINF:-1 tvg-name="Síminn Sport 5 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-5-logo.png" group-title="FreeShot Scandinavia",Síminn Sport 5 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SiminnSport5
+http://cdn.tv-rds.workers.dev/SiminnSport5.m3u8
 #EXTINF:-1 tvg-name="Síminn Sport 4 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-4-logo.png" group-title="FreeShot Scandinavia",Síminn Sport 4 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SiminnSport4
+http://cdn.tv-rds.workers.dev/SiminnSport4.m3u8
 #EXTINF:-1 tvg-name="Síminn Sport 3 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-3-logo.png" group-title="FreeShot Scandinavia",Síminn Sport 3 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SiminnSport3
+http://cdn.tv-rds.workers.dev/SiminnSport3.m3u8
 #EXTINF:-1 tvg-name="Síminn Sport 2 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-2-logo.png" group-title="FreeShot Scandinavia",Síminn Sport 2 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SiminnSport2
+http://cdn.tv-rds.workers.dev/SiminnSport2.m3u8
 #EXTINF:-1 tvg-name="Síminn Sport 1 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-logo.png" group-title="FreeShot Scandinavia",Síminn Sport 1 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SiminnSport1
+http://cdn.tv-rds.workers.dev/SiminnSport1.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 Iceland" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Scandinavia",EUROSPORT 2 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2IS
+http://cdn.tv-rds.workers.dev/Eurosport2IS.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 Iceland" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Scandinavia",EUROSPORT 1 Iceland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport1IS
+http://cdn.tv-rds.workers.dev/Eurosport1IS.m3u8
 #EXTINF:-1 tvg-name="mtv max Finland" tvg-logo="https://freeshot.live/upload/source/mtv-max-fi-logo.png" group-title="FreeShot Scandinavia",mtv max Finland
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=mtv-max
+http://cdn.tv-rds.workers.dev/mtv-max.m3u8
 #EXTINF:-1 tvg-name="TV4 Sportkanalen Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sportkanalen-logo.png" group-title="FreeShot Scandinavia",TV4 Sportkanalen Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV4Sportkanalen
+http://cdn.tv-rds.workers.dev/TV4Sportkanalen.m3u8
 #EXTINF:-1 tvg-name="TV4 Sport Live 4 Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sport-Live-4-logo.png" group-title="FreeShot Scandinavia",TV4 Sport Live 4 Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV4SportLive4
+http://cdn.tv-rds.workers.dev/TV4SportLive4.m3u8
 #EXTINF:-1 tvg-name="TV4 Sport Live 3 Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sport-Live-3-logo.png" group-title="FreeShot Scandinavia",TV4 Sport Live 3 Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV4SportLive3
+http://cdn.tv-rds.workers.dev/TV4SportLive3.m3u8
 #EXTINF:-1 tvg-name="TV4 Sport Live 2 Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sport-Live-2-logo.png" group-title="FreeShot Scandinavia",TV4 Sport Live 2 Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV4SportLive2
+http://cdn.tv-rds.workers.dev/TV4SportLive2.m3u8
 #EXTINF:-1 tvg-name="TV4 Sport Live 1 Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sport-Live-1-logo.png" group-title="FreeShot Scandinavia",TV4 Sport Live 1 Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV4SportLive1
+http://cdn.tv-rds.workers.dev/TV4SportLive1.m3u8
 #EXTINF:-1 tvg-name="TV4 Tennis Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Tennis-logo.png" group-title="FreeShot Scandinavia",TV4 Tennis Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV4Tennis
+http://cdn.tv-rds.workers.dev/TV4Tennis.m3u8
 #EXTINF:-1 tvg-name="TV4 Hockey Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Hockey-logo.png" group-title="FreeShot Scandinavia",TV4 Hockey Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV4Hockey
+http://cdn.tv-rds.workers.dev/TV4Hockey.m3u8
 #EXTINF:-1 tvg-name="TV4 Fotball Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Fotball-logo.png" group-title="FreeShot Scandinavia",TV4 Fotball Sweden
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV4Fotball
+http://cdn.tv-rds.workers.dev/TV4Fotball.m3u8
 #EXTINF:-1 tvg-name="Movistar #Vamos" tvg-logo="https://freeshot.live/upload/source/vamoslogo.png" group-title="FreeShot Spain",Movistar #Vamos
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MovistarVamos
+http://cdn.tv-rds.workers.dev/MovistarVamos.m3u8
 #EXTINF:-1 tvg-name="Barça TV" tvg-logo="https://freeshot.live/upload/source/BarcelonaTV-logo.png" group-title="FreeShot Spain",Barça TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BarcelonaTV
+http://cdn.tv-rds.workers.dev/BarcelonaTV.m3u8
 #EXTINF:-1 tvg-name="DAZN 4" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="FreeShot Spain",DAZN 4
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DAZN4ES
+http://cdn.tv-rds.workers.dev/DAZN4ES.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Ñ" tvg-logo="https://freeshot.live/upload/source/bein-sports-la-liga.png" group-title="FreeShot Spain",Bein Sports Ñ
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BeinSportsES
+http://cdn.tv-rds.workers.dev/BeinSportsES.m3u8
 #EXTINF:-1 tvg-name="DAZN LaLiga ES" tvg-logo="https://freeshot.live/upload/source/DAZNLaLigalogo.png" group-title="FreeShot Spain",DAZN LaLiga ES
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DAZNLaLiga
+http://cdn.tv-rds.workers.dev/DAZNLaLiga.m3u8
 #EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo="https://freeshot.live/upload/source/DAZN-F1-ES-LOGO.png" group-title="FreeShot Spain",DAZN F1 ES
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DAZNF1ES
+http://cdn.tv-rds.workers.dev/DAZNF1ES.m3u8
 #EXTINF:-1 tvg-name="Movistar Golf" tvg-logo="https://freeshot.live/upload/source/Movistar_Golf-logo.png" group-title="FreeShot Spain",Movistar Golf
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MovistarGolf
+http://cdn.tv-rds.workers.dev/MovistarGolf.m3u8
 #EXTINF:-1 tvg-name="DAZN 3 ES" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="FreeShot Spain",DAZN 3 ES
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DAZN3ES
+http://cdn.tv-rds.workers.dev/DAZN3ES.m3u8
 #EXTINF:-1 tvg-name="DAZN 2 ES" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="FreeShot Spain",DAZN 2 ES
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DAZN2ES
+http://cdn.tv-rds.workers.dev/DAZN2ES.m3u8
 #EXTINF:-1 tvg-name="DAZN 1 ES" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="FreeShot Spain",DAZN 1 ES
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=DAZN1ES
+http://cdn.tv-rds.workers.dev/DAZN1ES.m3u8
 #EXTINF:-1 tvg-name="Movistar Copa del Rey" tvg-logo="https://freeshot.live/upload/source/copa-del-rey-logo.png" group-title="FreeShot Spain",Movistar Copa del Rey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CopadelRey
+http://cdn.tv-rds.workers.dev/CopadelRey.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 ES" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Spain",EUROSPORT 2 ES
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2ES
+http://cdn.tv-rds.workers.dev/Eurosport2ES.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 ES" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Spain",EUROSPORT 1 ES
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EurosportES
+http://cdn.tv-rds.workers.dev/EurosportES.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV ES" tvg-logo="https://freeshot.live/upload/source/realmadrid-tv-logo.png" group-title="FreeShot Spain",Real Madrid TV ES
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RealMadridTV
+http://cdn.tv-rds.workers.dev/RealMadridTV.m3u8
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-logo="https://freeshot.live/upload/source/movistar-deportes-logo.png" group-title="FreeShot Spain",Movistar Deportes
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MovistarDeportes
+http://cdn.tv-rds.workers.dev/MovistarDeportes.m3u8
 #EXTINF:-1 tvg-name="Movistar Liga de Campeones" tvg-logo="https://freeshot.live/upload/source/movistar-liga-de-campeones-logo.png" group-title="FreeShot Spain",Movistar Liga de Campeones
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MovistarLigadeCampeones
+http://cdn.tv-rds.workers.dev/MovistarLigadeCampeones.m3u8
 #EXTINF:-1 tvg-name="Movistar LaLiga" tvg-logo="https://freeshot.live/upload/source/Movistar_LaLiga-logo.png" group-title="FreeShot Spain",Movistar LaLiga
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MovistarLaLiga
+http://cdn.tv-rds.workers.dev/MovistarLaLiga.m3u8
 #EXTINF:-1 tvg-name="A Spor" tvg-logo="https://freeshot.live/upload/source/A-Spor-logo.png" group-title="FreeShot Turkey",A Spor
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=A-Spor
+http://cdn.tv-rds.workers.dev/A-Spor.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 Turkey" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot Turkey",EUROSPORT 2 Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EUROSPORT2TR
+http://cdn.tv-rds.workers.dev/EUROSPORT2TR.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 Turkey" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot Turkey",EUROSPORT 1 Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=EUROSPORT1TR
+http://cdn.tv-rds.workers.dev/EUROSPORT1TR.m3u8
 #EXTINF:-1 tvg-name="sports tv Turkey" tvg-logo="https://freeshot.live/upload/source/sports-tv-turkey-logo.png" group-title="FreeShot Turkey",sports tv Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=sportstvTR
+http://cdn.tv-rds.workers.dev/sportstvTR.m3u8
 #EXTINF:-1 tvg-name="Tivibu SPOR 3 Turkey" tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-3-logo.png" group-title="FreeShot Turkey",Tivibu SPOR 3 Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TivibuSPOR3
+http://cdn.tv-rds.workers.dev/TivibuSPOR3.m3u8
 #EXTINF:-1 tvg-name="Tivibu SPOR 2 Turkey" tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-2-logo.png" group-title="FreeShot Turkey",Tivibu SPOR 2 Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TivibuSPOR2
+http://cdn.tv-rds.workers.dev/TivibuSPOR2.m3u8
 #EXTINF:-1 tvg-name="Tivibu SPOR Turkey" tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-logo.png" group-title="FreeShot Turkey",Tivibu SPOR Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TivibuSPOR
+http://cdn.tv-rds.workers.dev/TivibuSPOR.m3u8
 #EXTINF:-1 tvg-name="HT SPOR Turkey" tvg-logo="https://freeshot.live/upload/source/HT-SPOR-logo.png" group-title="FreeShot Turkey",HT SPOR Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=HT-SPOR
+http://cdn.tv-rds.workers.dev/HT-SPOR.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR Turkey" tvg-logo="https://freeshot.live/upload/source/TRT_SPOR-logo.png" group-title="FreeShot Turkey",TRT SPOR Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TRTSPOR
+http://cdn.tv-rds.workers.dev/TRTSPOR.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yıldız Turkey" tvg-logo="https://freeshot.live/upload/source/TRT_SPOR_Yıldız-logo.png" group-title="FreeShot Turkey",TRT Spor Yıldız Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TRTSPORY
+http://cdn.tv-rds.workers.dev/TRTSPORY.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 5 Turkey" tvg-logo="https://freeshot.live/upload/source/beINSPORTS5-logo.png" group-title="FreeShot Turkey",beIN SPORTS 5 Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS5TR
+http://cdn.tv-rds.workers.dev/beINSPORTS5TR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 4 Turkey" tvg-logo="https://freeshot.live/upload/source/bein-sports-4-logo.png" group-title="FreeShot Turkey",beIN SPORTS 4 Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS4TR
+http://cdn.tv-rds.workers.dev/beINSPORTS4TR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 3 Turkey" tvg-logo="https://freeshot.live/upload/source/bein-sports_3-logo.png" group-title="FreeShot Turkey",beIN SPORTS 3 Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS3TR
+http://cdn.tv-rds.workers.dev/beINSPORTS3TR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 2 Turkey" tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="FreeShot Turkey",beIN SPORTS 2 Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS2TR
+http://cdn.tv-rds.workers.dev/beINSPORTS2TR.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 1 Turkey" tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="FreeShot Turkey",beIN SPORTS 1 Turkey
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS1TR
+http://cdn.tv-rds.workers.dev/beINSPORTS1TR.m3u8
 #EXTINF:-1 tvg-name="Rally TV" tvg-logo="https://freeshot.live/upload/source/RallyTV-logo.png" group-title="FreeShot United Kingdom",Rally TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RallyTV
+http://cdn.tv-rds.workers.dev/RallyTV.m3u8
 #EXTINF:-1 tvg-name="Gold UK" tvg-logo="https://freeshot.live/upload/source/GoldUK-logo.png" group-title="FreeShot United Kingdom",Gold UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=GoldUK
+http://cdn.tv-rds.workers.dev/GoldUK.m3u8
 #EXTINF:-1 tvg-name="Film4 UK" tvg-logo="https://freeshot.live/upload/source/Film4-logo.png" group-title="FreeShot United Kingdom",Film4 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Film4UK
+http://cdn.tv-rds.workers.dev/Film4UK.m3u8
 #EXTINF:-1 tvg-name="S4C UK" tvg-logo="https://freeshot.live/upload/source/S4C-logo.png" group-title="FreeShot United Kingdom",S4C UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=S4CUK
+http://cdn.tv-rds.workers.dev/S4CUK.m3u8
 #EXTINF:-1 tvg-name="Sky History UK" tvg-logo="https://freeshot.live/upload/source/Sky-History-logo.png" group-title="FreeShot United Kingdom",Sky History UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyHistoryUK
+http://cdn.tv-rds.workers.dev/SkyHistoryUK.m3u8
 #EXTINF:-1 tvg-name="Sky Crime UK" tvg-logo="https://freeshot.live/upload/source/Sky-Crime-logo.png" group-title="FreeShot United Kingdom",Sky Crime UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCrimeUK
+http://cdn.tv-rds.workers.dev/SkyCrimeUK.m3u8
 #EXTINF:-1 tvg-name="Sky Comedy UK" tvg-logo="https://freeshot.live/upload/source/Sky-Comedy-logo.png" group-title="FreeShot United Kingdom",Sky Comedy UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyComedyUK
+http://cdn.tv-rds.workers.dev/SkyComedyUK.m3u8
 #EXTINF:-1 tvg-name="Sky Arts UK" tvg-logo="https://freeshot.live/upload/source/Sky-Arts-logo.png" group-title="FreeShot United Kingdom",Sky Arts UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyArtsUK
+http://cdn.tv-rds.workers.dev/SkyArtsUK.m3u8
 #EXTINF:-1 tvg-name="Sky Showcase" tvg-logo="https://freeshot.live/upload/source/Sky-Showcase-logo.png" group-title="FreeShot United Kingdom",Sky Showcase
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyShowcaseUK
+http://cdn.tv-rds.workers.dev/SkyShowcaseUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="https://freeshot.live/upload/source/Sky_Cinema_Sci-Fi_Horror-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Sci-Fi Horror UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaSci-FiHorrorUK
+http://cdn.tv-rds.workers.dev/SkyCinemaSci-FiHorrorUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Drama UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Drama-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Drama UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaDramaUK
+http://cdn.tv-rds.workers.dev/SkyCinemaDramaUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Thriller UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Thriller-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Thriller UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaThrillerUK
+http://cdn.tv-rds.workers.dev/SkyCinemaThrillerUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Comedy UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Comedy-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Comedy UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaComedyUK
+http://cdn.tv-rds.workers.dev/SkyCinemaComedyUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Action UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Action-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Action UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaActionUK
+http://cdn.tv-rds.workers.dev/SkyCinemaActionUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Family UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Family-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Family UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaFamilyUK
+http://cdn.tv-rds.workers.dev/SkyCinemaFamilyUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Animation UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Animation-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Animation UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaAnimationUK
+http://cdn.tv-rds.workers.dev/SkyCinemaAnimationUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Hits UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Hits-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Hits UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaHitsUK
+http://cdn.tv-rds.workers.dev/SkyCinemaHitsUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Greats UK" tvg-logo="https://freeshot.live/upload/source/SkyCinemaGreats-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Greats UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaGreatsUK
+http://cdn.tv-rds.workers.dev/SkyCinemaGreatsUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Select UK" tvg-logo="https://freeshot.live/upload/source/SkyCinemaSelect-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Select UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaSelectUK
+http://cdn.tv-rds.workers.dev/SkyCinemaSelectUK.m3u8
 #EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Premiere-logo.png" group-title="FreeShot United Kingdom",Sky Cinema Premiere UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyCinemaPremiereUK
+http://cdn.tv-rds.workers.dev/SkyCinemaPremiereUK.m3u8
 #EXTINF:-1 tvg-name="DAZN Club World Cup" tvg-logo="https://freeshot.live/upload/source/FIFA_Club_World_Cup_2025.png" group-title="FreeShot United Kingdom",DAZN Club World Cup
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ClubWorldCup
+http://cdn.tv-rds.workers.dev/ClubWorldCup.m3u8
 #EXTINF:-1 tvg-name="BBC News UK" tvg-logo="https://freeshot.live/upload/source/BBCNews-logo.png" group-title="FreeShot United Kingdom",BBC News UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BBCNewsUK
+http://cdn.tv-rds.workers.dev/BBCNewsUK.m3u8
 #EXTINF:-1 tvg-name="MTV UK" tvg-logo="https://freeshot.live/upload/source/MTV-logo.png" group-title="FreeShot United Kingdom",MTV UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MTVUK
+http://cdn.tv-rds.workers.dev/MTVUK.m3u8
 #EXTINF:-1 tvg-name="ITV4 UK" tvg-logo="https://freeshot.live/upload/source/ITV4-logo.png" group-title="FreeShot United Kingdom",ITV4 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ITV4
+http://cdn.tv-rds.workers.dev/ITV4.m3u8
 #EXTINF:-1 tvg-name="ITV3 UK" tvg-logo="https://freeshot.live/upload/source/ITV3-logo.png" group-title="FreeShot United Kingdom",ITV3 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ITV3
+http://cdn.tv-rds.workers.dev/ITV3.m3u8
 #EXTINF:-1 tvg-name="ITV2 UK" tvg-logo="https://freeshot.live/upload/source/ITV2-logo.png" group-title="FreeShot United Kingdom",ITV2 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ITV2
+http://cdn.tv-rds.workers.dev/ITV2.m3u8
 #EXTINF:-1 tvg-name="ITV1 UK" tvg-logo="https://freeshot.live/upload/source/ITV1-logo.png" group-title="FreeShot United Kingdom",ITV1 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ITV1
+http://cdn.tv-rds.workers.dev/ITV1.m3u8
 #EXTINF:-1 tvg-name="BBC Three UK" tvg-logo="https://freeshot.live/upload/source/BBCThree-logo.png" group-title="FreeShot United Kingdom",BBC Three UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BBCThreeUK
+http://cdn.tv-rds.workers.dev/BBCThreeUK.m3u8
 #EXTINF:-1 tvg-name="BBC Two UK" tvg-logo="https://freeshot.live/upload/source/BBCTwo-logo.png" group-title="FreeShot United Kingdom",BBC Two UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BBCTwoUK
+http://cdn.tv-rds.workers.dev/BBCTwoUK.m3u8
 #EXTINF:-1 tvg-name="BBC One UK" tvg-logo="https://freeshot.live/upload/source/BBCone-logo.png" group-title="FreeShot United Kingdom",BBC One UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BBConeUK
+http://cdn.tv-rds.workers.dev/BBConeUK.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Tennis UK" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png" group-title="FreeShot United Kingdom",Sky Sports Tennis UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsTennisUK
+http://cdn.tv-rds.workers.dev/SkySportsTennisUK.m3u8
 #EXTINF:-1 tvg-name="Horse and Country" tvg-logo="https://freeshot.live/upload/source/HorseandCountry-logo.png" group-title="FreeShot United Kingdom",Horse and Country
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=HorseandCountry
+http://cdn.tv-rds.workers.dev/HorseandCountry.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://freeshot.live/upload/source/Sky_news_logo.png" group-title="FreeShot United Kingdom",Sky News
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyNews
+http://cdn.tv-rds.workers.dev/SkyNews.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV UK" tvg-logo="https://freeshot.live/upload/source/realmadrid-tv-logo.png" group-title="FreeShot United Kingdom",Real Madrid TV UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RealMadridTVUK
+http://cdn.tv-rds.workers.dev/RealMadridTVUK.m3u8
 #EXTINF:-1 tvg-name="LFCTV UK" tvg-logo="https://freeshot.live/upload/source/LFCTV_logo.png" group-title="FreeShot United Kingdom",LFCTV UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=LFCTV
+http://cdn.tv-rds.workers.dev/LFCTV.m3u8
 #EXTINF:-1 tvg-name="Racing TV UK" tvg-logo="https://freeshot.live/upload/source/RacingTV-logo.png" group-title="FreeShot United Kingdom",Racing TV UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=RacingTV
+http://cdn.tv-rds.workers.dev/RacingTV.m3u8
 #EXTINF:-1 tvg-name="La Liga TV UK" tvg-logo="https://freeshot.live/upload/source/LaLigaTV-logo.png" group-title="FreeShot United Kingdom",La Liga TV UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=LaLigaTVUK
+http://cdn.tv-rds.workers.dev/LaLigaTVUK.m3u8
 #EXTINF:-1 tvg-name="Premier Sports 2 UK" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png" group-title="FreeShot United Kingdom",Premier Sports 2 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PremierSports2
+http://cdn.tv-rds.workers.dev/PremierSports2.m3u8
 #EXTINF:-1 tvg-name="Premier Sports 1 UK" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png" group-title="FreeShot United Kingdom",Premier Sports 1 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=PremierSports1
+http://cdn.tv-rds.workers.dev/PremierSports1.m3u8
 #EXTINF:-1 tvg-name="Sky Sports NFL" tvg-logo="https://freeshot.live/upload/source/sky-sports-NFL-logo.png" group-title="FreeShot United Kingdom",Sky Sports NFL
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsNFL
+http://cdn.tv-rds.workers.dev/SkySportsNFL.m3u8
 #EXTINF:-1 tvg-name="Free Sports" tvg-logo="https://freeshot.live/upload/source/FreeSports-logo.png" group-title="FreeShot United Kingdom",Free Sports
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FreeSports
+http://cdn.tv-rds.workers.dev/FreeSports.m3u8
 #EXTINF:-1 tvg-name="Motor Racing" tvg-logo="https://freeshot.live/upload/source/MotorsTV-logo.png" group-title="FreeShot United Kingdom",Motor Racing
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MotorRacing
+http://cdn.tv-rds.workers.dev/MotorRacing.m3u8
 #EXTINF:-1 tvg-name="U&amp;Dave UK" tvg-logo="https://freeshot.live/upload/source/Dave-UK-logo.png" group-title="FreeShot United Kingdom",U&amp;Dave UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Dave
+http://cdn.tv-rds.workers.dev/Dave.m3u8
 #EXTINF:-1 tvg-name="MUTV UK" tvg-logo="https://freeshot.live/upload/source/MUTV-logo.png" group-title="FreeShot United Kingdom",MUTV UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=MUTV
+http://cdn.tv-rds.workers.dev/MUTV.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Racing UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-racing-logo.png" group-title="FreeShot United Kingdom",Sky Sports Racing UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsRacing
+http://cdn.tv-rds.workers.dev/SkySportsRacing.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 UK" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="FreeShot United Kingdom",EUROSPORT 2 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport2UK
+http://cdn.tv-rds.workers.dev/Eurosport2UK.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 UK" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="FreeShot United Kingdom",EUROSPORT 1 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Eurosport1UK
+http://cdn.tv-rds.workers.dev/Eurosport1UK.m3u8
 #EXTINF:-1 tvg-name="Sky Atlantic UK" tvg-logo="https://freeshot.live/upload/source/Sky-Atlantic_logo.png" group-title="FreeShot United Kingdom",Sky Atlantic UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkyAtlanticUK
+http://cdn.tv-rds.workers.dev/SkyAtlanticUK.m3u8
 #EXTINF:-1 tvg-name="Sky Sports LaLiga UK" tvg-logo="https://freeshot.live/upload/source/SkySportsLaLiga-logo.png" group-title="FreeShot United Kingdom",Sky Sports LaLiga UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsLaLigaUK
+http://cdn.tv-rds.workers.dev/SkySportsLaLigaUK.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Mix UK" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Mix-Logo.png" group-title="FreeShot United Kingdom",Sky Sports Mix UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportMix
+http://cdn.tv-rds.workers.dev/SkySportMix.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Plus UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-plus-logo.png" group-title="FreeShot United Kingdom",Sky Sports Plus UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsPlus
+http://cdn.tv-rds.workers.dev/SkySportsPlus.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Action_logo.png" group-title="FreeShot United Kingdom",Sky Sports Action UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportAction
+http://cdn.tv-rds.workers.dev/SkySportAction.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Cricket UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-cricket-logo.png" group-title="FreeShot United Kingdom",Sky Sports Cricket UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsCricket
+http://cdn.tv-rds.workers.dev/SkySportsCricket.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Golf-Logo.png" group-title="FreeShot United Kingdom",Sky Sports Golf UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportGolf
+http://cdn.tv-rds.workers.dev/SkySportGolf.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="FreeShot United Kingdom",Sky Sports F1 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportF1
+http://cdn.tv-rds.workers.dev/SkySportF1.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Premier League UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="FreeShot United Kingdom",Sky Sports Premier League UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsPremierLeague
+http://cdn.tv-rds.workers.dev/SkySportsPremierLeague.m3u8
 #EXTINF:-1 tvg-name="Sky Sports News UK" tvg-logo="https://freeshot.live/upload/source/sky_sport-news-logo.png" group-title="FreeShot United Kingdom",Sky Sports News UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsNews
+http://cdn.tv-rds.workers.dev/SkySportsNews.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Main Event Live UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png" group-title="FreeShot United Kingdom",Sky Sports Main Event Live UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsMainEvent
+http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-football-logo.png" group-title="FreeShot United Kingdom",Sky Sports Football UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SkySportsFootball
+http://cdn.tv-rds.workers.dev/SkySportsFootball.m3u8
 #EXTINF:-1 tvg-name="TNT SPORTS 4 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-4-logo.png" group-title="FreeShot United Kingdom",TNT SPORTS 4 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BTSPORT4UK
+http://cdn.tv-rds.workers.dev/BTSPORT4UK.m3u8
 #EXTINF:-1 tvg-name="TNT SPORTS 3 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-3-logo.png" group-title="FreeShot United Kingdom",TNT SPORTS 3 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BTSPORT3UK
+http://cdn.tv-rds.workers.dev/BTSPORT3UK.m3u8
 #EXTINF:-1 tvg-name="TNT SPORTS 2 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-2-logo.png" group-title="FreeShot United Kingdom",TNT SPORTS 2 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BTSPORT2UK
+http://cdn.tv-rds.workers.dev/BTSPORT2UK.m3u8
 #EXTINF:-1 tvg-name="TNT SPORTS 1 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-1-logo.png" group-title="FreeShot United Kingdom",TNT SPORTS 1 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BTSPORT1UK
+http://cdn.tv-rds.workers.dev/BTSPORT1UK.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 2 UK" tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="FreeShot United Kingdom",beIN SPORTS 2 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS2EN
+http://cdn.tv-rds.workers.dev/beINSPORTS2EN.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 1 UK" tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="FreeShot United Kingdom",beIN SPORTS 1 UK
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=beINSPORTS1EN
+http://cdn.tv-rds.workers.dev/beINSPORTS1EN.m3u8
 #EXTINF:-1 tvg-name="SYFY USA" tvg-logo="https://freeshot.live/upload/source/Syfy-logo.png" group-title="FreeShot USA",SYFY USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SYFYUSA
+http://cdn.tv-rds.workers.dev/SYFYUSA.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://freeshot.live/upload/source/Nickelodeon-logo.png" group-title="FreeShot USA",Nickelodeon
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Nickelodeon
+http://cdn.tv-rds.workers.dev/Nickelodeon.m3u8
 #EXTINF:-1 tvg-name="HLN" tvg-logo="https://freeshot.live/upload/source/HLN-logo.png" group-title="FreeShot USA",HLN
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=HLN
+http://cdn.tv-rds.workers.dev/HLN.m3u8
 #EXTINF:-1 tvg-name="TLC USA" tvg-logo="https://freeshot.live/upload/source/TLC-logo.png" group-title="FreeShot USA",TLC USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TLC
+http://cdn.tv-rds.workers.dev/TLC.m3u8
 #EXTINF:-1 tvg-name="Bravo" tvg-logo="https://freeshot.live/upload/source/Bravo-logo.png" group-title="FreeShot USA",Bravo
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BravoTV
+http://cdn.tv-rds.workers.dev/BravoTV.m3u8
 #EXTINF:-1 tvg-name="UniMás" tvg-logo="https://freeshot.live/upload/source/UniMas-logo.png" group-title="FreeShot USA",UniMás
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=UniMas
+http://cdn.tv-rds.workers.dev/UniMas.m3u8
 #EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://freeshot.live/upload/source/Telemundo-logo.png" group-title="FreeShot USA",Telemundo
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Telemundo
+http://cdn.tv-rds.workers.dev/Telemundo.m3u8
 #EXTINF:-1 tvg-name="ESPNU USA" tvg-logo="https://freeshot.live/upload/source/ESPNU-logo.png" group-title="FreeShot USA",ESPNU USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPNUUSA
+http://cdn.tv-rds.workers.dev/ESPNUUSA.m3u8
 #EXTINF:-1 tvg-name="AMC USA" tvg-logo="https://freeshot.live/upload/source/AMC-logo.png" group-title="FreeShot USA",AMC USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=AMCUSA
-#EXTINF:-1 tvg-name="A&amp;E" tvg-logo="https://freeshot.live/upload/source/TV-Network-logo.png" group-title="FreeShot USA",A&amp;E
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TV-network
+http://cdn.tv-rds.workers.dev/AMCUSA.m3u8
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://freeshot.live/upload/source/TV-Network-logo.png" group-title="FreeShot USA",A&E
+http://cdn.tv-rds.workers.dev/TV-network.m3u8
 #EXTINF:-1 tvg-name="Freeform" tvg-logo="https://freeshot.live/upload/source/Freeform-logo.png" group-title="FreeShot USA",Freeform
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=Freeform
+http://cdn.tv-rds.workers.dev/Freeform.m3u8
 #EXTINF:-1 tvg-name="Animal Planet USA" tvg-logo="https://freeshot.live/upload/source/Animal-Planet-logo.png" group-title="FreeShot USA",Animal Planet USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=AnimalPlanet
+http://cdn.tv-rds.workers.dev/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-name="Hallmark Channel" tvg-logo="https://freeshot.live/upload/source/HallmarkChannel-logo.png" group-title="FreeShot USA",Hallmark Channel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=HallmarkChannel
+http://cdn.tv-rds.workers.dev/HallmarkChannel.m3u8
 #EXTINF:-1 tvg-name="Game Show Network" tvg-logo="https://freeshot.live/upload/source/GameShowNetwork-logo.png" group-title="FreeShot USA",Game Show Network
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=GameShowNetwork
+http://cdn.tv-rds.workers.dev/GameShowNetwork.m3u8
 #EXTINF:-1 tvg-name="Oprah Winfrey Network" tvg-logo="https://freeshot.live/upload/source/OprahWinfreyNetwork-logo.png" group-title="FreeShot USA",Oprah Winfrey Network
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=OprahWinfreyNetwork
+http://cdn.tv-rds.workers.dev/OprahWinfreyNetwork.m3u8
 #EXTINF:-1 tvg-name="Lifetime Movie Network" tvg-logo="https://freeshot.live/upload/source/LMN-logo.png" group-title="FreeShot USA",Lifetime Movie Network
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=LMN
+http://cdn.tv-rds.workers.dev/LMN.m3u8
 #EXTINF:-1 tvg-name="The Weather Channel" tvg-logo="https://freeshot.live/upload/source/The_Weather_Channel-logo.png" group-title="FreeShot USA",The Weather Channel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TheWeatherChannel
+http://cdn.tv-rds.workers.dev/TheWeatherChannel.m3u8
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://freeshot.live/upload/source/HGTV-logo.png" group-title="FreeShot USA",HGTV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=HGTV
+http://cdn.tv-rds.workers.dev/HGTV.m3u8
 #EXTINF:-1 tvg-name="Fox News" tvg-logo="https://freeshot.live/upload/source/FOXNews-logo.png" group-title="FreeShot USA",Fox News
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FOXNews
+http://cdn.tv-rds.workers.dev/FOXNews.m3u8
 #EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://freeshot.live/upload/source/cbs_sports_network-logo.png" group-title="FreeShot USA",CBS Sports Network
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CBS-SportsNetwork
+http://cdn.tv-rds.workers.dev/CBS-SportsNetwork.m3u8
 #EXTINF:-1 tvg-name="Willow Xtra" tvg-logo="https://freeshot.live/upload/source/WillowXtra-logo.png" group-title="FreeShot USA",Willow Xtra
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=WillowExtra
+http://cdn.tv-rds.workers.dev/WillowExtra.m3u8
 #EXTINF:-1 tvg-name="Fox Soccer Plus" tvg-logo="https://freeshot.live/upload/source/FoxSoccerPlus.png" group-title="FreeShot USA",Fox Soccer Plus
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FoxSoccerPlus
+http://cdn.tv-rds.workers.dev/FoxSoccerPlus.m3u8
 #EXTINF:-1 tvg-name="NBC Golf" tvg-logo="https://freeshot.live/upload/source/NBCGolf-logo.png" group-title="FreeShot USA",NBC Golf
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NBCGolf
+http://cdn.tv-rds.workers.dev/NBCGolf.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel +1" tvg-logo="https://freeshot.live/upload/source/Tennis_Channel-logo.png" group-title="FreeShot USA",Tennis Channel +1
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TennisChannel+1
+http://cdn.tv-rds.workers.dev/TennisChannel+1.m3u8
 #EXTINF:-1 tvg-name="SEC ESPN USA" tvg-logo="https://freeshot.live/upload/source/SEC-ESPN-Network-logo.png" group-title="FreeShot USA",SEC ESPN USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=SEC-ESPN-Network
+http://cdn.tv-rds.workers.dev/SEC-ESPN-Network.m3u8
 #EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="https://freeshot.live/upload/source/Fox-Deportes-logo.png" group-title="FreeShot USA",FOX DEPORTES
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FoxDeportes
+http://cdn.tv-rds.workers.dev/FoxDeportes.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://freeshot.live/upload/source/Tennis_Channel-logo.png" group-title="FreeShot USA",Tennis Channel
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=TennisChannel
+http://cdn.tv-rds.workers.dev/TennisChannel.m3u8
 #EXTINF:-1 tvg-name="WWE Network USA" tvg-logo="https://freeshot.live/upload/source/WWE-channel-logo.png" group-title="FreeShot USA",WWE Network USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=WWETV
+http://cdn.tv-rds.workers.dev/WWETV.m3u8
 #EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://freeshot.live/upload/source/Willow_Cricket_logo.png" group-title="FreeShot USA",Willow Cricket
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=WillowCricket
+http://cdn.tv-rds.workers.dev/WillowCricket.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://freeshot.live/upload/source/NBA-TV-logo.png" group-title="FreeShot USA",NBA TV
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=NBATVUSA
+http://cdn.tv-rds.workers.dev/NBATVUSA.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports USA" tvg-logo="https://freeshot.live/upload/source/bein-sports-USA-logo.png" group-title="FreeShot USA",BeIN Sports USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=BeINSportsUSA
+http://cdn.tv-rds.workers.dev/BeINSportsUSA.m3u8
 #EXTINF:-1 tvg-name="CNN USA" tvg-logo="https://freeshot.live/upload/source/CNN-logo.png" group-title="FreeShot USA",CNN USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=CNNUSA
+http://cdn.tv-rds.workers.dev/CNNUSA.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS 2 USA" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-2-logo.png" group-title="FreeShot USA",FOX SPORTS 2 USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FOXSPORTS2USA
+http://cdn.tv-rds.workers.dev/FOXSPORTS2USA.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS 1 USA" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-1.png" group-title="FreeShot USA",FOX SPORTS 1 USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=FOXSPORTS1USA
+http://cdn.tv-rds.workers.dev/FOXSPORTS1USA.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 USA" tvg-logo="https://freeshot.live/upload/source/ESPN-2-USA-logo.png" group-title="FreeShot USA",ESPN 2 USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPN2USA
+http://cdn.tv-rds.workers.dev/ESPN2USA.m3u8
 #EXTINF:-1 tvg-name="ESPN USA" tvg-logo="https://freeshot.live/upload/source/ESPN-USA-logo.png" group-title="FreeShot USA",ESPN USA
-http://script.google.com/macros/s/AKfycbzKu2FcKjnemstnPgnjuK1Yi7kdCAo4W6DsRnIuZT-rtV-hR783BOAunCVxPv8kLAFkAQ/exec?ID=ESPNUSA
+http://cdn.tv-rds.workers.dev/ESPNUSA.m3u8
