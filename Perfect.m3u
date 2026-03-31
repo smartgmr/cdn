@@ -5999,3 +5999,195 @@ http://cdn.tv-rds.workers.dev/FOXSPORTS1USA.m3u8
 http://cdn.tv-rds.workers.dev/ESPN2USA.m3u8
 #EXTINF:-1 tvg-name="ESPN USA" tvg-logo="https://freeshot.live/upload/source/ESPN-USA-logo.png" group-title="FreeShot USA",ESPN USA
 http://cdn.tv-rds.workers.dev/ESPNUSA.m3u8
+#EXTINF:-1 group-title="AmazerTV" tvg-name="ETV" tvg-logo="https://amazertv.com/assets/img/channels/channel_etv.png",ETV
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=etv&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Kanal2" tvg-logo="https://amazertv.com/assets/img/channels/channel_kanal2.png",Kanal2
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=kanal2&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TV3" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv3.png",TV3
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tv3&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TV6" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv6.png",TV6
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tv6&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="ETV2" tvg-logo="https://amazertv.com/assets/img/channels/channel_etv2.png",ETV2
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=etv2&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="ETV+ HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_etvplusshd.png",ETV+ HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=etvplusshd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Duo4" tvg-logo="https://amazertv.com/assets/img/channels/channel_kanal11.png",Duo4
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=kanal11&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Duo5" tvg-logo="https://amazertv.com/assets/img/channels/channel_kanal12.png",Duo5
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=kanal12&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Eesti Kanal" tvg-logo="https://amazertv.com/assets/img/channels/channel_eestikanal.png",Eesti Kanal
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=eestikanal&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TV3 life" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv3life.png",TV3 life
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tv3life&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="FOX" tvg-logo="https://amazertv.com/assets/img/channels/channel_fox.png",FOX
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=fox&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Foxlife" tvg-logo="https://amazertv.com/assets/img/channels/channel_foxlife.png",Foxlife
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=foxlife&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="DUO 3" tvg-logo="https://amazertv.com/assets/img/channels/channel_sony.png",DUO 3
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=sony&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="DUO 6" tvg-logo="https://amazertv.com/assets/img/channels/channel_sonyturbo.png",DUO 6
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=sonyturbo&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Movies Witness HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymovieswitnesshd.png",Sky Movies Witness HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skymovieswitnesshd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Viasat nature" tvg-logo="https://amazertv.com/assets/img/channels/channel_viasatnature.png",Viasat nature
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=viasatnature&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="History" tvg-logo="https://amazertv.com/assets/img/channels/channel_history.png",History
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=historyhd&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Discovery" tvg-logo="https://amazertv.com/assets/img/channels/channel_discovery.png",Discovery
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=discovery&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Investigation Discovery" tvg-logo="https://amazertv.com/assets/img/channels/channel_investigation.png",Investigation Discovery
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=investigation&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Crime+Inv HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_crimeplusinvhd.png",Crime+Inv HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=crimeplusinvhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Tlc" tvg-logo="https://amazertv.com/assets/img/channels/channel_tlc.png",Tlc
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tlc&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Animal Planet" tvg-logo="https://amazertv.com/assets/img/channels/channel_animal.png",Animal Planet
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=animalhd&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="National Geo" tvg-logo="https://amazertv.com/assets/img/channels/channel_nationalgeo.png",National Geo
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=nationalgeo&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Viasat History" tvg-logo="https://amazertv.com/assets/img/channels/channel_viahistory.png",Viasat History
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=viahistory&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Viasat Explore" tvg-logo="https://amazertv.com/assets/img/channels/channel_viaexplore.png",Viasat Explore
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=viaexplore&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Smartzone" tvg-logo="https://amazertv.com/assets/img/channels/channel_smartzone.png",Smartzone
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=smartzone&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Pingviiniukas" tvg-logo="https://amazertv.com/assets/img/channels/channel_pingviiniukas.png",Pingviiniukas
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=pingviiniukas&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="BabyTV" tvg-logo="https://amazertv.com/assets/img/channels/channel_babytv.png",BabyTV
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=babytv&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="SKY SHOWCASE FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skyshowcasehd.png",SKY SHOWCASE FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skyshowcasehd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="PREMIER SPORT 1 FHD (UK)" tvg-logo="https://amazertv.com/assets/img/channels/channel_premiersport1hd.png",PREMIER SPORT 1 FHD (UK)
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=premiersport1hd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="PREMIER SPORT 2 FHD (UK)" tvg-logo="https://amazertv.com/assets/img/channels/channel_premiersport2hd.png",PREMIER SPORT 2 FHD (UK)
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=premiersport2hd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skysportscrickethd.png",SKY SPORTS CRICKET HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skysportscrickethd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="CBBC FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_cbbchd.png",CBBC FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=cbbchd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="CNN" tvg-logo="https://amazertv.com/assets/img/channels/channel_cnn.png",CNN
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=cnn&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="CNBC Europe HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_cnbceuropehd.png",CNBC Europe HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=cnbceuropehd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Euronews HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_euronewshd.png",Euronews HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=euronewshd&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="BBC" tvg-logo="https://amazertv.com/assets/img/channels/channel_bbc.png",BBC
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=bbc&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Kidzone Mini HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_kidzoneminihd.png",Kidzone Mini HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=kidzoneminihd&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Nickelodeon" tvg-logo="https://amazertv.com/assets/img/channels/channel_nickelodeon.png",Nickelodeon
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=nickelodeon&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Cartoon Network" tvg-logo="https://amazertv.com/assets/img/channels/channel_cartoon.png",Cartoon Network
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=cartoon&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="CBeebies HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_cbeebieshd.png",CBeebies HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=cbeebieshd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Disney Channel" tvg-logo="https://amazertv.com/assets/img/channels/channel_disneychannel.png",Disney Channel
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=disneychannel&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Disney Junior" tvg-logo="https://amazertv.com/assets/img/channels/channel_disneyjunior.png",Disney Junior
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=disneyjunior&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Kids" tvg-logo="https://amazertv.com/assets/img/channels/channel_skykidsfhd.png",Sky Kids
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skykidsfhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Nick Jr" tvg-logo="https://amazertv.com/assets/img/channels/channel_nickjrfhd.png",Nick Jr
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=nickjrfhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Boomerang FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_boomerangfhd.png",Boomerang FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=boomerangfhd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Filmzone" tvg-logo="https://amazertv.com/assets/img/channels/channel_filmzone.png",Filmzone
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=filmzone&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Filmzone+" tvg-logo="https://amazertv.com/assets/img/channels/channel_filmzoneplus.png",Filmzone+
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=filmzoneplus&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TV1000" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv1000.png",TV1000
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tv1000&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TV1000 Action" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv1000action.png",TV1000 Action
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tv1000action&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TV1000 Premium" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv1000premium.png",TV1000 Premium
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tv1000premium&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TV1000 World Kino" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv1000russiakino.png",TV1000 World Kino
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tv1000russiakino&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky History FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skyhistoryfhd.png",Sky History FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skyhistoryfhd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky History H2 FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skyhistoryh2fhd.png",Sky History H2 FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skyhistoryh2fhd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Documentaries FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skydocumentariesfhd.png",Sky Documentaries FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skydocumentariesfhd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Cinema Greats FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skycinemagreatsfhd.png",Sky Cinema Greats FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skycinemagreatsfhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Cinema Animation" tvg-logo="https://amazertv.com/assets/img/channels/channel_skycinemaanimationhd.png",Sky Cinema Animation
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skycinemaanimationhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Movies Drama HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviesdramahd.png",Sky Movies Drama HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skymoviesdramahd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Movies Hits HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymovieshitshd.png",Sky Movies Hits HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skymovieshitshd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Movies Premiere HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviespremierehd.png",Sky Movies Premiere HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skymoviespremierehd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Movies SciFi & Hor HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviesscifihd.png",Sky Movies SciFi & Hor HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skymoviesscifihd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Movies Thriller HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviesthrillerhd.png",Sky Movies Thriller HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skymoviesthrillerhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Movies Action HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviesactiondhd.png",Sky Movies Action HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skymoviesactiondhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TVPlay Sports" tvg-logo="https://amazertv.com/assets/img/channels/channel_viasatsportbaltic.png",TVPlay Sports
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=viasatsportbaltic&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TVPlay Sports Plus HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_tvplaysportsplushd.png",TVPlay Sports Plus HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tvplaysportsplushd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Eurosport" tvg-logo="https://amazertv.com/assets/img/channels/channel_eurosport1.png",Eurosport
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=eurosport1hd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Eurosport2" tvg-logo="https://amazertv.com/assets/img/channels/channel_eurosport2.png",Eurosport2
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=eurosport2&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Sports Mix HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skysportsmixhd.png",Sky Sports Mix HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skysportsmixhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Sports Premier League HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skyportspremierleaguehd.png",Sky Sports Premier League HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skyportspremierleaguehd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Sports Golf HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skysportsgolfhd.png",Sky Sports Golf HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skysportsgolfhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Sports F1 HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skysportsf1hd.png",Sky Sports F1 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skysportsf1hd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TNT SPORTS 1 FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_btsports1hd.png",TNT SPORTS 1 FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=btsports1hd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TNT SPORTS 2 FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_btsports2hd.png",TNT SPORTS 2 FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=btsports2hd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TNT SPORTS 3 FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_btsports3hd.png",TNT SPORTS 3 FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=btsports3hd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TNT SPORTS ESPN FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_btsportsespnhd.png",TNT SPORTS ESPN FHD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=btsportsespnhd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Channel 4 HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_channel4hd.png",Channel 4 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=channel4hd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="MTV Rocks" tvg-logo="https://amazertv.com/assets/img/channels/channel_mtvrocks.png",MTV Rocks
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=mtvrocks&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="MTV Europe" tvg-logo="https://amazertv.com/assets/img/channels/channel_mtveurope.png",MTV Europe
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=mtveurope&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="MTV Club" tvg-logo="https://amazertv.com/assets/img/channels/channel_clubmtv.png",MTV Club
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=clubmtv&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="MyHits HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_myhitshd.png",MyHits HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=myhitshd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Pro 7" tvg-logo="https://amazertv.com/assets/img/channels/channel_pro7.png",Pro 7
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=pro7&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Yle TV 1" tvg-logo="https://amazertv.com/assets/img/channels/channel_yletv1.png",Yle TV 1
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=yletv1&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Yle TV 2" tvg-logo="https://amazertv.com/assets/img/channels/channel_yletv2.png",Yle TV 2
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=yletv2&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Film4 HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_film4hd.png",Film4 HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=film4hd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="BBC One HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_bbconehd.png",BBC One HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=bbconehd&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="BBC Two HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_bbctwohd.png",BBC Two HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=bbctwohd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Dave HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_davehd.png",Dave HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=davehd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="GOLD HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_goldhd.png",GOLD HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=goldhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="ComedyCentral HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_comedycentralhd.png",ComedyCentral HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=comedycentralhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Sky Comedy HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skycomedyhd.png",Sky Comedy HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=skycomedyhd&CDN=5
+#EXTINF:-1 group-title="AmazerTV" tvg-name="TV3 plus HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv3plushd.png",TV3 plus HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=tv3plushd&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="1+2" tvg-logo="https://amazertv.com/assets/img/channels/channel_1plus2.png",1+2
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=1plus2&CDN=1
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Private TV" tvg-logo="https://amazertv.com/assets/img/channels/channel_privatetv.png",Private TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=privatetv&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Brazzers TV" tvg-logo="https://amazertv.com/assets/img/channels/channel_brazzerstv.png",Brazzers TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=brazzerstv&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Hustler TV" tvg-logo="https://amazertv.com/assets/img/channels/channel_hustlertv.png",Hustler TV
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=hustlertv&CDN=2
+#EXTINF:-1 group-title="AmazerTV" tvg-name="Vivid RED HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_vividredhd.png",Vivid RED HD
+http://schedule-statutory-latex-colored.trycloudflare.com/Amazer.php?ID=vividredhd&CDN=2
